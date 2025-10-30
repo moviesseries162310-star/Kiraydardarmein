@@ -1,0 +1,311 @@
+[
+  {
+    "id": "gdrive:1gEENauBkoV9PpC_Q0bWQxA4vyMotIIv9",
+    "type": "movie",
+    "name": "Ground Zero",
+    "poster": "https://image.tmdb.org/t/p/w500/x5YK8MkjL1vVsXxnGWifEOK2tJl.jpg",
+    "description": "An Indian army officer embarks on a mission leading to India’s most successful counter-terrorism operation in history.",
+    "background": "https://image.tmdb.org/t/p/w1280/bhJT9N8Z4dORg8wsb9XleD5vaah.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:15cJzsKpUPycXLsWi2mOYBRFUjP7qltSj",
+    "type": "movie",
+    "name": "Rush",
+    "poster": "https://image.tmdb.org/t/p/w500/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+    "description": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory — until a horrible accident threatens to end it all.",
+    "background": "https://image.tmdb.org/t/p/w1280/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive:1gsxCzZOUJM77jIcaNcktLv0PnPV0hFYM",
+    "type": "movie",
+    "name": "Ek Thi Daayan",
+    "poster": "https://image.tmdb.org/t/p/w500/i0GKZCeNJD7VHk3pCtWTVvZ8lEz.jpg",
+    "description": "A popular magician seeks help from a psychiatrist to protect him from a witch that has haunted him since childhood.",
+    "background": "https://image.tmdb.org/t/p/w1280/gEjpVXVEG2f2S5CoXG8u3tuQpRM.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1U_1-aWiazMXQzDQ9scLUfLo4lv4PvSov",
+    "type": "movie",
+    "name": "Good Boy, Bad Boy",
+    "poster": "https://image.tmdb.org/t/p/w500/mNXjhPcHC5XBVJlSjfhmCdKYAPb.jpg",
+    "description": "Two college students exchange their classes after the college management mixed their identical names by mistake.",
+    "background": "https://image.tmdb.org/t/p/w1280/z5fpmZjuLoxOyFKt0NWbKJhLRl6.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "4.5"
+  },
+  {
+    "id": "gdrive:1m9zj9eVSyayeOiln74_mpU3gHYOh_Usl",
+    "type": "movie",
+    "name": "Aksar",
+    "poster": "https://image.tmdb.org/t/p/w500/nNgA58yyd3tO5e3ti1MocKygKhn.jpg",
+    "description": "A love triangle where everybody is blackmailing the other two gets a nasty upset when one of them is suddenly found murdered.",
+    "background": "https://image.tmdb.org/t/p/w1280/ihYxm5NKuWPkFL9xOE6nwRQMiKN.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive:1gB-ivqiCln0DjWnD7dgl-lOEyr05EFbP",
+    "type": "movie",
+    "name": "Mr. X",
+    "poster": "https://image.tmdb.org/t/p/w500/uNaJnX3LDy6E2HvR50mgQ53Qvu2.jpg",
+    "description": "After an explosion at a chemical factory gives him the power of invisibility, a former officer of the law becomes a vigilante in order to take revenge on those who have wronged him.",
+    "background": "https://image.tmdb.org/t/p/w1280/nfigXYjs8j1Esmfo7ha2jGvxI2A.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1RqZ8rlbXDs7u70kU8dPf_bGYl94_fnXz",
+    "type": "movie",
+    "name": "Dybbuk",
+    "poster": "https://image.tmdb.org/t/p/w500/sy0u4UEzMxrj7G79LMQWcuO15kt.jpg",
+    "description": "Mahi, a newly married woman, brings an antique Jewish box into her home. When Mahi and her husband Sam begin to have paranormal experiences, they soon learn that the box is a dybbuk containing an evil spirit. The couple then seeks the help of a rabbi to unravel its mystery. Will they survive this ordeal before their child is born?",
+    "background": "https://image.tmdb.org/t/p/w1280/aWoinUH9xn78YTiPp8NFubBtBvF.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:1ol4ZxhCjHeQ6-WVrEwWvVSsPpKapKWiR",
+    "type": "movie",
+    "name": "Azhar",
+    "poster": "https://image.tmdb.org/t/p/w500/jwvpI85cqfVfs3ioFHu4invTLeI.jpg",
+    "description": "The famous and idolized Indian cricketer Mohammad Azharuddin, known as Azhar, faces in court those who accuse him of match-fixing in exchange for large sums of money during the national team's tour of South Africa.",
+    "background": "https://image.tmdb.org/t/p/w1280/6X5UsOSSdUR2MRCbHGFdMiaGzNK.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1e5Bv-8zQWUrlFWhksc9cnJM7JcHrOP8U",
+    "type": "movie",
+    "name": "Jawani Diwani",
+    "poster": "https://image.tmdb.org/t/p/w500/cGAuF3SaY1FbZQGIcYu7zfsEArD.jpg",
+    "description": "Madhu marries Ravi Anand, the son of a mere employee in her Thakur brother's household, and this results in her brother breaking all relations with her. Madhu moves in with Ravi, and his younger brother, Vijay. Years later, she gives birth to a son, and attempts to reconcile with her brother, to no avail. Then Vijay meets Neeta and both fall in love. Little does Vijay know that Neeta is none other Thakur's daughter, who has already been promised to Benny Sinha.",
+    "released": "1972-01-01",
+    "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1EVLfY_uuW1boxIwgAn98mid4eZQsLJTK",
+    "type": "movie",
+    "name": "Shanghai",
+    "poster": "https://image.tmdb.org/t/p/w500/i1SwP8KqOIKtu5V2i2IjXNm2dVy.jpg",
+    "description": "Prime leader of a campaign against a big government project is killed in what appears to be a road accident. An IAS officer is ordered to probe the incident and the veils of falsehood begin to drop.",
+    "background": "https://image.tmdb.org/t/p/w1280/hkkbP02FiHJRCv9UOhBz3r5lVHM.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1LGnSircxJI11VQhs5j9Bhdk4a1AqMQSx",
+    "type": "movie",
+    "name": "Jannat 2",
+    "poster": "https://image.tmdb.org/t/p/w500/2nQgcZb9hGzU2Dz8cYC5JoxkYBi.jpg",
+    "description": "Sonu Dilli KKC, an illegal arms dealer is chased around by ACP Pratap Raghuvanshi. On the other hand, Sonu falls for Dr Jhanvi Singh Tomar. However, Sonu's life is turned upside-down, when he realises that Dr Jhanvi is the daughter of Mangal Singh Tomar, an illegal arms kingpin. Will Sonu survive the difficult times ahead?",
+    "background": "https://image.tmdb.org/t/p/w1280/w1wVPOqj54DwuwBJFIE34ccclF1.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1UG82yJTg_fPCaQKEYToObabsjtSj3y-I",
+    "type": "movie",
+    "name": "Jannat",
+    "poster": "https://image.tmdb.org/t/p/w500/4QRFa5FjA27hC3ZnHfzAjeTUt0Q.jpg",
+    "description": "A gambler turns into a cricket bookie banking on his sixth sense for the game. But his urge to make quick money pushes him into match-fixing and he loses control of his life and love.",
+    "background": "https://image.tmdb.org/t/p/w1280/lJH4Ml80gkbbyBGTIYVbU64tU5R.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1m4vAlzzTModMGDZs9HGGxeH-fheUDluC",
+    "type": "movie",
+    "name": "Raaz Reboot",
+    "poster": "https://image.tmdb.org/t/p/w500/9S7KOgIFlr2F3Zv6dFK22rIeR1a.jpg",
+    "description": "Newly-weds Rehaan and Shaina move to Romania after the former is offered a job. When Shaina senses paranormal activity around her, she learns that her husband is harbouring a secret from her.",
+    "background": "https://image.tmdb.org/t/p/w1280/r1mVcyEfTR5HZ0g2qxCSZEVp4Ih.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive:1sAtTyjg83rQbPkShvKqiW4sNdft0JRSy",
+    "type": "movie",
+    "name": "Murder",
+    "poster": "https://image.tmdb.org/t/p/w500/j14NjDFy7QQWHDSzfO9EkZvc9ZF.jpg",
+    "description": "To escape a secure but stifling life with her workaholic husband Sudhir, bored housewife Simran begins an affair with Sunny, an ex-boyfriend from her college days. However, when Sudhir grows suspicious and hires a private detective, the infidelity soon comes to light.",
+    "background": "https://image.tmdb.org/t/p/w1280/yYq4WLdTQcGdlOciSgrIdb7yLpq.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "4.9"
+  },
+  {
+    "id": "gdrive:1SUr7BZdBqgbrH0WdEKJgpFG4wk836bc9",
+    "type": "movie",
+    "name": "Dil Diya Hai",
+    "poster": "https://image.tmdb.org/t/p/w500/2SLnIGUDWeYmC0l5xddS3iLvUxG.jpg",
+    "description": "Mr & Mrs Mehra and their 2 daughters travel to London. Travel guide Sahil Khanna helps Neha when she misses a train. She falls in love with him, little knowing that he is about to con her.",
+    "background": "https://image.tmdb.org/t/p/w1280/qylZKohFAlocFzZZVirSjTnWAGQ.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "4.6"
+  },
+  {
+    "id": "gdrive:1uLeHHdRZsz4ClrmiFBZAxXsDIBa8jayD",
+    "type": "movie",
+    "name": "Tum Mile",
+    "poster": "https://image.tmdb.org/t/p/w500/lUp1hFwGpXy7pUYVLfgY1rgCH1J.jpg",
+    "description": "Akshay and Sanjana, two estranged lovers, struggle to stay alive during the floods in Mumbai in 2005 and realise their true destiny during the calamity.",
+    "background": "https://image.tmdb.org/t/p/w1280/rrOpkOl0hCJv2HEc5POUgEcpxAl.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "5.1"
+  },
+  {
+    "id": "gdrive:1GVG-6S5RvndpGtXooonHLHqqVGe0QQbt",
+    "type": "movie",
+    "name": "The Dirty Picture",
+    "poster": "https://image.tmdb.org/t/p/w500/oebs05w6hggeleB0F28uerrzvkq.jpg",
+    "description": "After running away from home in search of movie stardom, a village girl rises to become a prominent sex symbol.",
+    "background": "https://image.tmdb.org/t/p/w1280/vK6s1zlXu72dcxFAXb4zHLoltC0.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1eVLZ7Y0ik5AzeJcgWV4Q0LDSXmEFQ4SF",
+    "type": "movie",
+    "name": "Crook",
+    "poster": "https://image.tmdb.org/t/p/w500/fR6fRSwxEPOKhm4LpYXBUu0duyC.jpg",
+    "description": "Corrupt police and racially motivated attacks against Indian students complicate a re-located crook's life in Australia.",
+    "background": "https://image.tmdb.org/t/p/w1280/nONXiDs9EAfah567KShZeZoDiro.jpg",
+    "released": "2010-01-01",
+    "imdbRating": "4.5"
+  },
+  {
+    "id": "gdrive:1jF-4RNHCLilhnvtMRi_oruZrpq3hqF5T",
+    "type": "movie",
+    "name": "Murder!",
+    "poster": "https://image.tmdb.org/t/p/w500/iu8mee9GciHFgfqG5ifdDOTLw4F.jpg",
+    "description": "When actress Diana Baring is found in a daze beside her colleague’s murdered body, all evidence points to her guilt. During the trial, juror Sir John Menier doubts the verdict, but yields to pressure. Haunted by remorse, he launches his own investigation.",
+    "background": "https://image.tmdb.org/t/p/w1280/PYhykxjFQU3TnlvqoqMrsLTJ8U.jpg",
+    "released": "1930-01-01",
+    "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1v8BodH_gDuOOO6rZiMu5YO5VpL-J_OEh",
+    "type": "movie",
+    "name": "The Killer",
+    "poster": "https://image.tmdb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
+    "description": "After a fateful miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal.",
+    "background": "https://image.tmdb.org/t/p/w1280/mRmRE4RknbL7qKALWQDz64hWKPa.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:1BUiGSLwD3o-JvgIsKi_Hyo6UuhxGDkBX",
+    "type": "movie",
+    "name": "Ghanchakkar",
+    "poster": "https://image.tmdb.org/t/p/w500/8hGSdhi7szg64w5mOqsdGGQdoqm.jpg",
+    "description": "A safe cracker claims he has lost his memory when two criminals come calling for their cut of the bank heist loot.",
+    "background": "https://image.tmdb.org/t/p/w1280/gmfR15AgaxeISYWqTWsIpVsEzb.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1geQqviXtGZ5dUVwH1aY0S9lsMMZrLLqa",
+    "type": "movie",
+    "name": "Raaz",
+    "poster": "https://image.tmdb.org/t/p/w500/6dMZIg4hgc5tF50NbmXYb0yIlrj.jpg",
+    "description": "A couple goes for a vacation to the scenic mountains of Ooty to save their crumbling marriage, but their rented bungalow is occupied by a vengeful spirit that holds a secret.",
+    "background": "https://image.tmdb.org/t/p/w1280/aI11r7LiVtjBXUx1pjv9R4uoLU8.jpg",
+    "released": "2002-01-01",
+    "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1ScyVkEXIdGDwDXOrSWQcabgkC9H9FWuk",
+    "type": "movie",
+    "name": "Raaz: The Mystery Continues...",
+    "poster": "https://image.tmdb.org/t/p/w500/muXsgB3xdW68OEQrKr1MzyPuzBS.jpg",
+    "description": "A beautiful lady turns up in an architect's masterpiece.When he founds that she is real, he realizes that she is haunted and hunted by the reasons they have to find out",
+    "background": "https://image.tmdb.org/t/p/w1280/d8psVebzWfymhP7MAHSey8OHj6v.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1H-iLY1dTvOICJpABYcQFZ2oU-eeA4cih",
+    "type": "movie",
+    "name": "Tumsa Nahin Dekha",
+    "poster": "https://image.tmdb.org/t/p/w500/mF2iw91OJUYdN9dSk4QUIu6wIXx.jpg",
+    "description": "Twenty years ago, Sardar Rajpal killed his brother and fled his hometown with his adopted daughter. Once settled, he asked his estranged wife to send their son on the misleading promise of employment. When two young men with the same name show up, both claiming to be there for the job, a baffled Sardar is forced to work out the imposter and his motive, while his daughter gradually develops a soft spot for one of them.",
+    "background": "https://image.tmdb.org/t/p/w1280/hDbD0tMrAcPu5kW0oyGs96mRf5c.jpg",
+    "released": "1957-01-01",
+    "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:10owY7J5Op7jywaSzxLf2wTGY2UWkOfgq",
+    "type": "movie",
+    "name": "Kalyug",
+    "poster": "https://image.tmdb.org/t/p/w500/zvs6wuMCdn0zTe3U7yeXboiHjin.jpg",
+    "description": "Kunal and Renuka's marital bliss is shattered when a group of people film and upload a video of them being intimate on an adult website. Kunal fights to take them and their illegal racket down.",
+    "background": "https://image.tmdb.org/t/p/w1280/gFZal1ArW2Qy1BGRRkOjAHlKCQ5.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1K2FmBQoKz0kebbh9A7zmesEp1OMpKDA3",
+    "type": "movie",
+    "name": "Zeher",
+    "poster": "https://image.tmdb.org/t/p/w500/ch9QmFsEmCKDvEWrDDY0jYCB8WM.jpg",
+    "description": "Siddharth and Sonia are happily married until Anna walks into Siddharth's life. Things go from bad to worse, when Anna gets killed and Siddharth finds himself sinking in troubled waters.",
+    "background": "https://image.tmdb.org/t/p/w1280/8QXxhlTmbXaDvi1nMFNV8EnwbbW.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "5.1"
+  },
+  {
+    "id": "gdrive:1rzWZHWKmK68Epyl2lIcS7D3xYJv7gUcB",
+    "type": "movie",
+    "name": "Footpath",
+    "poster": "https://image.tmdb.org/t/p/w500/yQQbUMIZNhSksdsJPIZhe8yCLXK.jpg",
+    "description": "Two friends of a man help him avenge his father's death. Years later, he reunites with his friends who have now become criminals. What they don't know, is that he is now an undercover cop.",
+    "background": "https://image.tmdb.org/t/p/w1280/wULrdp5YFm6xgyBV5Zd2iVaSC5S.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "5.1"
+  },
+  {
+    "id": "gdrive:1VGWH6BsD_cwFLU3tS_SE8LrOgOrFJPwR",
+    "type": "movie",
+    "name": "Awarapan",
+    "poster": "https://image.tmdb.org/t/p/w500/yVArEukDbkfNjxsynes4PWI4nlk.jpg",
+    "description": "A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her.",
+    "background": "https://image.tmdb.org/t/p/w1280/hNHvjW48NwXKwncvU8XuTbr210o.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1-uH2u5t87pxpB5AhZVbWfwI2bF3yPxtD",
+    "type": "movie",
+    "name": "Gangster",
+    "poster": "https://image.tmdb.org/t/p/w500/uZzJxx7ETfZVV1rVNKmNVCKaiji.jpg",
+    "description": "An alcoholic barmaid is distraught when her former lover, a notorious gangster, re-enters her life. She is forced to relive painful past experiences and choose between the gangster and a pleasant singer she has found comfort in.",
+    "background": "https://image.tmdb.org/t/p/w1280/Afyi0GsowUlLs39yBStYHti03db.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1HRhBtGw8KUsMyleXItrgk6ny_JVjdXIa",
+    "type": "movie",
+    "name": "Aashiq Banaya Aapne",
+    "poster": "https://image.tmdb.org/t/p/w500/AoK87XkGXwPsUThzWhQGZcxHR0f.jpg",
+    "description": "An introvert is unable to express his feelings to the girl he loves. His friend proposes to her and she accepts, but leaves him when she discovers he is a flirt; however, destiny has other plans.",
+    "background": "https://image.tmdb.org/t/p/w1280/xZnu5uJt0m3Azvg24eE5IqEuQHk.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "4.2"
+  },
+  {
+    "id": "gdrive:1NtLM6VZv2I4XivpFKoR9cl2Zr_-4AUJm",
+    "type": "movie",
+    "name": "Why Cheat India",
+    "poster": "https://image.tmdb.org/t/p/w500/cljRxxAOlmsmt1GOKymbNZNTHBF.jpg",
+    "description": "Rakesh Singh runs a business that allows education scams to flourish in the country. He enrolls bright students into his plan, makes them write proxy exams for students who are unable to score or pass, and then, helps them procure a fake degree.",
+    "background": "https://image.tmdb.org/t/p/w1280/66rQ4zrohYIWYD8mN8J6wm83QOZ.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "5.5"
+  }
+]
