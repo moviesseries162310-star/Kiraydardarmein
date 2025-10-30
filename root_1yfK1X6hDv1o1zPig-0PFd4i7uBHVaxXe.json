@@ -161,11 +161,11 @@
   {
     "id": "gdrive:10o4JSnSMAmGiGz6Hg3bhow28eps5jFf8",
     "type": "movie",
-    "name": "Eklavya",
-    "poster": "https://image.tmdb.org/t/p/w500/hn0Mt6pmDAzdlJFw3RBOi98l0GR.jpg",
-    "description": "Action movie.",
-    "background": "https://image.tmdb.org/t/p/w1280/9XQQHMJX2i0dCaTPrKlbrszxu7T.jpg",
-    "released": "2023-01-01"
+    "name": "Eklavya: The Royal Guard",
+    "poster": "https://image.tmdb.org/t/p/w1280/8IdT65RInyPf5Bo5wkqxKMituwJ.jpg",
+    "description": "As the kingdom of Devigarh comes apart at the seams, an aging bodyguard attempts to protect the Royal Family, as well as keep its darkest secrets from ever coming to light.",
+    "background": "https://image.tmdb.org/t/p/original/cNcOWcaw0HbZ8t3SW1a2II6Mulv.jpg",
+    "released": "2007-01-01"
   },
   {
     "id": "gdrive:1v0lExc_uYqH6YwQsoYxYyDbLhAjtd8CX",
@@ -340,10 +340,10 @@
   {
     "id": "gdrive:1Xl2v93K6VzllcWQgrQvP3I2kgmVdCVg4",
     "type": "movie",
-    "name": "Race",
-    "poster": "https://image.tmdb.org/t/p/w500/3pKLVyz6LGQU8xEDhYHSHsfy5Bg.jpg",
-    "description": "Based on the story of Jesse Owens, the athlete whose quest to become the greatest track and field athlete in history thrusts him onto the world stage of the 1936 Olympics, where he faces off against Adolf Hitler's vision of Aryan supremacy.",
-    "background": "https://image.tmdb.org/t/p/w1280/eWUJTW9HFDmlIACchS6Ohnk5Aom.jpg",
+    "name": "Race 2",
+    "poster": "https://image.tmdb.org/t/p/w1280/FxfkEbgz7jQ8Jo2RViWQRd8sKT.jpg",
+    "description": "Ranveer Singh (Saif Ali Khan) travels to exotic locales and confronts the Turkish mafia on a mission to avenge the death of his lover Sonia in this action-packed sequel. In the process of seeking her killers, Ranveer crosses Armaan Mallick (John Abraham) and Aleena (Deepika Padukone) -- two of the most feared figures in the Turkish underworld. Meanwhile, Ranveer's loyal friend RD (Anil Kapoor) and his new partner Cherry (Amisha Patel) offer a helping hand in a world where love is cheap and trust is a luxury most agents can't afford.",
+    "background": "https://image.tmdb.org/t/p/original/9gczHHaJDAdcRxHBoTV7rskttmw.jpg",
     "released": "2016-01-01",
     "imdbRating": "7.3"
   },
