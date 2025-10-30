@@ -1,0 +1,494 @@
+[
+  {
+    "id": "gdrive:1BNfvEfe7Grkgaprg9kOGuwTZl5t4dYB6",
+    "type": "movie",
+    "name": "Jaat",
+    "poster": "https://image.tmdb.org/t/p/w500/iV5rMrld86kNBWEy75Cjq8RRFaO.jpg",
+    "description": "A mysterious stranger journeys to a remote town controlled by a callous crime lord, with one violent mission — restoring justice to its people.",
+    "background": "https://image.tmdb.org/t/p/w1280/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:16oh_kshfPKDEqbzxkCZtFck1lny5VwI1",
+    "type": "movie",
+    "name": "Gadar 2",
+    "poster": "https://image.tmdb.org/t/p/w500/brCBYKGQaxZZcwmFF6OIxZLdKVU.jpg",
+    "description": "When Tara Singh goes missing during a skirmish and is believed to be captured in Pakistan, his son Jeete sets out to rescue him and enters a labyrinth from which they both must escape at all costs.",
+    "background": "https://image.tmdb.org/t/p/w1280/51jVHbIvlRhX6BaMq4YTZKN5DXe.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1tKsiWkqog6rXyAT1SCqcB6gpR_UWfl2H",
+    "type": "movie",
+    "name": "Singh Saab the Great",
+    "poster": "https://image.tmdb.org/t/p/w500/qbvBLlOI7C4lB5gRH0XBYhkfj4G.jpg",
+    "description": "A common man fights corruption and injustice.",
+    "background": "https://image.tmdb.org/t/p/w1280/dIBEYFQbMxtUgdUXI4ifjFNQPZZ.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "4.8"
+  },
+  {
+    "id": "gdrive:1Meaq3AgH1x_z4RjnkFT98frTv_IqypwT",
+    "type": "movie",
+    "name": "Apne",
+    "poster": "https://image.tmdb.org/t/p/w500/qMGSWgtmtMyn9hkyGZeOB5Kz7zC.jpg",
+    "description": "An ex-boxer Baldev Choudhary (Dharmendra) has had a stain in his boxing career. He wanted to wash it with his son Angad's (Sunny Deol) success, but times were hard and a financial crunch kept him from achieving this dream. Though Angad pulled through fine, Baldev never forgot who ruined his chance to wash the stain. An opportunity strikes Baldev in the form of a T.V. Show. He trains a local boy to get into this media hyped boxing show, but is ditched for a better coach at the last minute. Baldev's younger son Karan (Bobby Deol) has just launched his first music album. Realizing his father is in crises of his life, he gives up his dream of a musical career to get into the game of boxing.",
+    "background": "https://image.tmdb.org/t/p/w1280/9dPHt7Gdss1v8Kbs7ndZUGqPoqW.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1FnYIvV_9MqraHm6fjyUJ0tTKNJ7Wk_nh",
+    "type": "movie",
+    "name": "Vishwatma",
+    "poster": "https://image.tmdb.org/t/p/w500/nb4FKjLfuHwQeGkANULU4saRCWC.jpg",
+    "description": "Two brave and smart young men: namely Police inspector Prabhat Singh (Sunny Deol) and a reformed criminal Akash Bhardwaj (Chunkey Pandey) is sent to the African country of Kenya in order to apprehend the underworld criminal Azghar Jhorat (Amrish Puri). He is a criminal in India but his whereabouts is known in Kenya. While in Kenya they reaches up with a stern Kenyan police officer who is of Indian origin Surya Pratap Singh (Naseeruddin Shah), it is his duty to make Prabhat and Akash abide by the Kenyan laws but to capture Azghar both is forced to break the laws and gets into confrontation with Surya where a misunderstood is created. Will Akash and Prabhat be able to fulfilled there duties towards there country or will they leave there mission half way and run like cowards?",
+    "background": "https://image.tmdb.org/t/p/w1280/ohbofvm0XGYItnr2maHgmAYiwlY.jpg",
+    "released": "1992-01-01",
+    "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1XokWDE4MTq3ONqjKFSSyxLNnsK_S2IkI",
+    "type": "movie",
+    "name": "Angrakshak",
+    "poster": "https://image.tmdb.org/t/p/w500/ejzvjyWCKQve5WPi80hkwLIP0ON.jpg",
+    "description": "Ajay leads a life as a gangster and is known for his short-temper which made him mercilessly murder a man named Ramesh for falling in love with his sister Asha. Years later Ajay takes up employment as a bodyguard to a politician Satyendra Pal Choudhary's daughter Priyanka alias Priya; only to find himself trapped in a world of deceit, lies, politics and crime.",
+    "background": "https://image.tmdb.org/t/p/w1280/j5EBbo15B5ENMdPkl6kUg1gcG0T.jpg",
+    "released": "1995-01-01",
+    "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive:1PEt-Qiv7jsB_QE_ZD8Qdr5qo_KowgDlP",
+    "type": "movie",
+    "name": "Himmat",
+    "poster": "https://image.tmdb.org/t/p/w500/sUfjkkw8rYjWmeRAtd3NaLv9tSN.jpg",
+    "description": "Two Indian secret agents, Ajay and Abdul, share a brotherly bond. However, when Abdul is killed in the line of duty, the mission is handed over to Ajay, who decides to avenge his friend's death.",
+    "released": "1996-01-01",
+    "imdbRating": "2.0"
+  },
+  {
+    "id": "gdrive:1Wcz7N5L-_W9W5lYbLqWZwBEb3I2HmJoE",
+    "type": "movie",
+    "name": "Pyaar Koi Khel Nahin",
+    "poster": "https://image.tmdb.org/t/p/w500/kQu7mmIO9BKThoSGjCLeTsyCY3k.jpg",
+    "description": "Romance meets crime drama, when Nisha and Sunil are wed, but face the consequences of Sunil's brother's questionable business associates.",
+    "released": "1999-01-01",
+    "imdbRating": "4.3"
+  },
+  {
+    "id": "gdrive:1xgBw-73ritd9HeLTDPbwtTeXhvutwYT9",
+    "type": "movie",
+    "name": "Dushmani: A Violent Love Story",
+    "poster": "https://image.tmdb.org/t/p/w500/egY19XE29HaDhCz56DWLEC9TrDh.jpg",
+    "description": "In order to settle personal scores; two gang leaders, Jai Singh and Oberoi fight for many years in gang-wars. There enmity multiplies when Jai's younger brother, Suraj falls in love with Oberoi's sister, Sapna which forces Suraj and Sapna to elope. Jai then locates the duo and brings them back to try and convince Oberoi to get them marry albeit successful.",
+    "background": "https://image.tmdb.org/t/p/w1280/w3uJZsSHV9NuHCJhjRF9VojfkyK.jpg",
+    "released": "1995-01-01",
+    "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1yq2qVOeB9_zzfwdj0h7qhSq7PM4aEYnM",
+    "type": "movie",
+    "name": "Indian",
+    "poster": "https://image.tmdb.org/t/p/w500/kMoS0caFjAsEJFX5HrbMGd4g51T.jpg",
+    "description": "DCP Raksekhar Azad (Raj) is an invincible cop with a great aim. He arrests a terrorist by the name of Khan. But Khan lands in a prison cell that looks cushier than the Buckingham Palace. However, this gets Raj promoted, and he is congratulated by none other than his father-in-law, who is also a very high ranking policeman. Then all of a sudden, Raj finds out that many policemen would like to see Khan go free. He discusses this issue with his father-in-law, and to his surprise, does not find any support from him. Disagreements and arguments ensue, and as a result, his father-in-law gets killed. The Police suspect Raj of killing him, they begin the process of arresting him, he runs away, while Khan is all set to get freed to do whatever he likes.",
+    "background": "https://image.tmdb.org/t/p/w1280/gRBnBHpRV7HnaOTS4KRInWo1jOY.jpg",
+    "released": "2001-01-01",
+    "imdbRating": "5.1"
+  },
+  {
+    "id": "gdrive:172oS3hmd_dERtAervDFGhNUydXRT3Stx",
+    "type": "movie",
+    "name": "Champion",
+    "poster": "https://image.tmdb.org/t/p/w500/wQzymfKE6fuMVLA4CxTvecSmhea.jpg",
+    "description": "The film CHAMPION is a tale about a man who has a quest, a dream to be the best of the best. The film centres on four main characters, namely Rajveer Singh (Sunny Deol), a simpleton from a village in Punjab, whose sole dream in life is to become a super-cop and wipe off all crime. After, training, he gets his first posting at Mumbai for a special assignment. Bubbling with enthusiasm, an arrival, he is shocked to find that his job is to protect a nine-year-old boy, Abbas Khan (Abhishek Sharma). A bodyguard, after all the rigorous training to eliminate hardcore criminals! Abbas is the sole heir to millions of riches left to him by his parents, who have expired in a drastic plane crash.",
+    "background": "https://image.tmdb.org/t/p/w1280/lTp0VnYSvzMEzMT5A0zG3k6tx0p.jpg",
+    "released": "2000-01-01",
+    "imdbRating": "2.8"
+  },
+  {
+    "id": "gdrive:1Vhu8WFmPKQ95scSC705HQf8kGwu8U6AV",
+    "type": "movie",
+    "name": "Mohalla Assi",
+    "poster": "https://image.tmdb.org/t/p/w500/bGSbaG6AIIaACEMprEsf2xiLgyO.jpg",
+    "description": "An idealist Sanskrit teacher deals with issues like commercialization of religion as things around him change and he struggles to keep up. But is he ready to pay the price?",
+    "released": "2018-01-01",
+    "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:11jANooR4o1Hd7CI-k-t6mOdjbCpY9Q6S",
+    "type": "movie",
+    "name": "Yamla Pagla Deewana",
+    "poster": "https://image.tmdb.org/t/p/w500/1Po2YSBz2vloFxjYbs3CNO7I1vf.jpg",
+    "description": "Dharmendra and Bobby play a crooked father-son pair based in Varanasi. Sunny plays a Canada based upright man who gets to know after two decades that he has a father and brother in Varanasi. The film is about Sunny's journey to his past.",
+    "background": "https://image.tmdb.org/t/p/w1280/6GGtqNc3N5iTW5jBHjio1GzTmcL.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "5.4"
+  },
+  {
+    "id": "gdrive:17oCcUaPZVZ2hcJOloI9tycNDkao-Gf-_",
+    "type": "movie",
+    "name": "Ghatak",
+    "poster": "https://image.tmdb.org/t/p/w500/mqh1KhE75hGNpSFo17nZUZm0wmO.jpg",
+    "description": "Bijoy moves to Kolkata with his younger brother, Raju, and starts leading a simple life. However, Bijoy is compelled to battle two anti-socials, when they kill Raju to win the elections.",
+    "released": "2006-01-01",
+    "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive:1mMqMGd9RV0gC3aug4dw-aL1jaap0nFTb",
+    "type": "movie",
+    "name": "Yamla Pagla Deewana 2",
+    "poster": "https://image.tmdb.org/t/p/w500/rHvy2RxE4bTCoi80IoE4oCSqm2N.jpg",
+    "description": "The trio of Dharam, Paramveer and Gajodhar reunite, this time in the UK. Paramveer opens up the 'Yamla Pagla Deewana' club and re-encounters a visit with Dharam and Gajodhar, after their last visit to Canada. Now, the trio are back with double the fun, double the action, and double the romance, with Suman and Paramveer's love Reet.",
+    "background": "https://image.tmdb.org/t/p/w1280/rs2bYa436bsN1QC8ruyJ5he9rmO.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "3.5"
+  },
+  {
+    "id": "gdrive:1PnTV748FTntVrLBBORfltDjwecvtpSR3",
+    "type": "movie",
+    "name": "Salaakhen",
+    "poster": "https://image.tmdb.org/t/p/w500/kKWy6AenNX0aPdzqjkl2sIW4cMY.jpg",
+    "description": "When an honest school teacher testifies in a rape case against a prominent businessman's son, he is psychologically tortured and forced to commit suicide. His young son then takes the law into his own hands in order to avenge his father.",
+    "background": "https://image.tmdb.org/t/p/w1280/ekS9G0zN7z75duxNhXVWQsmsQGc.jpg",
+    "released": "1998-01-01",
+    "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1Wd2ElMAvRmA7OzkpH0o7J1xLsAqLj4I_",
+    "type": "movie",
+    "name": "Sohni Mahiwal",
+    "poster": "https://image.tmdb.org/t/p/w500/fnWP8tWg5lHuLcxu9jSXE25NJMw.jpg",
+    "description": "Shahjada Ijjat Beg comes to India with his caravan and settles in a town in Gujrat. Here he falls in love with Sohani, who keeps a shop in metal pots. Ijjat Beg buys pot from her with whatever money he had and they were attracted to each other. Sohni dispensed with her servant and kept Ijjat Beg instead. This gave them more opportunity to meet. This was a scandal in the town and Sohni was perforce married to Rehaman who was slightly off his head. Sohni continued her meeting Ijjat Beg who went out fishing. When the atmosphere became to hot for them they jointly took a water grave for their love.",
+    "background": "https://image.tmdb.org/t/p/w1280/9FCjQZJXcvqrBVgkMJWVNuEkmHf.jpg",
+    "released": "1984-01-01",
+    "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1OzBpokVZ3ZWXNUuyOU7fvHGO1H9VBAc3",
+    "type": "movie",
+    "name": "Yamla Pagla Deewana: Phir Se",
+    "poster": "https://image.tmdb.org/t/p/w500/t52FVHgb7zDFg2dSVkjquCMGGP9.jpg",
+    "description": "An upright Ayurveda practitioner is hounded by big pharma giants for his age-old formula called Vajra Kawach that cures everything from pimples to impotency. But how long can he keep this magic pill only for the poor?",
+    "background": "https://image.tmdb.org/t/p/w1280/AauNmofyYj2Uy6EpZWzLob9QkE8.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "3.7"
+  },
+  {
+    "id": "gdrive:1Aih63K1KZ0ghejMS3AITVkg06M93Qdld",
+    "type": "movie",
+    "name": "Ghayal",
+    "poster": "https://image.tmdb.org/t/p/w500/4LpT0OsORcPdrtHnolxRqtU3eo9.jpg",
+    "description": "Ajay Mehra leaves for Bombay in order to train to become an international boxer. On his return to New Delhi he however found that his brother Ashok Mehra is missing, he decides to make complaints at the police station but this only leads to frustration. He decides to go and search for his brother himself but still does not find him. Later on Ashok's body is found and Ajay is accused of killing him as well as having an illicit relationship with his sister - in - law Indu Mehra. While in jail Ajay makes friends with some other hardcore convicts, who are good at heart. Then one day they escape the jail by overpowering the guards. But Ajay falls in love with Varsha a journalist who helped in showing Ajay the path to justice in killing the main villain Balwant Rai.",
+    "background": "https://image.tmdb.org/t/p/w1280/fxBH4F46dk8p7iUrFdPctS1JNmK.jpg",
+    "released": "1990-01-01",
+    "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1hM6co0mbhsYpc-4uYnsUTFOaVO0cXvuy",
+    "type": "movie",
+    "name": "Ajay",
+    "poster": "https://image.tmdb.org/t/p/w500/cjzlBGHeaak2IjDRWRh8ZqwzkGC.jpg",
+    "description": "Ajay falls in love with superstar dancer Manorama, who comes from a dangerous family.",
+    "background": "https://image.tmdb.org/t/p/w1280/lIdICy0qdCECgG6o4IJWOQqz8fX.jpg",
+    "released": "1996-01-01",
+    "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1iAHwSdJcOv6IfG3GVzYtm7j8FInECSD-",
+    "type": "movie",
+    "name": "Chaalbaaz",
+    "poster": "https://image.tmdb.org/t/p/w500/jq1f7uVoQBfKVwKQqsXDV998ftJ.jpg",
+    "description": "Twins separated at infancy are brought up differently. One weak, one strong. One day, they end up at each others house. Their life is not the same anymore.",
+    "background": "https://image.tmdb.org/t/p/w1280/3AB1oujBAoA0WgChhEr57lLG5wF.jpg",
+    "released": "1989-01-01",
+    "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1kGTNV1ncisGI7DQXAoyXTc-tLw6-tgTj",
+    "type": "movie",
+    "name": "Big Brother",
+    "poster": "https://image.tmdb.org/t/p/w500/lzd7SpvJNDxZG8kPafMOjVoVJy.jpg",
+    "description": "Big Brother is a story set in modern India which revolves around a small middle-class family composed of Dev Sharma Sunny Deol, his wife Aarti Priyanka Chopra, his mother Farida Jalal, brother Imran Khan and sister Prachi. Although they lead a simple and peaceful lifestyle, an incident occurs that changes their lives forever. The family is left with no choice but to leave Delhi and move to Mumbai in disguise. They start life afresh and all seems well until the ghosts of the past surface again.  Things reach a point when Dev Sharma is prodded by his mother to take a course of action which not only avenges their plight but also take on the cause of the aggrieved in the country as a whole. The movement so created gets the support of the woman at large and the infirm who proudly proclaim him to be their Big Brother.",
+    "background": "https://image.tmdb.org/t/p/w1280/emG8TO3TfHnsPgrxJGUY5uTRf6Q.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "4.9"
+  },
+  {
+    "id": "gdrive:1vZZKfiTdhRgkFOb7AJOvK617vprtrKdT",
+    "type": "movie",
+    "name": "Lootere",
+    "poster": "https://image.tmdb.org/t/p/w500/qfS0a9FPBWq9nSpeyjGmKUBE4rK.jpg",
+    "description": "Anajali is taken far away from the city by police officer Karan. Her life is in danger as an eye witness in a murder case.",
+    "background": "https://image.tmdb.org/t/p/w1280/nZysPjajO7g94hU4zXKvfomXzsB.jpg",
+    "released": "1993-01-01",
+    "imdbRating": "4.2"
+  },
+  {
+    "id": "gdrive:1Pzmu8UAzaz1kORcSJB1mX1GlcBsAv3kw",
+    "type": "movie",
+    "name": "Qahar",
+    "poster": "https://image.tmdb.org/t/p/w500/1cdQlobMONN1OEiJPX3QARZ4MPp.jpg",
+    "description": "Inspector Amar faces a dilemma when he catches two criminals, Raja and Krishna, who are also battling corruption and crime in their respective ways.",
+    "background": "https://image.tmdb.org/t/p/w1280/oynhrheYIXGygNHA4nqnDmuGq9d.jpg",
+    "released": "1997-01-01",
+    "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1kM5NseeS9U5zG_zyWwxxKZczJtdYJShu",
+    "type": "movie",
+    "name": "Dillagi",
+    "poster": "https://image.tmdb.org/t/p/w500/ezesgmVml1VvKoZlPHXzbdSzngY.jpg",
+    "description": "Two brothers -- Ranvir and Rajvir along with their parents move to Mumbai. They endure numerous hardships, but their will to survive prevails and they succeed. Soon, their parents pass away, leaving young Rajvir in the care of Ranvir. Now wealthy beyond any means, Ranvir runs the business and Rajvir lives recklessly. When Rajvir falls in love, Ranvir arranges his marriage, but to his dismay finds out that he has arranged his brother to marry the girl he loves.",
+    "background": "https://image.tmdb.org/t/p/w1280/xmh5cqFNSnsIEYH73aBnBTbfJdi.jpg",
+    "released": "1999-01-01",
+    "imdbRating": "5.4"
+  },
+  {
+    "id": "gdrive:1hctYmBXTSC6VU-1p3BGU5K9lGZn2jK2K",
+    "type": "movie",
+    "name": "Dacait",
+    "poster": "https://image.tmdb.org/t/p/w500/9eqT2CkWCKPtSPDImxbla8PVmc4.jpg",
+    "description": "Arjun Yadav return from the city after completing his studies to get settled in his village with his family consisting of his mother Devi Chaudaran, his older brother Amrit and sister. Arjun finds out that Amrit and Thakur Bhanwar Singh does not get along quiet well and attempts to be a peace-maker between the two. One day situation takes a turn for the worse when Amrit is killed, Devi Chaudaran loses her senses, Arjun's sister is raped and he himself is beaten and tied to a tree. Arjun is then rescued by some sympathetic villagers and run off with his childhood friend Makan Malla in the deep ravines only to turn an outlaw whose only motive is to avenge the killings of his family members.",
+    "background": "https://image.tmdb.org/t/p/w1280/j8QaCM60QHbXhtj6N9fg6HWv76H.jpg",
+    "released": "1987-01-01",
+    "imdbRating": "4.8"
+  },
+  {
+    "id": "gdrive:1to373qz6mE8jVvD2p-jxJ2GU0okT0sRb",
+    "type": "movie",
+    "name": "Karz",
+    "poster": "https://image.tmdb.org/t/p/w500/wmTa3P6cXYeNstsJqdsxPY8neW9.jpg",
+    "description": "Suraj is the adopted son of a wealthy hotel owner who is haunted by memories of his birth mother's rejection.  He befriends Raja not knowing that he is in fact his younger brother and even gives up his love Sapna to Raja.  Through Raja he is reunited with his birth mother and it is revealed that she was raped by a criminal who fathered Suraj.  After many fights, flying bodies, car chases, and broken glass, Suraj eventually exacts revenge on his birth father and dies happily in his mother's arms.",
+    "background": "https://image.tmdb.org/t/p/w1280/aXRzfjN1ppar2f3epgDcSSYZovl.jpg",
+    "released": "2002-01-01",
+    "imdbRating": "4.6"
+  },
+  {
+    "id": "gdrive:1ewMcNEDIB0vX7tp-mgpQiGc8vuwgYqb2",
+    "type": "movie",
+    "name": "March!",
+    "poster": null,
+    "description": "Narrated by celebrated modernist author and filmmaker BS Johnson, March! documents the TUC-instigated protest, on 21 February 1971, against the Industrial Relations Bill, which was subsequently passed by parliament in August of that same year. The film records the assembly of protestors (in Hyde Park) and a march through the streets of Central London to Trafalgar Square.",
+    "released": "1971-01-01",
+    "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1nf3O-KcNjCuxHVpGQX9jynw8FSwYH1fo",
+    "type": "movie",
+    "name": "Betaab",
+    "poster": "https://image.tmdb.org/t/p/w500/5JTJG3b2I6EZYhov18KE0Flknom.jpg",
+    "description": "Sunny owns a small livestock farm and lives a poor but happy life style with his mother, Sumitra. They wanted the farm to become up to date, so Sumitra decides to make a move abroad in order to bring new equipments for the farm, leaving Sunny in the care of the farm. One day while distributing eggs and chickens, Sunny reaches up with Roma Singh and both can get into the pettiest quarrels and they soon begins to fight and Sunny offers Roma to rebuild his farm house as a part of her punishment. Both soon realize that they are childhood lovers and attempts to rebuild that love once again, both are successful in doing so and plans to get married but there love is opposed by Roma's dad, the wealthy and famous businessman, Sardar Dinesh Singh Girji, who will do anything in his power to prevent Roma and Sunny from meeting leave alone marriage.",
+    "background": "https://image.tmdb.org/t/p/w1280/ttR6TI7JboR94qUHR9G2vUVOuG4.jpg",
+    "released": "1983-01-01",
+    "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1wy7N8J1qJNm2k3QvLBFWhKhOt30862a7",
+    "type": "movie",
+    "name": "Veerta",
+    "poster": "https://image.tmdb.org/t/p/w500/xNTl9zeCbJx8Hpi9rv6UGbBlhxW.jpg",
+    "description": "Multi-millionaire Balwant Rai is a widower who lives with his daughter Uma and a school going son Amar alias Munna. Since Uma is of marriage-able age, Balwant decides to get her marry to Sunderlall's son Raghuveer and they all move in to live with Balwant at his estate. In order to take cover of Balwant's entire property Sunderlall and Raghuveer first have him killed, locked up Uma in a den and attempt to kill Munna who is saved by a village boy named Mangal. Years later Mangal and Munna have now matured, and Munna has decided to make his friend Mangal the managing director of the entire Rai group of industries much to the disappointment of Sunderlall who has all time been the M.D of Rai industries.",
+    "released": "1993-01-01",
+    "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1GNLfSCx02HkNY56KX4sp1A_9VaGMAsD-",
+    "type": "movie",
+    "name": "Gadar: Ek Prem Katha",
+    "poster": "https://image.tmdb.org/t/p/w500/yItg48ViirZHWmuD15reEyMfr4x.jpg",
+    "description": "Amongst the communal riots that erupt in the city, Tara shelters a wayward Sakina from a crazed mob and a bond that blossoms into love is created. The two eventually get married and have a son. The happy family, now living in Amritsar, gets the shock of their lives when Sakina learns that her father (Amrish Puri), whom she previously believed died in the riots back in Amritsar, is still alive after seeing his picture in a tattered, old newspaper. Upon contacting him, Sakina's father, now the mayor of Lahore in Pakistan, arranges for his daughter to arrive in Lahore to see him. Sakina leaves for Lahore minus Tara and her son, and upon reaching the city, learns of her father's plans for her - plans that include forcing Sakina to forget about her family and start life anew in Pakistan. Then begins an extraordinary journey which will lead Tara to cross the border into Pakistan to find his love Sakina",
+    "background": "https://image.tmdb.org/t/p/w1280/m5M1aTaTpC2Ko9HO7GM6LjAEIKN.jpg",
+    "released": "2001-01-01",
+    "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1NfaznFEZ1N3DW31A11XnVgzUGongvVPg",
+    "type": "movie",
+    "name": "Ghayal Once Again",
+    "poster": "https://image.tmdb.org/t/p/w500/pLJDxJ9WzPLu1mlWZNAUnZh5h4.jpg",
+    "description": "Ajay Mehra (from previous Ghayal-1990), after finishing off his life sentence, starts a newspaper called Satyakam. Still dealing with the haunting trauma of losing his loved ones, Ajay manages to make a credible name for himself in investigative journalism. Working with a strange team of RTI activists, ex-criminals and ilk; and even stranger ways of unearthing and presenting truth, Ajay Mehra has earned quite a fan following among the youths, who finds his fearless and unforgiving approach in dealing with all kinds of sociopaths very inspiring.",
+    "background": "https://image.tmdb.org/t/p/w1280/h6lEKSwxsAvdplL7VH0dRK5QVAk.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1zaGi9EC9B1N34wXtAwHpxd7_SSiR_tnb",
+    "type": "movie",
+    "name": "Khuda Kasam",
+    "poster": "https://image.tmdb.org/t/p/w500/cDqldKi5bIUrNv9GQfDdIcTESa1.jpg",
+    "description": "Delhi-based CBI Captain Neetu Singh is instructed by Chief Sawant to investigate the assassination of Maharashtra's Chief Minister Satyaprakash. Her investigations will lead her to conclude that the killing was planned and carried out by Home Minister Bhavani Prasad Lala and Superintendent of Police Waghmare. She then meets with Fatima, and is told the story of the latter's son, Hussain, who was convicted for possession and supply of fire-arms and sentenced to five years in prison. She meets Hussain in prison and decides to assist him, but before she could do that she and her mother, Shanti, both end up on the defensive, when evidence surfaces that Neetu had hired a hit-man, Tatya, to kill Satyaprakash. The Judge hearing this incident finds her guilty and sentences her to prison.",
+    "background": "https://image.tmdb.org/t/p/w1280/eVhxR6lNbLPSxynYKFrMRTVIbIh.jpg",
+    "released": "2010-01-01"
+  },
+  {
+    "id": "gdrive:1lIUro_fcfyNar4zBzdlvmAq-neiSm_Jl",
+    "type": "movie",
+    "name": "The Hero",
+    "poster": "https://image.tmdb.org/t/p/w500/7on6mTMVrE893E0mSwO4ZRAAD8A.jpg",
+    "description": "Lee, a former Western film icon, is living a comfortable existence lending his golden voice to advertisements and smoking weed. After receiving a lifetime achievement award and unexpected news, Lee reexamines his past, while a chance meeting with a sardonic comic has him looking to the future.",
+    "background": "https://image.tmdb.org/t/p/w1280/hzbncGu3g4T6sD6R0f7NKol4etP.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1IhCeg7ptKtARDfyDqAKYNjBmXd7203Gj",
+    "type": "movie",
+    "name": "Jaal: The Trap",
+    "poster": "https://image.tmdb.org/t/p/w500/rF8EKOQmg5odaQVXkYC6YpFRPne.jpg",
+    "description": "Sunny Deol battles terrorists from Kashmir; from director Guddu Dhanoa.",
+    "background": "https://image.tmdb.org/t/p/w1280/o1ysm6Z9V9YaYHqUTqhlNyiEIXn.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1wItQLWL358LIKLO9_gPjR3HzTQCjsZbO",
+    "type": "movie",
+    "name": "Nigahen: Nagina Part II",
+    "poster": "https://image.tmdb.org/t/p/w500/plOOzk2CtsrqwDO4nUCHdW3l2QZ.jpg",
+    "description": "Rajni's daughter Neelam continues the curse that turns her into a serpent.",
+    "background": "https://image.tmdb.org/t/p/w1280/8PCaSM36zArgaEuqvo7hGbv1LlX.jpg",
+    "released": "1989-01-01",
+    "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1LFR5jE49aed6kOgIa4HYbNUGnrF3J_Fg",
+    "type": "movie",
+    "name": "Naksha",
+    "poster": "https://image.tmdb.org/t/p/w500/1WdMoSzM8P3ZkmYIo8xzZl7ypZf.jpg",
+    "description": "20 years after the death of an archaeologist, Kapil Malhotra, his younger son, Vicky attempts to uncover his father's mission with the help of an ancient map.",
+    "background": "https://image.tmdb.org/t/p/w1280/qexAcGjRPKO2NiIMhBGD0XemXSn.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "3.9"
+  },
+  {
+    "id": "gdrive:1Kk0n-f9APCqRwbZsH9kmTEGKyrgxEbfD",
+    "type": "movie",
+    "name": "Bhaiaji Superhitt",
+    "poster": "https://image.tmdb.org/t/p/w500/rGHgk0IO68OH9G7oXtPqGb4IxDq.jpg",
+    "description": "A kind-hearted goon decides to get his wife back by making a film on their love story, while his arch nemesis tries to thwart his plans.",
+    "background": "https://image.tmdb.org/t/p/w1280/pfcSdTtdCJxq052ZUpbT71SBDkO.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive:1KOXtXiYu_RLk4Dox1OpXEldL0cXgD_cQ",
+    "type": "movie",
+    "name": "Teesri Aankh: The Hidden Camera",
+    "poster": "https://image.tmdb.org/t/p/w500/RcQwgQM9s37hkVCbEXCyAjsAFX.jpg",
+    "description": "About women who are trapped, used and abused by hidden cameras.",
+    "background": "https://image.tmdb.org/t/p/w1280/cCWNC8DPlAhEzTLk1KX8I5Ug3Np.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "4.2"
+  },
+  {
+    "id": "gdrive:1N6L94CYhWi8AvIbVgJDGSnx5nPL_G14X",
+    "type": "movie",
+    "name": "Paap Ki Duniya",
+    "poster": "https://image.tmdb.org/t/p/w500/pm6w6OLXBkwpE6pyASrTGjx12YL.jpg",
+    "description": "Gangster Pasha has brought up young Suraj as his own son, and has taught him all the skills needed for theft, break & enter, and acting as a hitman. Years later, Suraj has grown up and has become an expert in these skills. The law does catch up to him, and he is imprisoned. When he completes his sentence, he re-enters his world of crime with Pasha. One day he meets up with beautiful Aarti, and falls in love with her. Aarti too is attracted to him, and eventually falls in love with him. When Aarti finds out about his profession, she is dismayed and shocked, and will not have anything to do with him, unless and until he promises to give up on this career. Suraj does so, only to find Aarti's boyfriend Inspector Vijay to out to arrest him by hook or by crook on one hand, and on the other Pasha has ordered his death.",
+    "background": "https://image.tmdb.org/t/p/w1280/nL6Mpl2AjqSmIcA1ne1bIs5Ss7u.jpg",
+    "released": "1988-01-01",
+    "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:137xOXE9mqfWafHT1_9-oQG_gKhEt8hix",
+    "type": "movie",
+    "name": "Zor",
+    "poster": "https://image.tmdb.org/t/p/w500/pXQPLmbVBaE2VuPeQgLVvL1i895.jpg",
+    "description": "Arjun Singh is a dedicated police officer whose efforts to fight corruption and terrorism are all in vain when he keeps on running into obstacles created by his superiors and powerful politicians.",
+    "background": "https://image.tmdb.org/t/p/w1280/wyeHeOwULHlnGsoEoRoKwTELcdj.jpg",
+    "released": "1998-01-01",
+    "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1zGOlusPVur640wHdBdOLV15LiaxbYYam",
+    "type": "movie",
+    "name": "Maa Tujhhe Salaam",
+    "poster": "https://image.tmdb.org/t/p/w500/cmNtGP3BxQM74NXJfg0Ge8ja7id.jpg",
+    "description": "Bollywood superstar Sunny Deol plays Maj. Pratap Singh, who's in command of an Indian battalion guarding his country's border with Pakistan in this action-packed thriller from director Tinnu Verma. When Singh's girlfriend -- intelligence agent Sonia Khanna (Tabu) -- informs him that self-styled Pakistani leader Lala aims to rule Kashmir as a sovereign state, Singh finds an unexpected ally in a mercenary (Arbaaz Khan) once loyal to Lala.",
+    "released": "2002-01-01",
+    "imdbRating": "3.0"
+  },
+  {
+    "id": "gdrive:1Gqdb1-_-oZjdAlxCXB4h046Rof-ZGoE4",
+    "type": "movie",
+    "name": "Majboor",
+    "poster": "https://image.tmdb.org/t/p/w500/gzUenZ3HQICEN8bQItNkH7NpW6m.jpg",
+    "description": "Honest retired Judge Justice Deenanath live a happy life-style with his wife and two sons, advocate Ravi and inspector Sunil. One day Ravi brings home a poor girl Sharda to rehabilitate as she has no place to live after her dad expires. The family takes a liking to Sharda and subsequently arranges Ravi and Sharda's wedding. But on the wedding day a jailbird Jankidas suddenly arrives; claiming Sharda to be his wife and providing evidence to prove as such. Everyone is shocked including the Mayor, Kishanchand. Hereafter nothing is the same for the family anymore with Deenanath passing away out of shock; Ravi leaves the house, gets married to Sharda, gets into a fight with Jankidas which ended up leaving one of his henchman dead and is subsequently arrested by his younger brother inspector Sunil.",
+    "background": "https://image.tmdb.org/t/p/w1280/jdkG5pSXeC6om65rdIJA1uHRypD.jpg",
+    "released": "1989-01-01",
+    "imdbRating": "4.5"
+  },
+  {
+    "id": "gdrive:1eDXNAUTfhuSwMXjNnUW9X-iJezQZIHRQ",
+    "type": "movie",
+    "name": "Border",
+    "poster": "https://image.tmdb.org/t/p/w500/sFyftHJ5wXdZXHDKBhQX2mPWZLr.jpg",
+    "description": "It's 1971, and 2000 members of the Pakistani Army—armed with tanks—are at war with just 120 men in a battalion of Indian soldiers based in the Longewala region of Rajasthan in India.",
+    "background": "https://image.tmdb.org/t/p/w1280/eUiSc6AdJcWSRokq0cPMJ0q2j6M.jpg",
+    "released": "1997-01-01",
+    "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1DTAX7ZCygEG-kLQBGSq0paNpkHINgnLQ",
+    "type": "movie",
+    "name": "Dishkiyaoon",
+    "poster": "https://image.tmdb.org/t/p/w500/jsKD1GWFtzQD7dJzQ7MvLmxMpGr.jpg",
+    "description": "Dishkiyaoon is a Bollywood action film produced by Shilpa Shetty and her husband Raj Kundra along with Eros International. The film features Sunny Deol, Harman Baweja and debutant Ayesha Khanna. The film is about the Mumbai underworld.2014.Four songs for the film have been composed by debutant Palash Muchhal, who's the youngest music composer of Bollywood at age of 18.",
+    "background": "https://image.tmdb.org/t/p/w1280/nTVDDDXIprV2SZsWp3dpydAtRpJ.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "3.5"
+  },
+  {
+    "id": "gdrive:1_QyKgDgjaKzUdny2PDwjGP_lzZ7NV5mx",
+    "type": "movie",
+    "name": "Narsimha",
+    "poster": "https://image.tmdb.org/t/p/w500/KyeS7VRIh1v5gcmY4YekSIty1x.jpg",
+    "description": "Narsimha a young and captive man lives a middle-class life with his family in a quiet neighbourhood. He gets his beautiful sister to marry an eligible young man in their vicinity. On the occasion of his sister giving birth, he returns home to find that conflict arise between his neighbourhood and another neighbourhood where he seek refuge in a dwelling area nearby only to return and find out that his whole family has been murder. Without no aim left in life, Narasimha decided to turn to crime and alcohol. He later decided to work for a man-call Suraj Narayan Singh. But when Suraj asks him to kill Ravi Rastogi for falling in love with his daughter, Meenu. Narasimha refuses, and on the contrary joins forces with Ravi, his sister, Anita, to force Suraj to get the young couple married. This kind of conflict escalates to such proportions that Suraj finally gets arrested and lodged in a cell.",
+    "background": "https://image.tmdb.org/t/p/w1280/ajnkoKNheBqADTMberAH2aUpXcF.jpg",
+    "released": "1991-01-01",
+    "imdbRating": "4.9"
+  },
+  {
+    "id": "gdrive:1YLoRzNaOHH51nG6Bnx54HusW4SoisiXj",
+    "type": "movie",
+    "name": "Right Yaaa Wrong",
+    "poster": "https://image.tmdb.org/t/p/w500/jPqW3UwEGyCtYoHBMojjTdLwTZl.jpg",
+    "description": "Two cops who are best friends have a friendly rivalry until their need for supremacy leads them to fight to be top dog.",
+    "background": "https://image.tmdb.org/t/p/w1280/7HqiTdDb0pTXuIDiGFmqdtBCu4o.jpg",
+    "released": "2010-01-01",
+    "imdbRating": "3.8"
+  },
+  {
+    "id": "gdrive:19kovKPdImKO1OunChWBRUp6nM6yuimKt",
+    "type": "movie",
+    "name": "Saveray Wali Gaadi",
+    "poster": "https://image.tmdb.org/t/p/w500/qvgm3LswwMH99LmkK2CnirdUcXv.jpg",
+    "description": "Ravidas  lives in a village in rural India. He is the son of Chediram who is of highly respected in the village. Ravidas falls in love with Jyoti. Their love becomes known in the village. Because of differences of caste, the villagers are opposed to Ravidas marrying Jyoti. Chediram commits suicide due to the shame his son has brought upon him. Ravidas is a gifted poet, but he cannot fulfill his dream of being recognized as a great poet, his poems being published and shown to the world, because he lives in a village.",
+    "background": "https://image.tmdb.org/t/p/w1280/hmVXFQtt1GAU5Do1EePugVtOZK2.jpg",
+    "released": "1986-01-01",
+    "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1DplBgAUR5dmt81pllKWColWXMGbnSF7N",
+    "type": "movie",
+    "name": "Poster Boys",
+    "poster": "https://image.tmdb.org/t/p/w500/9W6b9i49sww8RSR7DlJpaiqSEV9.jpg",
+    "description": "Life of three men comes in trouble when their photos appear on advertisement for sterilization.",
+    "background": "https://image.tmdb.org/t/p/w1280/6XNEdztZZ4Lk0oSpuPbXBDPKXAs.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:1MIgRWZORBn3it-pZ3XVUYeXdgzUXGSKe",
+    "type": "movie",
+    "name": "Ziddi",
+    "poster": "https://image.tmdb.org/t/p/w500/p8OaWdlGVfpOzTbZo4F0xRzOMOR.jpg",
+    "description": "Omnipresent Bollywood acting dynamo Sunny Deol stars as Deva, the son of an honest lawyer (Anupam Kher) who lives with his brother, Aakash (Sachin Khedekar), and his beloved sister, Guddi (Richa Behl). Imprisoned after a man touches Guddi and sets off his violent, jealous rage, Deva falls into a life of crime, quickly rising to the top of the city's criminal underworld--much to the chagrin of the other crime bosses, who plot his murder. Their attempt to frame him for the murder of an important Minister doesn't go as planned, and Deva suddenly finds himself on the run, with the minister as a hostage, and his brother and sister murdered.",
+    "background": "https://image.tmdb.org/t/p/w1280/g6ls0ftIOS9qqPHn8K1nysq7yMB.jpg",
+    "released": "1997-01-01",
+    "imdbRating": "5.6"
+  }
+]
