@@ -240,9 +240,10 @@
   {
     "id": "gdrive:1khoK5FRiTJI4b4v90oIwe8C5Ud949B3H",
     "type": "movie",
-    "name": "5 Weddings 2018 AMZN WebRip 1080p [Hindi CAM] + English AC3 x264 ESub- mkvCinemas [Telly].mkv",
-    "poster": null,
-    "description": "Size: 2.62 GB"
+    "name": "5 Weddings",
+    "poster": "https://image.tmdb.org/t/p/w1280/ftgiAskwz67dDg9a39204otCK1p.jpg",
+    "description": "An American journalist travels to India to cover Bollywood weddings, only to uncover a mosaic of cultural clashes, transgender tangles and lost loves with her travels culminating at a destination where the only journey is the one within.",
+    "background": "https://image.tmdb.org/t/p/original/bDmgJgsWilnkuINDWeyAgxkjHKZ.jpg"
   },
   {
     "id": "gdrive:1ElfBqYIJHSXnkGYvjZZmdw4FcOIeiNs4",
