@@ -32,9 +32,12 @@
   {
     "id": "gdrive:1JWGmkOq6S6DjaeTxN_ClS5g5GYmocDc3",
     "type": "movie",
-    "name": "Jumper (2008) Open Matte 1080p BluRay 10bit HEVC [Hindi AAC 2.0 + English DDP 5.1] x265 (K1tkat-KiNGSMAN)-4kHdHub.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMs3wIxpfGCN_jix8roXhUuRThYYxsawcxTlrq1J3rHLzl3_XWu_heBiq18meTtIPfN1FR4CyU6eq5q3eTVK_ORGje7ONP-II5pexycxKzFweY=s220",
-    "description": "Size: 5.28 GB"
+    "name": "Jumper",
+    "poster": "https://image.tmdb.org/t/p/original/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
+    "description": "David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David’s extraordinary gift may be his only hope for survival!",
+    "background": "https://image.tmdb.org/t/p/original/kGlNcCms3C8Ud7WCGGSOJhPsS70.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "5.6"
   },
   {
     "id": "gdrive:1ru2BElhmQ4xfES4bTR5lhr4N62jwFWzX",
@@ -653,9 +656,12 @@
   {
     "id": "gdrive:1mysvYEke3Yy0gAxy4fM3I2l7bKdOG1u0",
     "type": "movie",
-    "name": "The Book of Eli (2010) Open Matte 1080p WEB-DL [Hindi NF HE-AAC 2.0 + English DDP 5.1] x264 (spartanec163-KiNGSMAN).mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNdINtylekhAE1DNQBghuVXNauKL1cyQivU5tDoMcTvyOCpmt43yVGcTs59SDJNR_ZXN04uItLdJCL2QunKIMynyoaD8RN1tiPUJZZROb_X4w=s220",
-    "description": "Size: 5.68 GB"
+    "name": "The Book of Eli",
+    "poster": "https://image.tmdb.org/t/p/original/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
+    "description": "A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.",
+    "background": "https://image.tmdb.org/t/p/original/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+    "released": "2010-01-01",
+    "imdbRating": "5.6"
   },
   {
     "id": "gdrive:1vWXbjzUkR3G7W7owVInHuUE1GnBs0q5U",
@@ -790,9 +796,12 @@
   {
     "id": "gdrive:1lCHCpovWq8BMNVXvh3UC00Hz10aM03IJ",
     "type": "movie",
-    "name": "The Forsaken (2001) Uncut 1080p BluRay [Hindi DDP 2.0 + English DD 5.1] x264 (HANDJOB-KiNGSMAN).mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN0Wm-6FRf5e9cODj93k-6EXRy1_pFtp0ulLFkHN2xDriZPDuYdqp11dN027HBww4taoR8ykoRIzA5lvZYkFaoudQTCaJcH1fxEdVNxrhfl2w=s220",
-    "description": "Size: 8.04 GB"
+    "name": "The Forsaken",
+    "poster": "https://image.tmdb.org/t/p/original/4RN5EKSHawgUMoPzjzyyXCXckYk.jpg",
+    "description": "A young man is in a race against time as he searches for a cure after becoming infected with a virus that will eventually turn him into a blood-sucking vampire.",
+    "background": "https://image.tmdb.org/t/p/original/cruaZPSaMcAbdihRbyCLYd8rDsW.jpg",
+    "released": "2001-01-01",
+    "imdbRating": "6.2"
   },
   {
     "id": "gdrive:1LsvrNKlpZGkHSTX-k5Swp-ZllTYqsnro",
@@ -1207,19 +1216,22 @@
   {
     "id": "gdrive:1KTnvaK5G7LdKfyuYVmxIHouE1O6Gj-oz",
     "type": "movie",
-    "name": "Troy (2004) Director's Cut 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DD 5.1] x265 (Chivaman-KiNGSMAN).mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPucPLwdHk_aQWqIQ64jI-64P3gw6t-w3RA32hWyE-kJhmSJalAz9wy5F0LnV00HqmYA94IQYuPq2SGZdJceDI_AriM_jbvtAsc5VJU4CLUyw=s220",
-    "description": "Size: 7.32 GB"
+    "name": "Troy",
+    "poster": "https://image.tmdb.org/t/p/original/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+    "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+    "background": "https://image.tmdb.org/t/p/original/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:151IvciWDrvKjDG8jfG3_cyVWGNAcNirz",
     "type": "movie",
-    "name": "3",
-    "poster": "https://image.tmdb.org/t/p/w500/51yC5u634uATN6tnMyX3KuIhLEZ.jpg",
-    "description": "With the help of her husband, a woman tries to get her rapist to own up to what he did to her by kidnapping him. He does not admit to the act, which means the couple must go to greater lengths to get a confession out of him and on record to dispute his alibi.",
-    "background": "https://image.tmdb.org/t/p/w1280/psi6DAFahekKRpyVP58oekxDVWg.jpg",
-    "released": "2018-01-01",
-    "imdbRating": "5.8"
+    "name": "3:10 to Yuma", 
+    "poster": "https://image.tmdb.org/t/p/original/xFKHHRlLkWxMbOdLkxlOEUbH8pO.jpg",
+    "description": "In Arizona in the late 1800s, infamous outlaw Ben Wade and his vicious gang of thieves and murderers have plagued the Southern Railroad. When Wade is captured, Civil War veteran Dan Evans, struggling to survive on his drought-plagued ranch, volunteers to deliver him alive to the "3:10 to Yuma", a train that will take the killer to trial.",
+    "background": "https://image.tmdb.org/t/p/original/2eznGndOi8s9CGReAvcQ8PEULwm.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:192hZSwHq1RIyX5AYkNy86jcFvofI8bLo",
@@ -1523,30 +1535,42 @@
   {
     "id": "gdrive:11F9ADQFU0xDHexVAfFdXmgBuD7feKYVN",
     "type": "movie",
-    "name": "Cellular (2004) Dual Audo {Hindi-English} 1080p BluRay ESubs [BollyFlix].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOhh4JzmY3viUkh0mGz63B314AEBlFF1u-8QZbvkPxK5XDnaauGv7O3B2snzHZ8RzAOONIdvzBrcEnkJw83-Gz6S9j0MuEEDmWvOAxTOR4-Fg=s220",
-    "description": "Size: 2.03 GB"
+    "name": "Cellular", 
+    "poster": "https://image.tmdb.org/t/p/original/AhD3qVfVmxz5CXDxctXwK5nmrOp.jpg",
+    "description": "A young man receives an emergency phone call on his cell phone from an older woman. She claims to have been kidnapped – and the kidnappers have targeted her husband and child next.",
+    "background": "https://image.tmdb.org/t/p/original/5KoOfHVSYvnKbCqCxJokTYlPoPP.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1RbW2J5GXH4ulKKf4FIAgmJwQOHVddV92",
     "type": "movie",
-    "name": "The Dukes Of Hazzard (2005) Dual Audio {Hindi-English} 1080p WEB-DL ESubs [BollyFlix].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPB214A_cjR9jweBqiizxSIVHRQoAOp7gokMAjCHZRA0-gnowZhiNjmr-PHnxe-xaEZN4m1WEmbr5S8LbOaIAJ_rySaZluiVXpWk02ocxOsRA=s220",
-    "description": "Size: 2.31 GB"
+    "name": "The Dukes Of Hazzard",
+    "poster": "https://image.tmdb.org/t/p/original/2ZrNyYJEgE0VIqhelQPqFTR20xF.jpg",
+    "description": "Cousins, Bo and Luke Duke, with the help of their eye-catching cousin, Daisy and moonshine-running Uncle Jesse, try and save the family farm from being destroyed by Hazzard County's corrupt commissioner, Boss Hogg. Their efforts constantly find the 'Duke Boys' eluding authorities in 'The General Lee', their 1969 orange Dodge Charger that keeps them one step ahead of the dimwitted antics of the small southern town's Sheriff, Roscoe P. Coltrane.",
+    "background": "https://image.tmdb.org/t/p/original/luOLydz3H319kUl79MbBcfGsCgz.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1Zt-RPBvDdml6w3WAfI7SPUbsBmUwmJ9t",
     "type": "movie",
-    "name": "Ice Princess (2005) Dual Audio {Hindi-English} 1080p WEB-DL [BollyFlix].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOTTp9_mrxTzqDuYNyjaVhmz6AtDWqELzJ_EGZV7SFCcaWEp8i7ynPYPbgPoQO_E0WT8rFyExx412yZ30kFh8fM2ZE9rAqDerZIPir_09_qcA=s220",
-    "description": "Size: 2.12 GB"
+    "name": "Ice Princess",
+    "poster": "https://image.tmdb.org/t/p/original/oLWeyvu0ZJrpxDsRrzsMeaGzyZp.jpg",
+    "description": "With the help of her coach, her mom, and the boy who drives the Zamboni, nothing can stop Casey Carlyle from realizing her dream to be a champion figure skater.",
+    "background": "https://image.tmdb.org/t/p/original/k7dNmXtZeJVpvdoljSFRwpcCYPZ.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1kQIKMpNqnTNwQEw_QdBAwMFk_MT4BlnO",
     "type": "movie",
-    "name": "Hindi",
-    "poster": "https://image.tmdb.org/t/p/w500/bscCcvCObVppWOKRLi69QBfZYnv.jpg",
-    "description": "On the evening of June 20, Rajiv Kumar was found dead in his home. The police investigation revealed a few key details: he had been killed by a single stab wound to his chest, and the weapon was a kitchen knife (which Rajiv kept on."
+    "name": ".45",
+    "poster": "https://image.tmdb.org/t/p/original/clv6FaRRliTN5E6GpDJI4FPFguk.jpg",
+    "description": "Kate and her brutish boyfriend Big Al sell handguns on the streets of New York. She's smart, stylish, and self-confident, but all that leaves her when Al, in a jealous and self-indulgent rage, beats her. Three friends encourage her recovery: Vic, a woman who would like to be Kate's lover; Reilly, who runs with Al but also is attracted to Kate and repulsed by Al's violence; and, Liz, the counselor assigned to Kate from a battered-women's program. Vic and Reilly talk about killing Al, Liz gives pep talks; Kate remains frightened. Will Al's menace and Kate's dependency hold sway?",
+    "background": "https://image.tmdb.org/t/p/original/k0UwAGTYCe2JgUiRrf4AyOHR33A.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1rxmHnfC_byzsWFUaBcQhkivnsQsXqGvp",
@@ -1671,9 +1695,12 @@
   {
     "id": "gdrive:1na3GYO0_jjnbOHXOcyNnXWuYwEQAwApm",
     "type": "movie",
-    "name": "Aka.2023.480P.Web-Dl.Hindi.English.French.Msubs",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNz9xUaPXQ2eqTU5Oqd3eN4KKHrIJkv50esWQXAbtZJLY03J16dANgPLdCIM_jc9yA4H4mjDceunaCiHk78tj-VTjafF363T678NcmLbCSztm4=s220",
-    "description": "\"AKA\" is a thrilling and emotionally charged film that will have audiences on the edge of their seats. The movie follows a tough-as-nails special ops agent who is tasked with infiltrating a dangerous crime syndicate. As he delves deeper into the organization, he finds his morality and beliefs tested like never before."
+    "name": "P2", 
+    "poster": "https://image.tmdb.org/t/p/original/3mTtQSKoFNyvhbcqBUJl8tPRqMz.jpg",
+    "description": "A steely special ops agent finds his morality put to the test when he infiltrates a crime syndicate and unexpectedly bonds with the boss' young son.",
+    "background": "https://image.tmdb.org/t/p/original/aYMvNOHPozMqpRu76EmzCH0PksC.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1lUoS0GqRAhHMw_Vv6yIULN4xuoe1UDqe",
@@ -1718,9 +1745,12 @@
   {
     "id": "gdrive:1rlvcf0nhSwWyMZLE_laDb-apxvGlH3gR",
     "type": "movie",
-    "name": "Draculas Curse (2006) {Hindi-English} 1080p BluRay ESub [BollyFlix].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNFuU16DgKRXp2_6PLcVTaCyFZBKa27Mg_MGzUyzxLGuQE7Osm3NbsYA5ykwd2GT7ZXyd2aluKea0rZUkT4g1OJGN3HCqhfghrHzD8LzLXr02c=s220",
-    "description": "Size: 2.39 GB"
+    "name": "Draculas Curse", 
+    "poster": "https://image.tmdb.org/t/p/original/5bf4omXTPvQcLzZyhr4pEI81M0H.jpg",
+    "description": "A team of vampire hunters set out to battle an evil vampire clan in the dark underworld.",
+    "background": "https://image.tmdb.org/t/p/original/8IemvwWQECykrF0E7GC9SqonnYZ.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:13MwvwxvX-0Z-7HKxeftWRLXAiw-NT1dS",
@@ -1765,9 +1795,12 @@
   {
     "id": "gdrive:177wi7PNB-HP1k2vzlqbF3gAZUNFwbDdW",
     "type": "movie",
-    "name": "Oceans Thirteen (2007) (1080p BluRay x265 HEVC 10bit DD 2.0 Hindi + DD 5.1 English - K1tKat) KiNGSMAN.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPwDy6OaC9MMulpG6o_MZxgsrZ1X94mhvAygtcI_AtTqlKSNcvGgTy1WnJ8dOSSDyDaLR4s2t0UAQ-j1Lc2LmL_yeWqn_W1tOrhKNWCBtIqOvc=s220",
-    "description": "Size: 5.40 GB"
+    "name": "Oceans Thirteen", 
+    "poster": "https://image.tmdb.org/t/p/original/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+    "description": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+    "background": "https://image.tmdb.org/t/p/original/gznaK2DnntjQKkK5Sp0OEkVYCp8.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1J3i6x6b9VuSJ00kJ9VrRnVrXMa9ZpEcj",
@@ -1892,16 +1925,22 @@
   {
     "id": "gdrive:1s71hqJHIwdbsDOpLSqKxPrz3LzzwxBfd",
     "type": "movie",
-    "name": "Case",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN_CqvC1pAHffjGI3y-IYaXyCGt1iBMlpk81wpqxSmDmmdV3t1Me_953aFMNdEX8f9u1vDiLsRCXzdw-L9KcnA4Ft4IRDYHMLUOGMP5HWiS0Kk=s220",
-    "description": "Size: 3.14 GB"
+    "name": "Case 39",
+    "poster": "https://image.tmdb.org/t/p/original/b16EjFeHd2AwoYXWUne7DA346pU.jpg",
+    "description": "In her many years as a social worker, Emily Jenkins believes she has seen it all, until she meets 10-year-old Lilith and the girl's cruel parents. Emily's worst fears are confirmed when the parents try to harm the child, and so Emily assumes custody of Lilith while she looks for a foster family. However, Emily soon finds that dark forces surround the seemingly innocent girl, and the more she tries to protect Lilith, the more horrors she encounters.",
+    "background": "https://image.tmdb.org/t/p/original/qPNoCO4aEpKiXopvJ0qH2HHjvLz.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1n8jfuyBxpydQteqwfgpX0HrUVNGmw6ts",
     "type": "movie",
-    "name": "Aka.2023.480P.Web-Dl.Hindi.English.French.Msubs",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOsLq21iF4_PzPDF221zK_K5hIQVdRxmIqM1T0FeF_fM7uRdaJXw9efE_n4M1Brvx-REvgOpqp-mM26eTzeZ59oWwJmO28yZVK_FcuhHSf9wP4=s220",
-    "description": "\"AKA\" is a thrilling and emotionally charged film that will have audiences on the edge of their seats. The movie follows a tough-as-nails special ops agent who is tasked with infiltrating a dangerous crime syndicate. As he delves deeper into the organization, he finds his morality and beliefs tested like never before."
+    "name": "28 Days",
+    "poster": "https://image.tmdb.org/t/p/original/tlgz7Shx0UavR5pyITeJ2mUHKFI.jpg",
+    "description": "After getting into a car accident while drunk on the day of her sister's wedding, Gwen Cummings is given a choice between prison or a rehab center. She chooses rehab, but is extremely resistant to taking part in any of the treatment programs they have to offer, refusing to admit that she has an alcohol addiction.",
+    "background": "https://image.tmdb.org/t/p/original/7beW8ftY4yVBdCu7gWKXogm0q22.jpg",
+    "released": "2002-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1Yy5aI8bek6q4TLK16dxtrrHfbeBNfb-T",
@@ -1956,9 +1995,12 @@
   {
     "id": "gdrive:12n9kOY8Q3sWVT7U1gS8nzhK8UHCdsQGV",
     "type": "movie",
-    "name": "Aka.2023.480P.Web-Dl.Hindi.English.French.Msubs",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNWtSc9iWuOoKqKRiV07bkEq4a61nG_VMDptJ6EIzv77Qv1XCCpqdGH-JeYMwgCUAJPdNoAufZ0TZAf5PdHhi1RhY5RJwyVTURsaK5mwsM8QwM=s220",
-    "description": "\"AKA\" is a thrilling and emotionally charged film that will have audiences on the edge of their seats. The movie follows a tough-as-nails special ops agent who is tasked with infiltrating a dangerous crime syndicate. As he delves deeper into the organization, he finds his morality and beliefs tested like never before."
+    "name": "100 Feet",
+    "poster": "https://image.tmdb.org/t/p/original/ryocnetNNLWs0Oefkqkea6HccqV.jpg",
+    "description": "After Marnie Watson kills her abusive husband in self-defense, she is condemned to house arrest... only to discover that the house is possessed by the enraged and violent spirit of her dead husband.",
+    "background": "https://image.tmdb.org/t/p/original/jZu09TyQAiUaQRHa7L18eVBPzdS.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1l6NktFkp5ElBCS5NC3B6yIhkLi0dBCrl",
@@ -1993,9 +2035,12 @@
   {
     "id": "gdrive:195U5M7EP9PRAxsp-0QyEagI_HGqRlblH",
     "type": "movie",
-    "name": "The Hills Have Eyes (2006) Dual Audio {Hindi-English} ESubs BluRay 1080p .mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOE-iDJDYeJYus_BG7HfVHS-Si3QLIPYN90pe27jgjjy3AssQlt0KZCE2nYpY2a3wcN8zCknCCkf9PhwFTlpXvqJWEJ32YvWSo64OwUferGdWg=s220",
-    "description": "Size: 2.32 GB"
+    "name": "The Hills Have Eyes",
+    "poster": "https://image.tmdb.org/t/p/original/2eJL1Ccr1FN3dm9OSDwyd8uaX1b.jpg",
+    "description": "Based on Wes Craven's 1977 suspenseful cult classic, The Hills Have Eyes is the story of a family road trip that goes terrifyingly awry when the travelers become stranded in a government atomic zone. Miles from nowhere, the Carter family soon realizes the seemingly uninhabited wasteland is actually the breeding ground of a blood-thirsty mutant family...and they are the prey.",
+    "background": "https://image.tmdb.org/t/p/original/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1WW-TAt6yMyek55XRB4yGFbeGxpdYnTPS",
@@ -2010,23 +2055,32 @@
   {
     "id": "gdrive:1cGUIRE1pcddTXBcIEKSNKL0qbbHtu5cH",
     "type": "movie",
-    "name": "28 Days Later....2002 1080p BluRay Hindi DTH English ESubs MoviesMod.Dev.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNd3glU95BPeT-eesOijTwvVA7pq8sU8n0LSOpzxv86iTEau-Wgzt49gOkEWt4Pp9lu8B65o8YD2IQuCw21127Sb97320egTmwp1Iz3TmymyfE=s220",
-    "description": "Size: 2.45 GB"
+    "name": "28 Days Later",
+    "poster": "https://image.tmdb.org/t/p/original/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+    "description": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "background": "https://image.tmdb.org/t/p/original/x085XrfEmU31QeXgMFttmuoGr0Y.jpg",
+    "released": "2002-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1Cd0n5cOi_6d7wGUg3qnkp2dWfWNS0xap",
     "type": "movie",
-    "name": "Collateral Damage (2002) {Hindi-English} 1080p BluRay ESub [BollyFlix].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN35IxWCHiMKdvbWgmZeUvpGHddIfTaJKAxsD_39nc2q_tfkHH1whqQ-GuuNP93RaqA2XLIQ5keOZTB66iciELC9sw05Ndxff-gteDcnr5yUWA=s220",
-    "description": "Size: 2.22 GB"
+    "name": "Collateral Damage",
+    "poster": "https://image.tmdb.org/t/p/original/rALb2pU8QQGIlYdHezB2F5kwecI.jpg",
+    "description": "Firefighter Gordon Brewer is plunged into the complex and dangerous world of international terrorism after he loses his wife and child in a bombing credited to Claudio 'The Wolf' Perrini.",
+    "background": "https://image.tmdb.org/t/p/original/tmLZMOhiqYL76PfzTYexXwTnouJ.jpg",
+    "released": "2002-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1w3k53X-_d3z4oR0hrsNlteqF2bmATl2J",
     "type": "movie",
-    "name": "Collateral (2004) {Hindi-English} 1080p (10Bit) BluRay ESub [BollyFlix].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN3zIoFFgk-6BG0IejGJX1U0LbiquYG-h3ANESp40mo9ncLXNUCtdjas2_MA7X__9ajJJfuJpqgovn9XmHcgZGaKe5uzS-8wuGR0Ag8KQt1rgk=s220",
-    "description": "Size: 4.29 GB"
+    "name": "Collateral",
+    "poster": "https://image.tmdb.org/t/p/original/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+    "description": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+    "background": "https://image.tmdb.org/t/p/original/eY6bnNP10bWljC19v8UXAScHyuP.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1owUaoh20tmutUkIMOKvCt-9nhSgI4PTB",
@@ -2051,9 +2105,12 @@
   {
     "id": "gdrive:1QZ-XKGSKAgZtHAF-_X1swOQ6oOA_Wz8P",
     "type": "movie",
-    "name": "Red Water (2003) Dual Audio {HindiEnglish} 1080p WEBDL ESub [BollyFlix].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNhAKGEjQH04icIXcFOZaNt1r5nR1Ks8gGv0JlgEFTr3Z5B_3XdrnpEYAQe-Fy2d8C964_U7bYPn9_99RHkHxRT7M2JvzZYGwThZwTt52wisAI=s220",
-    "description": "Size: 2.31 GB"
+    "name": "Red Water",
+    "poster": "https://image.tmdb.org/t/p/original/uezeMaxUfqhKzHU4JkqpSSHI639.jpg",
+    "description": "In the quiet waters of the Mississippi, body parts are being discovered. No one knows what is behind it all, until a huge man eating bull shark turns up. This bull shark is different, as it can breath in fresh water, making a deadly encounter between anyone who comes before it. John Sanders must now try and reach the surface, with his ex-wife and whilst being held hostage.",
+    "background": "https://image.tmdb.org/t/p/original/z97nIAAEPD0CFZvOnwoTheoKqEV.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1nGPUhktuF_HDG58x-3NnI0YuA2GTm7XB",
@@ -2098,11 +2155,11 @@
   {
     "id": "gdrive:13nTmP9rbTmevr9JFta6tBZ-RhqLqahdf",
     "type": "movie",
-    "name": "Agent Cody Banks",
-    "poster": "https://image.tmdb.org/t/p/w500/fhK0mqqirPsckxkNisvi32A4lf6.jpg",
-    "description": "Recruited by the U.S. government to be a special agent, nerdy teenager Cody Banks must get closer to cute classmate Natalie in order to learn about an evil plan hatched by her father. But despite the agent persona, Cody struggles with teen angst.",
-    "background": "https://image.tmdb.org/t/p/w1280/rkdVFDVfTMuk8AetzvJ0C4gVE5c.jpg",
-    "released": "2003-01-01",
+    "name": "Agent Cody Banks 2",
+    "poster": "https://image.tmdb.org/t/p/original/l5CCDJV0VojPJedNcucPWBnrGaC.jpg",
+    "description": "With all-new gadgets, high-flying action, exciting chases and a wisecracking new handler, Derek (Anthony Anderson), Cody has to retrieve the device before the world's leaders fall under the evil control of a diabolical villain.",
+    "background": "https://image.tmdb.org/t/p/original/dkCeC92reZFKnZDspABZVpk0RLW.jpg",
+    "released": "2004-01-01",
     "imdbRating": "5.5"
   },
   {
@@ -2158,9 +2215,12 @@
   {
     "id": "gdrive:1RzxwVwhmbvN1CbyxsbGgWJ3JDlfTnHqP",
     "type": "movie",
-    "name": "Bend It Like Beckham (2002) Hin-Eng (1080p BluRay x265 10bit) [PMZ].mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPVFGawKxEWNjyrNaT5DOPn-Tybch19txCWZSYdYiHchy7CTuuawla-6igwWs61ovFKfqh5KnO6V-Vuz6aX5JW9mEZQ_yKv9d_Wu01_0qM0O0g=s220",
-    "description": "Size: 4.63 GB"
+    "name": "Bend It Like Beckham",
+    "poster": "https://image.tmdb.org/t/p/original/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg",
+    "description": "Jess Bhamra, the daughter of a strict Indian couple in London, is not permitted to play organized soccer, even though she is 18. When Jess is playing for fun one day, her impressive skills are seen by Jules Paxton, who then convinces Jess to play for her semi-pro team. Jess uses elaborate excuses to hide her matches from her family while also dealing with her romantic feelings for her coach, Joe.",
+    "background": "https://image.tmdb.org/t/p/original/9WXBGRdXoloRyiQpDNKbWSme2JC.jpg",
+    "released": "2002-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:14HcUnYUZsvid3UagpfHQn7Zs5GtSleo-",
@@ -2295,9 +2355,11 @@
   {
     "id": "gdrive:1Ue1G97pagYRq6F9APDqZopk1V7Aj_pN9",
     "type": "movie",
-    "name": "Download/watch wednesday dual audio [English-Hindi] for free",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPTw3SykdTuoB609JfQ6XZa6msD5KbEAvtFItsi5hk5ts5upSiioP695qzYIUjSDO765AJ_OItMesifRMkvJyv9_C6FHh3MfmdIbbXcznJDL3g=s220",
-    "description": "Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spree of the town citizens, and solve the supernatural mystery that affected her family 25 years ago — all while navigating her new relationships.  Download/watch wednesday dual audio [English-Hindi] for free  copy and paste this url in your browser  https://cinematicotaku.com/anime/wednesday/"
+    "name": "Wednesday",
+    "poster": "https://image.tmdb.org/t/p/original/aCOC1vLnRCtNqecfJ2qFBlMYDfr.jpg",
+    "description": "Wednesday is a story of life, love, loss, and redemption. It is divided into four separate segments: Luke & Lucy, Purgatory, Lyrics of a Lowly Life, and Narcissus Flower. Each segment details how different people deal with love and loss. These basic human emotions exist across the world, it's how we individually deal with them that separates and connects us all.",
+    "released": "2006-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1bJvqMCZ6LG48FvjfLKk_SjH_0fDSqH6_",
@@ -2352,9 +2414,12 @@
   {
     "id": "gdrive:1KRg8GnXRTLHtnfolLqAvb2fEgf8avq6H",
     "type": "movie",
-    "name": "CJ7.2008.1080p.BRRip.Hindi.DualAudio.Moviesmod.Org.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPxgUjVKmOIf9KyvhTVFYpG2awkjof74esCdLyUGgFZik_OHj26HSCH60BVS4XMGwTVuv6gmSLgbQQcbs9xQjiSRdz7F5aFLsqS8TjYC2rjTZc=s220",
-    "description": "Size: 1.57 GB"
+    "name": "CJ7",
+    "poster": "https://image.tmdb.org/t/p/original/sRzSfpSb3wYYshbaiMRIuFCJJGU.jpg",
+    "description": "A poor construction worker, who struggles to keep his son in private school, mistakes an orb he finds in a junkjard for a toy which proves to be much, much more once the young boy starts to play with it.",
+    "background": "https://image.tmdb.org/t/p/original/7y0ol1zsvs0GbYR0BdTvWdOIDHo.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1mJ62SqT6KXr9Xbes6XV8RtwhmX8DnhIu",
@@ -2419,9 +2484,12 @@
   {
     "id": "gdrive:1dqgMx4RT7qsDGAtagyea_S6Efq9U0aD7",
     "type": "movie",
-    "name": "7 Seconds 2005 1080p 10Bit HEVC BluRay Hindi VCD English ESubs  MoviesMod.Pro.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMiuiSO-qwDFwKiMZWkcRp4O6V1_we7UFes9F06xbsrakKWM8TVPg8l_2HnECzKKXPOKzv5tfCG-d0a4qlhb5jS1rT0_BGbWD1LTH1mpluL3L0=s220",
-    "description": "Size: 2.85 GB"
+    "name": "7 Seconds",
+    "poster": "https://image.tmdb.org/t/p/original/VMEpy6MrnTN8rPeIQkyOxebmlW.jpg",
+    "description": "When an experienced thief accidentally makes off with a Van Gogh, his partner is kidnapped by gangsters in pursuit of the painting, forcing the criminal to hatch a rescue plan.",
+    "background": "https://image.tmdb.org/t/p/original/omwomAq52PJ7tTyZqqgqnM5juuq.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:17t0g96XHdw4U-ZSDrsigunzgQdGB3lg0",
@@ -2506,9 +2574,12 @@
   {
     "id": "gdrive:1Oe5Wm6ctbT6wVLGQoGwyDb0itEzBey9L",
     "type": "movie",
-    "name": "I Am Legend (2007) Alternate Cut 1080p BluRay REMUX x264 AVC [Org AMZN Hindi DD 5.1 ~ 640Kbps + English DTS-HDMA 5.1] ESub ~ LEGi0N.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNN-GlPi-kkpSMftUzrtHSWtIYc5kthCtcDUPhfKScUrg67t2hZOak5x3Y7j-lcN60xbDf3Yus5OFsH-wBpTuZWSHbDJz_4hMCxpCswHq6Oa0s=s220",
-    "description": "Size: 16.61 GB"
+    "name": "I Am Legend",
+    "poster": "https://image.tmdb.org/t/p/original/fhbiz5BsGUVEZmzPP72SoPlbMz0.jpg",
+    "description": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+    "background": "https://image.tmdb.org/t/p/original/qg0OLFasb1kNrAhKjqh4zTW37pS.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1SC4uruFAOehupHYoQZVSlPgCaB2KFCXZ",
@@ -2990,11 +3061,12 @@
   {
     "id": "gdrive:1ukzcZVw_ZNe5-M6X-J7c4F6WWoqJKbmn",
     "type": "movie",
-    "name": "Going",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOs287sTHcb0UBHF9Le2RzWtmpE1PkYa3XWth7bDQmaTTTYT5ZUxi9GS95IcWSS4-2B7Q5oX7vJh1uRsJhk9OLlV8ixbw80CIhjsD1BzMn-xNo=s220",
-    "description": "\"My Mother, who had immigrated from Australia, always wanted to see the North. Mom suggested we go on a trip to Moosonee and Moose Factory. Jim and David Anderson came along too. One roll of film was loaded into the camera twice, creating superimposed images... a happy accident.\"",
-    "released": "1975-01-01",
-    "imdbRating": "6.5"
+    "name": "13 Going on 30", 
+    "poster": "https://image.tmdb.org/t/p/original/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
+    "description": "After total humiliation at her thirteenth birthday party, Jenna Rink wants to just hide until she's thirty. Thanks to some magic wishing dust, Jenna's prayer has been answered. With a knockout body, a fabulous wardrobe, an athlete boyfriend, a dream job, and superstar friends, this can't be a better life. But soon Jenna realizes that adult life isn’t as easy as she hoped for.",
+    "background": "https://image.tmdb.org/t/p/original/snwkqb23cuMd0qY1MPffXWWBoZV.jpg",
+    "released": "2004-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:12H1n5rDqZaA_9VZt10_0Nhcd18tphn86",
@@ -3149,9 +3221,12 @@
   {
     "id": "gdrive:112lJBBuiaOgGgufu0N_KuKP1FMunsgmN",
     "type": "movie",
-    "name": "2012 (2009) 1080p 10bit Bluray [BD 5.1 Hindi + DD 5.1 English] x265-UHDMovies.mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOVNMPZ1UUDbJtqYJshS4pbTMuscAxuDtE6rChr46uZkrv_gM91I6GrhweDFPMV4JryPTRhBkdibHFLH1QRvNkGr4IElj7KWQmc7-K6JqiHf2I=s220",
-    "description": "Size: 3.11 GB"
+    "name": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/Ab0wEWfwWtfnRQE5l6wC0d0qT6O.jpg",
+    "description": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build "arks" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+    "background": "https://image.tmdb.org/t/p/original/1XVmQ1rAqiQAi6012RCuKqWzCFr.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:19J63FDpJx_Yv0TMJ2IZDd6FKK3iOyMQt",
