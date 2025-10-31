@@ -449,9 +449,12 @@
   {
     "id": "gdrive:1YexuC89YM1tACVroVQE8Fy-fVJ8hjU1M",
     "type": "movie",
-    "name": "Wind Chill (2007) Open Matte 1080p WEB-DL [Hindi DDP 2.0 + English DDP 5.1] x264 (NOGRP-LUMiX).mkv",
-    "poster": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPg6C8iUlxPvVbhk0wjxaW3nlkAGu1oDsTKpPxMLNaKU_9bajb0wPts49v7xLNCei1P7UXClpF10Z6EeaHhNt5VvF8nEJgRwSD0bQnIZ9gr9Q=s220",
-    "description": "Size: 5.56 GB"
+    "name": "Wind Chill",
+    "poster": "https://image.tmdb.org/t/p/original/hCHJNA3ZhfwmbMARfj0XqwYI0hC.jpg",
+    "description": "Two college students share a ride home for the holidays. When they break down on a deserted stretch of road, they're preyed upon by the ghosts of people who have died there.",
+    "background": "https://image.tmdb.org/t/p/original/wvgUIZ7azPKBnLLWPk41Qqu8ycZ.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "5.7"
   },
   {
     "id": "gdrive:1Z_bWJ1UQo71JpJ7_UD0ngDcqzaEz1hUc",
