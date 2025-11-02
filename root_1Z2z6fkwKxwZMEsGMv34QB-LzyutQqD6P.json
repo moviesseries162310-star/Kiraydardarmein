@@ -6441,5 +6441,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eIRzqpRjWDGIe9PC83Frybi2LZP.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:19ff348GKnJMjbyMvzwH6lE7U1tUy2UiR",
+    "type": "movie",
+    "name": "High Tide",
+    "poster": "https://image.tmdb.org/t/p/w500/cSj4FwodJVbkwzL8Xvee7H0vVTi.jpg",
+    "description": "A backup singer gets stranded in a small coastal town after losing her job in a band. She winds up in a caravan park only to encounter, by accident, the teenage daughter she deserted following her husband's death.",
+    "background": "https://image.tmdb.org/t/p/w1280/cM5RAwQ5o46EgZFKTsfeyLrj1pZ.jpg",
+    "released": "1987-01-01",
+    "imdbRating": "6.4"
   }
 ]
