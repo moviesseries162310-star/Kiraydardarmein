@@ -9635,5 +9635,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
     "released": "2025-01-01",
     "imdbRating": "4.9"
+  },
+  {
+    "id": "gdrive:1EMsgnaM3D_1ODH0I9mNEE_XFRe9O9a33",
+    "type": "movie",
+    "name": "Ballad of a Small Player",
+    "poster": "https://image.tmdb.org/t/p/w500/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+    "description": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
+    "background": "https://image.tmdb.org/t/p/w1280/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.3"
   }
 ]
