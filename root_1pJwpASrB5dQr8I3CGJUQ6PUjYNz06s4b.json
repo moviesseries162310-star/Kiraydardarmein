@@ -9645,5 +9645,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1bGZ8SfKAOH0w0Po-XJ7gXh64d6qbKqKi",
+    "type": "movie",
+    "name": "Hedda",
+    "poster": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
+    "description": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
+    "background": "https://image.tmdb.org/t/p/w1280/cKZcDKawR79igCgDMSXlpkn8hLR.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "4.8"
   }
 ]
