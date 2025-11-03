@@ -9685,5 +9685,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/r2u7GCYhxtpZbprKJIgdAkGQow3.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1_Pu-Y0F_y09Fk1RZY16RU0mQXqxf4rlg",
+    "type": "movie",
+    "name": "Dr. Seuss's The Sneetches",
+    "poster": "https://image.tmdb.org/t/p/w500/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
+    "description": "An unexpected friendship forms between two young Sneetches on an island surrounded by beaches in this sweet musical special set in the world of Seuss.",
+    "background": "https://image.tmdb.org/t/p/w1280/9Apjnxx4BQ2opZr022r5Me5J8zi.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
