@@ -9695,5 +9695,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9Apjnxx4BQ2opZr022r5Me5J8zi.jpg",
     "released": "2025-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1QPsrl-edW4BP4FeUre9SW-QceGoDXEHZ",
+    "type": "movie",
+    "name": "Black Phone 2",
+    "poster": "https://image.tmdb.org/t/p/w500/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
+    "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+    "background": "https://image.tmdb.org/t/p/w1280/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.1"
   }
 ]
