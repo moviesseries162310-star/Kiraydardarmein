@@ -9735,5 +9735,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tG5ZSx57zkijfK975aENinlOdIy.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1FZGRtNJ3kRDp2gaONLBdabBgL3SIj5E1",
+    "type": "movie",
+    "name": "Tyler Perry's Finding Joy",
+    "poster": "https://image.tmdb.org/t/p/w500/sUMdbrjHhMFDY327B31ctpF9MuY.jpg",
+    "description": "Joy, a successful designer, seeks a proposal at Christmas. In Wyoming's mountains, she finds what she truly needs when the man she loves sees her as just a friend.",
+    "background": "https://image.tmdb.org/t/p/w1280/ss8aaeGyPRmOs9l9o9lL7FvcmbQ.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
