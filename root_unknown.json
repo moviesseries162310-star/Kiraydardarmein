@@ -8,5 +8,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fc4Shbli2S1BwUgoTjvP3BIM9VX.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1OnU6NT8x7R_lnz-GFTbAa0TuiMU3qDRP",
+    "type": "movie",
+    "name": "Fantastic Four",
+    "poster": "https://image.tmdb.org/t/p/w500/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg",
+    "description": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+    "background": "https://image.tmdb.org/t/p/w1280/97Sl8wiR9ULc53YMfiAUf9wWbdM.jpg",
+    "released": "2005-01-01",
+    "imdbRating": "5.8"
   }
 ]
