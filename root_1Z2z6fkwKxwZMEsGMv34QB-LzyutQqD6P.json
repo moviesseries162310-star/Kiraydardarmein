@@ -6541,5 +6541,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1g7wLWokZ-k2OsJehojcEXR3jYJEdH5qn",
+    "type": "movie",
+    "name": "The Gambler",
+    "poster": "https://image.tmdb.org/t/p/w500/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
+    "description": "Literature professor Jim Bennett leads a secret life as a high-stakes gambler. Always a risk-taker, Bennett bets it all when he borrows from a gangster and offers his own life as collateral. Staying one step ahead, he pits his creditor against the operator of an illicit gambling ring while garnering the attention of Frank, a paternalistic loan shark. As his relationship with a student deepens, Bennett must risk everything for a second chance.",
+    "background": "https://image.tmdb.org/t/p/w1280/yNz3HMbPDIawT7WH0MzkTrBBa1w.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "6.0"
   }
 ]
