@@ -28,5 +28,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1qe22C4-a_9FhWv0L7Xh1oX-RNvjrO-VH",
+    "type": "movie",
+    "name": "Grand Prix of Europe",
+    "poster": "https://image.tmdb.org/t/p/w500/jGGEqRaHAJ1pKJBj35WVxDyQBNw.jpg",
+    "description": "Edda, a young mouse and the daughter of fairground operator Erwin, dreams of becoming a race car driver. Ahead of the 50th anniversary of the European Grand Prix, Edda gets the opportunity to meet her idol, racing star Ed, and to help her father save his failing business. But to do so, she'll have to get behind the wheel herself.",
+    "background": "https://image.tmdb.org/t/p/w1280/keToI4XlwYVtImAXjoeoaLJKnfc.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
