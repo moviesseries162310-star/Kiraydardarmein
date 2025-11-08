@@ -8,5 +8,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1rQvIyiIFpnASOF5RaTOC_0HFg-uJVB7p",
+    "type": "movie",
+    "name": "Good Boy",
+    "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+    "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+    "background": "https://image.tmdb.org/t/p/w1280/y47aBf7GFdcwtdmCxEis14hPZS4.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
