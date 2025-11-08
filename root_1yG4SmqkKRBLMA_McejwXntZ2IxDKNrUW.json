@@ -3334,5 +3334,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/njJQBmalOYu6Re5FObEGtbhVmWm.jpg",
     "released": "2025-01-01",
     "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive:1SXffECXTSA80NsMqVcez9YJIUJ59rcbt",
+    "type": "movie",
+    "name": "Ek Chatur Naar",
+    "poster": "https://image.tmdb.org/t/p/w500/apMb2Oz9uvqA19dawmeglKM7THX.jpg",
+    "description": "Abhishek Verma, a fund consultant, gets trapped in a web of lies, deception and blackmail after a good-for-nothing but cunning woman, failing to make ends meet, gets her hands on his phone, which lets slip more than anyone should know, forcing him to comply.",
+    "background": "https://image.tmdb.org/t/p/w1280/m223f5ZdF71Bui9FUpmwYNJHDAV.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
