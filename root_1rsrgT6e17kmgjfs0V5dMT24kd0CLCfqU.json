@@ -18,5 +18,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/y47aBf7GFdcwtdmCxEis14hPZS4.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1ipvA5dQxLKWrY3rgyUmoCfK2gThjDcV1",
+    "type": "movie",
+    "name": "Omniscient Reader: The Prophecy",
+    "poster": "https://image.tmdb.org/t/p/w500/3R3dXO2nm8JyR5NG7SEfii7RzlV.jpg",
+    "description": "Kim Dok-ja, an ordinary man in his 20s, is the only reader of an obscure web novel titled \"Three Ways to Survive the Apocalypse\". After having read the last chapter, the novel suddenly becomes reality, and its omnipotent hero Yu Jung-hyeok appears before Kim. As the only person who knows how to survive in this world, Kim and his companions strive to save the world by writing his own, new ending.",
+    "background": "https://image.tmdb.org/t/p/w1280/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
