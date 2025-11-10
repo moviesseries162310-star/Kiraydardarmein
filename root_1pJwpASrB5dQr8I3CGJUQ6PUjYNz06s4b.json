@@ -9775,5 +9775,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive:1Eo0j0u-3IqfapSIl5h9B4_jdIjTOaua4",
+    "type": "movie",
+    "name": "For The New Emperor",
+    "poster": "https://image.tmdb.org/t/p/w500/iUQYA0yhRe3k9WGzZxkohAdAPPL.jpg",
+    "description": "After graduating from the \"New Emperor\" high school, which was famous for its legendary fists, he receives a secret offer from an old friend.\r After entering the dark world, his hidden ambition awakens, and he is strongly attracted to Joo Mi-ran, the woman of the boss.\r If there's no turning back, we'll go to the end!",
+    "background": "https://image.tmdb.org/t/p/w1280/7KyLkbs85mxy53BP0mmhenjPD50.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "3.7"
   }
 ]
