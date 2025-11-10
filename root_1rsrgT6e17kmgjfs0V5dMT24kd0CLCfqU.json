@@ -38,5 +38,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/keToI4XlwYVtImAXjoeoaLJKnfc.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1VUGsRMf1j1lKNZfzTVgR6eDWPMj1klP_",
+    "type": "movie",
+    "name": "Stone Cold Fox",
+    "poster": "https://image.tmdb.org/t/p/w500/yGMuIDdcOTsfgKyHGEisIGQCbQC.jpg",
+    "description": "In this '80s-set revenge story, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped.",
+    "background": "https://image.tmdb.org/t/p/w1280/bkSaUZgRL2J2Wp4NPq8cYha8SJs.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
