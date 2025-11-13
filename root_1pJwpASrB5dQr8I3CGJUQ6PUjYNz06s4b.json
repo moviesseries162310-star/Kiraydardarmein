@@ -9865,5 +9865,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:1vxSxuG4eLRXzNIwv9oF6ORs1-eet_KvR",
+    "type": "movie",
+    "name": "Panda Plan",
+    "poster": "https://image.tmdb.org/t/p/w500/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",
+    "description": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+    "background": "https://image.tmdb.org/t/p/w1280/dXoBFj9Yl9HDRcDVQubkuVCh26N.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.9"
   }
 ]
