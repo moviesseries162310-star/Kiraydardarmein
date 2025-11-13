@@ -9845,5 +9845,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4QpKxH614YFIsmiIBVUbsnG2H8w.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive:1hH_eyRWGYPQ1jdPueKuOvCGymgwibuMv",
+    "type": "movie",
+    "name": "Freakier Friday",
+    "poster": "https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+    "description": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+    "background": "https://image.tmdb.org/t/p/w1280/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.9"
   }
 ]
