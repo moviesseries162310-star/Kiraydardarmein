@@ -9805,5 +9805,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/A6MQBEobDU0neBuKPqxkEYwD35K.jpg",
     "released": "2024-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1dACImwPAymoqqS-bTPsTro_TpyObFm3j",
+    "type": "movie",
+    "name": "Yadang: The Snitch",
+    "poster": "https://image.tmdb.org/t/p/w500/y7dsDbG8zVWkrkyOhA6ckZXX1uC.jpg",
+    "description": "Navigating both the criminal underworld and law enforcement agencies, professional snitches called \"yadang\" provide covert information about the drug world to prosecutors and police. When a drug bust at a party attended by high-profile second-generation VIPs entangles those involved into a dangerous conspiracy, a seasoned yadang must do everything in his power not just to make it out on top, but alive.",
+    "background": "https://image.tmdb.org/t/p/w1280/9pdoEzieGdUTlRWTAO7QP8q1tIo.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.0"
   }
 ]
