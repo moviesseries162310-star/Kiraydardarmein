@@ -48,5 +48,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bkSaUZgRL2J2Wp4NPq8cYha8SJs.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1srWZBeQ_ZUPDfCzXUZ1Kv8OV-1t3CS8R",
+    "type": "movie",
+    "name": "Queens of the Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/neo8e4XO9C3GsEups0Xmr9pfEHO.jpg",
+    "description": "When a zombie apocalypse breaks out in Brooklyn on the night of a giant warehouse party, an eclectic group of drag queens, club kids, & frenemies must put aside their drama and use their unique skills to fight against the brain-thirsty, scrolling undead.",
+    "background": "https://image.tmdb.org/t/p/w1280/iVhkaPUv0bFEjSxjxAPuxoMLQtz.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.7"
   }
 ]
