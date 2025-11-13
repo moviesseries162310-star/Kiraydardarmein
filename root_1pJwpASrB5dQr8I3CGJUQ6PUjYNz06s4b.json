@@ -9795,5 +9795,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/51cAtyYaD5jwta7mpWfrnZJPexN.jpg",
     "released": "2005-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1tcAP8X4EVaEfQE-6RZ9NHMopYDkta8z4",
+    "type": "movie",
+    "name": "Duchess",
+    "poster": "https://image.tmdb.org/t/p/w500/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg",
+    "description": "A tough, working-class petty criminal is drawn into the treacherous world of diamond smuggling and morphs into an anti-heroine to be reckoned with in the murky underworld.",
+    "background": "https://image.tmdb.org/t/p/w1280/A6MQBEobDU0neBuKPqxkEYwD35K.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "5.9"
   }
 ]
