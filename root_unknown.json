@@ -98,5 +98,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ouuG2SxecRBS3TmxlzGpuYlTDCP.jpg",
     "released": "2013-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive-folder:1CxLAsnfpDGU1Nq70WnyOJsdrRSNsKuAA",
+    "type": "movie",
+    "name": "Detective Conan",
+    "poster": "https://image.tmdb.org/t/p/w500/ibd5jpPu2oxup9ecU8xvwlRZF0O.jpg",
+    "description": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "background": "https://image.tmdb.org/t/p/w1280/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
+    "released": "1996-01-01",
+    "imdbRating": "8.0"
   }
 ]
