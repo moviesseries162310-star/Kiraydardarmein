@@ -108,5 +108,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
     "released": "1996-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:1iUWra_6WVieOWTPUnDid8OCaG9ea-6wC",
+    "type": "movie",
+    "name": "Lupin the Third vs. Detective Conan: The Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/p3FnegNtmeAKuMWXrce9JDmJw4Y.jpg",
+    "description": "Conan Edogawa sets out to apprehend Lupin the Third, the suspect of stealing a jewel called Cherry Sapphire.",
+    "background": "https://image.tmdb.org/t/p/w1280/pgYrmDzOfaKsj7NnvQ1HIv6p3wW.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "6.9"
   }
 ]
