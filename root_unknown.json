@@ -218,5 +218,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive:1WVo_I7uE6ugBDS9BwfnWq7HzRLiLRNwU",
+    "type": "movie",
+    "name": "Dragon Ball Super: Broly",
+    "poster": "https://image.tmdb.org/t/p/w500/5vx8zZ7fDsA8KMO6fiVs3pZmNWQ.jpg",
+    "description": "Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called 'Broly' who they've never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what's this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.",
+    "background": "https://image.tmdb.org/t/p/w1280/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.9"
   }
 ]
