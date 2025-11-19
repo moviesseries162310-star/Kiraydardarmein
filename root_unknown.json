@@ -298,5 +298,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:12H5zAZF4ZBRzfkqJL4p-McBX7VP94NCn",
+    "type": "movie",
+    "name": "Insidious: Chapter 3",
+    "poster": "https://image.tmdb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+    "description": "A twisted new tale of terror begins for a teenage girl and her family, and revealing more mysteries of the otherworldly realm, 'The Further'.",
+    "background": "https://image.tmdb.org/t/p/w1280/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "6.3"
   }
 ]
