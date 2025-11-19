@@ -338,5 +338,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/PwI3EfasE9fVuXsmMu9ffJh0Re.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1Nvql33q_g3pSnVAdGAl6jlFeaoaltVU4",
+    "type": "movie",
+    "name": "Insidious: Chapter 2",
+    "poster": "https://image.tmdb.org/t/p/w500/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg",
+    "description": "The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.",
+    "background": "https://image.tmdb.org/t/p/w1280/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "6.7"
   }
 ]
