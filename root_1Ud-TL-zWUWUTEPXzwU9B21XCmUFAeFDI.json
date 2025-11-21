@@ -908,5 +908,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xr5tpxRC5BXdI25Ikvlvwvj7aTi.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:1aKV_KLLYlGV2HIERJIOCDmyodNEcFf5J",
+    "type": "movie",
+    "name": "In Love with a Rich Girl",
+    "poster": "https://image.tmdb.org/t/p/w500/yMRTm9gSTvBtNocgqMHNFozsJVy.jpg",
+    "description": "Albee is a pampered, high-class young lady who has never experienced any hardship in her life. On her birthday, just when she expects to be proposed to by her long-time boyfriend Huang Bo Cheng, her life is turned upside down. Her father is forced to flee the country and she finds herself without a father, home, or even a boyfriend. Soon after she finds herself destitute, she reads in the tabloids that Huang Bo Cheng and her best friend Zhen Zhen have been secretly seeing each other. To make matters worse, she is being followed by a tabloid photographer. What will Albee do?",
+    "background": "https://image.tmdb.org/t/p/w1280/5vytu1vBsxmMItpjaB3e1UOSEYB.jpg",
+    "released": "2004-01-01",
+    "imdbRating": null
   }
 ]
