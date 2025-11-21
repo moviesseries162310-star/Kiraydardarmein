@@ -9895,5 +9895,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/s7BTYCanC0f43HYs5cM1o02pKWA.jpg",
     "released": "2025-01-01",
     "imdbRating": "3.3"
+  },
+  {
+    "id": "gdrive:1jlcVAgH9N-dJKXVJM2o9z2II33Lqdw19",
+    "type": "movie",
+    "name": "Champagne Problems",
+    "poster": "https://image.tmdb.org/t/p/w500/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
+    "description": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
+    "background": "https://image.tmdb.org/t/p/w1280/4FzoxZAJnhpoeYHexQCHorsWLxB.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.6"
   }
 ]
