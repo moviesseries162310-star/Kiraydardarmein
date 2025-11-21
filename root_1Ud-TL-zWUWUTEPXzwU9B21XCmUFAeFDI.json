@@ -688,5 +688,15 @@
     "background": null,
     "released": "2001-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1A7_rGoOTWPUgaOyqUU857HdNe9YKree-",
+    "type": "movie",
+    "name": "The Karate Kid",
+    "poster": "https://image.tmdb.org/t/p/w500/x3x3jcyPBrrzdtY7wM8GBcbQGd8.jpg",
+    "description": "Daniel and his mentor Mr. Miyagi travel the world with their Okinawan friend Taki Tamurai in search of an ancient Japanese talisman stolen from an old fishing village.",
+    "background": "https://image.tmdb.org/t/p/w1280/8Q9VIPsLLV1aNIHyoFmXzN35b7S.jpg",
+    "released": "1989-01-01",
+    "imdbRating": "7.2"
   }
 ]
