@@ -1378,5 +1378,15 @@
     "background": null,
     "released": "2016-01-01",
     "imdbRating": "9.0"
+  },
+  {
+    "id": "gdrive-folder:1ZsXxy-2uEAzhmiYiMOr6o_Hc6_jK3Kyq",
+    "type": "movie",
+    "name": "ted",
+    "poster": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+    "description": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
+    "background": "https://image.tmdb.org/t/p/w1280/cFyp7F8qiBSuSj1qhUnu8MDvubl.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.9"
   }
 ]
