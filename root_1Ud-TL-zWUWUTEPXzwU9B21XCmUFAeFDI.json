@@ -758,5 +758,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7X35bnTMqgdgusAtbyxR2lNX9aL.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive-folder:10xrv8IkOX6Urm_bRiYWUKurUQOKdupvu",
+    "type": "movie",
+    "name": "Independence Day",
+    "poster": "https://image.tmdb.org/t/p/w500/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "description": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+    "background": "https://image.tmdb.org/t/p/w1280/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+    "released": "1996-01-01",
+    "imdbRating": "6.9"
   }
 ]
