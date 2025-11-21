@@ -58,5 +58,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/iVhkaPUv0bFEjSxjxAPuxoMLQtz.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1E4jL5yhHlw1s3tmPGFkm63rEzQoY5tGc",
+    "type": "movie",
+    "name": "Stitch Head",
+    "poster": "https://image.tmdb.org/t/p/w500/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
+    "description": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+    "background": "https://image.tmdb.org/t/p/w1280/zIFFlcvilrrbUlveEbIsFAtUfGT.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.0"
   }
 ]
