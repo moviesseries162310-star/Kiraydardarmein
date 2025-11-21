@@ -348,5 +348,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/JrBiUtR2CwxZR5GMK5Z9dU7Wr4.jpg",
     "released": "1974-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive-folder:10JrDAOHJCnFNnLq-dMSKFA7O5N-92dsp",
+    "type": "movie",
+    "name": "Ghostbusters",
+    "poster": "https://image.tmdb.org/t/p/w500/eCFVXOKruQ5Rt5Pv87si2LcnmRU.jpg",
+    "description": "Jake Kong Jr. and Eddie Spencer Jr. are sons of the original Ghost Busters, and they work alongside Tracy the Gorilla (who also worked with their fathers). Together, they are dedicated to ridding the world of the evil ghost wizard Prime Evil and his cast of henchmen.",
+    "background": "https://image.tmdb.org/t/p/w1280/gRMwBmDEhAVJu54Pwli5YKR0VOa.jpg",
+    "released": "1986-01-01",
+    "imdbRating": "6.6"
   }
 ]
