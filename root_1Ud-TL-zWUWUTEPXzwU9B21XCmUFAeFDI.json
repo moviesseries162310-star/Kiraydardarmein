@@ -778,5 +778,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
     "released": "2010-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:10to7BDtw4pAA5e1fthBxbrpo5LhvemyJ",
+    "type": "movie",
+    "name": "Charlie's Angels",
+    "poster": "https://image.tmdb.org/t/p/w500/jxyI5V4LZ5rHDrXv7NpPh4EBCAo.jpg",
+    "description": "Beautiful, intelligent, and ultra-sophisticated, Charlie's Angels are everything a man could dream of... and way more than they could ever handle! Receiving their orders via speaker phone from their never seen boss, Charlie, the Angels employ their incomparable sleuthing and combat skills, as well as their lethal feminine charm, to crack even the most seemingly insurmountable of cases.",
+    "background": "https://image.tmdb.org/t/p/w1280/jJVfPCkCbXrGOWtzfm1bhQg3HBq.jpg",
+    "released": "1976-01-01",
+    "imdbRating": "6.7"
   }
 ]
