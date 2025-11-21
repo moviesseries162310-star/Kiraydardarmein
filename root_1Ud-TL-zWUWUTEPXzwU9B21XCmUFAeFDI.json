@@ -528,5 +528,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cLzjOfXVd1Sf7mBfgKsVG5F5Tsm.jpg",
     "released": "2025-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:10O5Uum6VP1YerHtwUhxxSQmaJ5Mv2XTq",
+    "type": "movie",
+    "name": "The Claus Family",
+    "poster": "https://image.tmdb.org/t/p/w500/nSYgOCTC8lIys1exhKE9Ivo0ZAE.jpg",
+    "description": "When his grandfather suddenly falls ill, holiday-hating Jules learns of his family's magical legacy and realizes he's the only hope to save Christmas.",
+    "background": "https://image.tmdb.org/t/p/w1280/n1YgWb7ablpAl5RwRSEAlfnbCqD.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.0"
   }
 ]
