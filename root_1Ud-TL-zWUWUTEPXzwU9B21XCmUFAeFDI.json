@@ -1118,5 +1118,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rS2NgOtEhzSBPfyeRsDuNxFYLv8.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:10RoQFhbbBp0S5Kid1lcmZO1DqQYwMxlR",
+    "type": "movie",
+    "name": "Monster Hunter Stories: Ride On",
+    "poster": "https://image.tmdb.org/t/p/w500/8WVq0KdNn6IT5Z6mgttKL5ja9JG.jpg",
+    "description": "In a world where both men and monsters exist. Those who hunt the monsters are called Hunters. But in a small corner of the Hunter's world, there are those called Riders who bond with and coexist with monsters. With their Kizuna Ishi (Bonding Stones) that allow them to awaken the hidden power inside monsters, Riders live in secrecy together with their Otomon, the monsters they formed a connection with. Ryuto, a young boy living in the Rider village of Hakum, dreams of becoming the world's best Rider. Having just turned 12, he sets out to find his own Otomon for himself before the ceremony where he is given his own Kizuna Ishi. Together with his kind-hearted childhood friend Cheval, his inquisitive childhood friend Lilia, and his partner Naville, he sets out deep into the forest, and has a miraculous encounter with a Rathalos.",
+    "background": "https://image.tmdb.org/t/p/w1280/cXL8E3dC20ZZfmDOwJrrbS0cSnC.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "7.9"
   }
 ]
