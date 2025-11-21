@@ -9925,5 +9925,15 @@
     "background": null,
     "released": "2023-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1DeWJLevnrZ54J5MqtBNb5Jn4gX0lhJBZ",
+    "type": "movie",
+    "name": "Lonely Planet",
+    "poster": "https://image.tmdb.org/t/p/w500/sH7Orig1yqa6ojMLIzLDxA2GRkH.jpg",
+    "description": "At an idyllic writers retreat in Morocco, a newly single novelist finds an unexpected connection with a younger man who's reevaluating his life choices.",
+    "background": "https://image.tmdb.org/t/p/w1280/zkvN3WeNvQQNxPmfcYFyijpANJ4.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.1"
   }
 ]
