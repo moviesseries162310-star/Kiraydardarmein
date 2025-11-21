@@ -1248,5 +1248,15 @@
     "background": null,
     "released": "1989-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1-fWdig563joMbSLCzTXeDjQ0YK7MIccp",
+    "type": "movie",
+    "name": "Quiet on Set: The Dark Side of Kids TV",
+    "poster": "https://image.tmdb.org/t/p/w500/uTQD87qAuebJRuc5U5lO2dA4q9s.jpg",
+    "description": "Discover the untold story of the toxic and abusive environment inside '90s kids' TV. Hear harrowing accounts from former child stars and crew who probe the balance of power in the industry and reveal an era that inflicted lasting wounds still felt today.",
+    "background": "https://image.tmdb.org/t/p/w1280/CQQyljC8KT8tMWyZ1fBinMJnXx.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.7"
   }
 ]
