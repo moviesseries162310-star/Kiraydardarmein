@@ -718,5 +718,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/an14csAirvCo8wJUA1imq6bgPPQ.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:1--lj9kjx6bAc_4CQM7y2ghTE5YfozaEO",
+    "type": "movie",
+    "name": "Hitman's Curse",
+    "poster": "https://image.tmdb.org/t/p/w500/bhLkE2V4cq3P6WR1VrGX1VZqlhz.jpg",
+    "description": "Ivan, former detective and now ex-con seeks revenge for the death of his partner and for the injustice that put him in jail many years ago. ‘Seek and you shall find’ — out of nowhere a beautiful woman offers him the archenemy on a silver platter. Ivan is temped, how can he resist? This murder-for-hire puts him in a league of assassins that he’s desperately trying to escape. His conscience screams but his circumstances prevail. On the road to his next target, he suffers from a memory loss after a car accident. Saved by a roadside motel owner, a beautiful woman, former killer-for-hire is living in a state of an ignorant bliss. But the trouble finds him. Torn between Scylla and Charybdis, the protagonist now has to face the most dangerous target while having to save his family and his soul from being completely destroyed.",
+    "background": "https://image.tmdb.org/t/p/w1280/rnYn3CGJh6IDEo3dhbMaRseUPx5.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "10.0"
   }
 ]
