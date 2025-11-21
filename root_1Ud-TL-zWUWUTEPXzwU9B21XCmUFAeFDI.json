@@ -178,5 +178,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nZSUgauXlVUrJGdGUGWMXCtnZx4.jpg",
     "released": "2002-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive-folder:11ZEbpwaXL8Im7loaioxqDMFYvSovGAVR",
+    "type": "movie",
+    "name": "Sinister Beings",
+    "poster": "https://image.tmdb.org/t/p/w500/o8ygqy0d7xrW1Qhpc3Fdaio7Y2d.jpg",
+    "description": "Hui Chun-sum is an elite OCTB officer. He is fearless and competent. His boss thinks highly of him, and his colleagues really admire him. But his ultimate dream is to join SDU. Another elite OCTB officer Shum Wai-lik has a shrewd mind and extensive experience. Although the duo have different approaches, but they are like-minded and ideally complement each other. Police suffer heavy casualties as they are ambushed by thugs. To catch the culprit, Chun-sum forgets his dream and stays with OCTB. Moreover, Chun-sum and Wai-lik are faced with successive nasty cases that are tortuous, surreptitious, tricky and baffling. The duo use reverse thinking, psychological game theory and meticulous analysis to decipher the criminals’ thoughts and motives. No crook can escape the long arm of the law!",
+    "background": "https://image.tmdb.org/t/p/w1280/3Xtc2iqCBXoXFmD8GhVdYaIY111.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "8.3"
   }
 ]
