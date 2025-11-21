@@ -1178,5 +1178,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tGcIy7gA8jwYpi5W2UB1Rxrk2i6.jpg",
     "released": "2003-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive-folder:1-tW2zaZsdhpfJV9GHpypNiW1hPzJdggv",
+    "type": "movie",
+    "name": "Ghosts of Fear Street",
+    "poster": "https://image.tmdb.org/t/p/w500/v99mcc39vPBCBODrA13lD10Ulsc.jpg",
+    "description": "A family living on Fear Street encounter the quirky things that go on in the neighborhood.",
+    "background": null,
+    "released": "1998-01-01",
+    "imdbRating": null
   }
 ]
