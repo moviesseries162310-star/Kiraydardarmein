@@ -1738,5 +1738,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
     "released": "2011-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive-folder:1DvJWodkNOcFxHPF3j0YWO9_tPDgL6FCH",
+    "type": "movie",
+    "name": "The Hangover Games",
+    "poster": "https://image.tmdb.org/t/p/w500/wulkLRWFuOybqmabDrkWmlU6CRt.jpg",
+    "description": "This unique and hilarious series sees presenter Matt Richardson and co-host Ken Cheng spring a surprise on hungover Brits across the country, challenging them to compete in an outrageous set of challenges, based on their antics from the night before, all for the chance of winning a cash prize.\n\nUnder the assumption they are taking part in a documentary about British night life, a group of mates will be followed by the cameras on a night out. What they won't find out until the next morning is that they are really taking part in a brand new game show. Groggily woken up to a knock on the door from Matt early the next morning, they will learn that they have the chance to win a cash prize if they can make it out of bed and take part in The Hangover Games.\n\nEach game will test their memories of the night before and they'll have to rely on one another's stamina, clear thinking, emotional stability and iron stomachs if they want to be crowned winners. Let the games begin.",
+    "background": "https://image.tmdb.org/t/p/w1280/g8ol5zcy3O2oIUYVe71jXX6jFLQ.jpg",
+    "released": "2019-01-01",
+    "imdbRating": null
   }
 ]
