@@ -58,5 +58,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
     "released": "2022-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1_6eFJpNREawv5DMYthRiPsDm88lWIHJ0",
+    "type": "movie",
+    "name": "A Terrified Teacher at Ghoul School!",
+    "poster": "https://image.tmdb.org/t/p/w500/km1hhFIIMOoA2hk6k3UM38WH5yL.jpg",
+    "description": "Haruaki Abe is happy to finally fulfill his dream of becoming a teacher. That happiness is short-lived after he arrives at Hyakki Academy and finds out the school is full of monsters! Can Abe overcome his cowardice and get his supernatural students under control? Join the timid teacher and his bizarre class for a tale of ghoulish mischief and paranormal education.",
+    "background": "https://image.tmdb.org/t/p/w1280/AjKkOVU0NqpQjCpQTuykpBuQnhr.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.5"
   }
 ]
