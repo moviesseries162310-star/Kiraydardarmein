@@ -908,5 +908,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/b7M5S8NHt1GPBZEP6AMSAtut5Mk.jpg",
     "released": "2009-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive-folder:1a5Spf-4ZjgVt8u4ksvaoMhD4Xnc_Whxu",
+    "type": "movie",
+    "name": "Pitch Perfect: Bumper in Berlin",
+    "poster": "https://image.tmdb.org/t/p/w500/baM8owP74DXapHOc8awfZ5aw98z.jpg",
+    "description": "Several years after we last saw him in “Pitch Perfect,” Bumper Allen moves to Germany to revive his music career when one of his songs becomes big in Berlin.",
+    "background": "https://image.tmdb.org/t/p/w1280/xr5tpxRC5BXdI25Ikvlvwvj7aTi.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.8"
   }
 ]
