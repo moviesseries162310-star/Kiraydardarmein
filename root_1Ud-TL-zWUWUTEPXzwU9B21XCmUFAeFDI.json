@@ -1108,5 +1108,15 @@
     "background": null,
     "released": "2020-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:10XASJcpt3ddLsNiadkYKsA6YGw_zTBce",
+    "type": "movie",
+    "name": "Oru Kodai Murder Mystery",
+    "poster": "https://image.tmdb.org/t/p/w500/1X6mMH455vlCzF8XFdtIqHMfMym.jpg",
+    "description": "Vyom, the school principal's a nerdy teenager son is disliked by most of his classmates, has only four friends, and a crush, Tara. When Tara goes missing and found dead, Vyom decides to solve the mystery behind her death.",
+    "background": "https://image.tmdb.org/t/p/w1280/rS2NgOtEhzSBPfyeRsDuNxFYLv8.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.0"
   }
 ]
