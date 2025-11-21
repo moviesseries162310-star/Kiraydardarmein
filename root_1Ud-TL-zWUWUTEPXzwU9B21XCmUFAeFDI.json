@@ -1118,5 +1118,15 @@
     "background": null,
     "released": "2020-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:10GStzBYGHFo5y2Xawu6Fa7GZl1r52mQr",
+    "type": "movie",
+    "name": "Jurassic World: Chaos Theory",
+    "poster": "https://image.tmdb.org/t/p/w500/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+    "description": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs — and to themselves.",
+    "background": "https://image.tmdb.org/t/p/w1280/qjPC0KYEhdWAIPmCtAkg0j1iJXC.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "8.3"
   }
 ]
