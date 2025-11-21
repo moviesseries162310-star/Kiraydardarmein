@@ -478,5 +478,15 @@
     "background": null,
     "released": null,
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:10OX-HSAhu_5FIPactgB6ha9x35YVRP5G",
+    "type": "movie",
+    "name": "The Grudge",
+    "poster": "https://image.tmdb.org/t/p/w500/k8srn1sfwmrEWx5amNDTvJRVoT0.jpg",
+    "description": "Inside sports’ fiercest rivalries, every game is more than a contest — it’s a battle for pride, redemption, and legacy.",
+    "background": "https://image.tmdb.org/t/p/w1280/cLzjOfXVd1Sf7mBfgKsVG5F5Tsm.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
