@@ -368,5 +368,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tiCuv35pKa9xxrwBJdeVSnoE3ea.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:1NpFze2lbSjI72ao7Y0PM4-tqMqSOziT3",
+    "type": "movie",
+    "name": "Black Dynamite",
+    "poster": "https://image.tmdb.org/t/p/w500/wgQNwVqBZ7j9MZSG6Nr5n5Z2ZPr.jpg",
+    "description": "Black Dynamite is an American animated television series based on the 2009 film of the same name, although the series follows a separate continuity, with some back-references to the film. The series was announced shortly after the release of the film, the 10-minute pilot episode was released on Adult Swim Video on August 8, 2011, and the full series premiered on Cartoon Network's late night programming block, Adult Swim, on July 15, 2012. Michael Jai White, Byron Minns, Tommy Davidson and Kym Whitley reprise their film roles as Black Dynamite, Bullhorn, Cream Corn and Honeybee, respectively.",
+    "background": "https://image.tmdb.org/t/p/w1280/fyborNmaXj3CujrDmcm6tcOzoUZ.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "7.6"
   }
 ]
