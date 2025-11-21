@@ -1618,5 +1618,15 @@
     "background": null,
     "released": "2024-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1EYUTOvIqkDDCruJg5Z6hNKDLxbQr6aiq",
+    "type": "movie",
+    "name": "Fantastic Beasts: A Natural History",
+    "poster": "https://image.tmdb.org/t/p/w500/wcdlsiw5fIVteprvq8a6VyRsFHN.jpg",
+    "description": "Stephen Fry embarks on a journey to discover the stories behind some of the world's most fantastic beasts that have inspired myths and legends in history, story-telling and film.",
+    "background": "https://image.tmdb.org/t/p/w1280/4bsUSjiMFyeUvtkEEwextk2j4R6.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.1"
   }
 ]
