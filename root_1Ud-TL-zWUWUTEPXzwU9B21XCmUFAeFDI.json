@@ -1798,5 +1798,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/e9Kjzl0IzLyVoTLQyUA5x5cfymK.jpg",
     "released": "2019-01-01",
     "imdbRating": "2.0"
+  },
+  {
+    "id": "gdrive-folder:1Vh0AIKDqoCVCFp8GbndvSzgSavX2mUKH",
+    "type": "movie",
+    "name": "The Lord of the Rings Appendices",
+    "poster": "https://image.tmdb.org/t/p/w500/kYrKD2AgGSiQLxG6oaw7sRAyu0Q.jpg",
+    "description": "This detailed collection of featurettes from the extended edition DVDs and later bluray covers the process from the beginnings of writer JRR Tolkien to the day Return of the King did a clean sweep at the 2004 Academy Awards.",
+    "background": "https://image.tmdb.org/t/p/w1280/6fqUJln87e8NEiRb84qyzeenrKh.jpg",
+    "released": "2002-01-01",
+    "imdbRating": "9.0"
   }
 ]
