@@ -1058,5 +1058,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/QlbpTZRlH0eEhjWsNrBWJtfIYI.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:10zOrt7VMENIgxsnABwDPY7VTgVl-lyf2",
+    "type": "movie",
+    "name": "Percy Jackson and the Olympians",
+    "poster": "https://image.tmdb.org/t/p/w500/cb0XT1bjgim8wB2WuOEge8CXnGS.jpg",
+    "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+    "background": "https://image.tmdb.org/t/p/w1280/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.3"
   }
 ]
