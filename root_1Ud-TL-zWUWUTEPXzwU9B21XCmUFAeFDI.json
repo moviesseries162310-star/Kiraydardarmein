@@ -1338,5 +1338,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cJG46j1yxgM7J4FBh6uqYPRi6pW.jpg",
     "released": "2013-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive-folder:1cUMv9piLqBiF6fCc2oaRSpBg_anD309l",
+    "type": "movie",
+    "name": "Hannibal Rising",
+    "poster": "https://image.tmdb.org/t/p/w500/7FTDMQoac0uqJUquZk4KenDzLMZ.jpg",
+    "description": "The story of the early, murderous roots of the cannibalistic killer, Hannibal Lecter – from his hard-scrabble Lithuanian childhood, where he witnesses the repulsive lengths to which hungry soldiers will go to satiate themselves, through his sojourn in France, where as a medical student he hones his appetite for the kill.",
+    "background": "https://image.tmdb.org/t/p/w1280/am6ZfhUTUmcjPjjA4GIkLEJ33TN.jpg",
+    "released": "2007-01-01",
+    "imdbRating": "6.3"
   }
 ]
