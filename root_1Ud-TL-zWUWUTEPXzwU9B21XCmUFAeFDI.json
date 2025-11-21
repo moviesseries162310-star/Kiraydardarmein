@@ -238,5 +238,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive-folder:1-qMD-iAh1GTPZKi1XmvDvN1kFRiwbqDL",
+    "type": "movie",
+    "name": "Wishmaster",
+    "poster": "https://image.tmdb.org/t/p/w500/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg",
+    "description": "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+    "background": "https://image.tmdb.org/t/p/w1280/y5uIU4LMXPpINIpTDT6ry1lu9P4.jpg",
+    "released": "1997-01-01",
+    "imdbRating": "6.1"
   }
 ]
