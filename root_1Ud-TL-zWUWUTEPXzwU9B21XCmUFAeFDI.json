@@ -288,5 +288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/y5uIU4LMXPpINIpTDT6ry1lu9P4.jpg",
     "released": "1997-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive-folder:18Akeg78IZev6nUC0R4QO1VtyjEX0W4vw",
+    "type": "movie",
+    "name": "Die Hart",
+    "poster": "https://image.tmdb.org/t/p/w500/1vct3vbSYpsQonrbvhaLCA8jVgt.jpg",
+    "description": "Tired of being the comedic sidekick, Kevin Hart gets his wish when a famous director offers him his dream – to be a leading man action star – but there’s a catch: Kevin must first train at the world’s greatest action star school, run by a lunatic.",
+    "background": "https://image.tmdb.org/t/p/w1280/csqNIgzSI8KNn3G3lPgJ8H05iuv.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.1"
   }
 ]
