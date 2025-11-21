@@ -368,5 +368,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gRMwBmDEhAVJu54Pwli5YKR0VOa.jpg",
     "released": "1986-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive-folder:1943hkIHZ4VxTycgtD7k0BfI8lHGI085Z",
+    "type": "movie",
+    "name": "Dune: Prophecy",
+    "poster": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
+    "description": "Ten thousand years before the ascension of Paul Atreides, sisters Valya and Tula Harkonnen establish the fabled sect and female order that would become known as the Bene Gesserit to control the future of humankind.",
+    "background": "https://image.tmdb.org/t/p/w1280/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.3"
   }
 ]
