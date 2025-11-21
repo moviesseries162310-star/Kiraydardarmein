@@ -958,5 +958,15 @@
     "background": null,
     "released": "2024-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:18yKPYFGgesr1qgGe_53AGMQm7pxVQqsY",
+    "type": "movie",
+    "name": "The Mechanism",
+    "poster": "https://image.tmdb.org/t/p/w500/tVnmpjhELgmh7so237wgDUck7kO.jpg",
+    "description": "A scandal erupts in Brazil during an investigation of alleged government corruption via oil and construction companies. Loosely inspired by true events.",
+    "background": "https://image.tmdb.org/t/p/w1280/8tv3QAZrR94nfLkhsezPcc3bza5.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.1"
   }
 ]
