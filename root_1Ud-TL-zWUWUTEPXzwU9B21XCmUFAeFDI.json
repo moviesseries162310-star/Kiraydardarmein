@@ -1488,5 +1488,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fVcjJoPJEnUAmx9eIQIfSf6saPA.jpg",
     "released": null,
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1mhT9afZU26Kuh0XyofI4GzzIxqh141sx",
+    "type": "movie",
+    "name": "Fifty Shades Freed",
+    "poster": "https://image.tmdb.org/t/p/w500/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+    "description": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+    "background": "https://image.tmdb.org/t/p/w1280/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.7"
   }
 ]
