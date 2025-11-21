@@ -138,5 +138,15 @@
     "background": null,
     "released": "2008-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive-folder:1-IlqC5BwgDiUKjf_AEBY9BEHFQUoSCn7",
+    "type": "movie",
+    "name": "The Addams Family",
+    "poster": "https://image.tmdb.org/t/p/w500/9eqmCtAY9d2WwafLBYXRKYepgeA.jpg",
+    "description": "A satirical inversion of the ideal of the perfect American nuclear family, they are an eccentric wealthy family who delight in everything grotesque and macabre, and are never really aware that people find them bizarre or frightening. In fact, they themselves are often terrified by \"normal\" people.",
+    "background": "https://image.tmdb.org/t/p/w1280/vPWjtsNklEMYiSF0BiQ1QLHbCSC.jpg",
+    "released": "1964-01-01",
+    "imdbRating": "8.0"
   }
 ]
