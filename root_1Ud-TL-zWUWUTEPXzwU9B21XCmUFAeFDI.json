@@ -1748,5 +1748,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
     "released": "2011-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive-folder:1zn2vyfRzFVadJ3mXYe9rBmABJjEiPb6Q",
+    "type": "movie",
+    "name": "Star Wars Rebels",
+    "poster": "https://image.tmdb.org/t/p/w500/jmgR8330sKEJehr27rQ3bODnrlP.jpg",
+    "description": "Set between the events of Star Wars: Episodes III and IV, the story unfolds during a dark time when the evil Galactic Empire is tightening its grip of power on the galaxy. Imperial forces have occupied a remote planet and are ruining the lives of its people. The motley but clever crew of the starship Ghost — cowboy Jedi Kanan, ace pilot Hera, street-smart teenager Ezra, the “muscle” Zeb, warrior firebrand Sabine, and cantankerous old astromech droid Chopper — is among a select few who are brave enough to stand against the Empire. Together, they will face threatening new villains, encounter colorful adversaries, embark on thrilling adventures, and become heroes with the power to ignite a rebellion.",
+    "background": "https://image.tmdb.org/t/p/w1280/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "7.7"
   }
 ]
