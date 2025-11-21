@@ -588,5 +588,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/n1YgWb7ablpAl5RwRSEAlfnbCqD.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive-folder:16RQzrygbVP4a-bStpqkeVS6FZJXma7fs",
+    "type": "movie",
+    "name": "Megantic",
+    "poster": "https://image.tmdb.org/t/p/w500/1urS2SUd4GlCCEwGqghjw35TxJ4.jpg",
+    "description": "Mégantic is inspired by the events that occurred during the Lac-Mégantic rail tragedy in 2013. This fiction follows the destinies of Méganticois marked by bereavement and trauma, but also by solidarity, courage and heroism.",
+    "background": "https://image.tmdb.org/t/p/w1280/5EuUuWI38bHNZEWnEn4fC7zxE1r.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "9.0"
   }
 ]
