@@ -48,5 +48,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/1N5sWK7JFzmoHuJU0ZMOdB7GZZT.jpg",
     "released": "2021-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:10Gn8WpW3_hQeCAMjgh_kMxxY13B6I4Rh",
+    "type": "movie",
+    "name": "M3GAN",
+    "poster": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+    "description": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+    "background": "https://image.tmdb.org/t/p/w1280/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.0"
   }
 ]
