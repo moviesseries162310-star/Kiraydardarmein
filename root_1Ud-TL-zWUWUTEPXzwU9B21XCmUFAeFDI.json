@@ -318,5 +318,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bMz5R8kd3drlDd62nUuy48okXln.jpg",
     "released": "2014-01-01",
     "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive-folder:11_hnUE_KtcqY3zVrBKik-U6m36HPQpZU",
+    "type": "movie",
+    "name": "Rurouni Kenshin",
+    "poster": "https://image.tmdb.org/t/p/w500/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+    "description": "Ten years have passed since the end of Bakumatsu, an era of war that saw the uprising of citizens against the Tokugawa shogunate. The revolutionaries wanted to create a time of peace, and a thriving country free from oppression. The new age of Meiji has come, but peace has not yet been achieved. Swords are banned but people are still murdered in the streets. Orphans of war veterans are left with nowhere to go, while the government seems content to just line their pockets with money.",
+    "background": "https://image.tmdb.org/t/p/w1280/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.3"
   }
 ]
