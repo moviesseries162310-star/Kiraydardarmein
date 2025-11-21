@@ -838,5 +838,15 @@
     "background": null,
     "released": null,
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1-E9hSh61_K6wOq_IoxScg3GBCObk78Ue",
+    "type": "movie",
+    "name": "8 Avatar",
+    "poster": "https://image.tmdb.org/t/p/w500/sx9BERedBwgROPcdMO9mMYdlynm.jpg",
+    "description": "",
+    "background": "https://image.tmdb.org/t/p/w1280/Ajlpn9OtEwHlD5VnQIBMN0fe0Jc.jpg",
+    "released": "2008-01-01",
+    "imdbRating": "7.0"
   }
 ]
