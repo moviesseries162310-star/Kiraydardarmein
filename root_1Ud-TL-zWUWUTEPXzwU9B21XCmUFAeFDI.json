@@ -458,5 +458,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4EDRjZAxcqwVv4Qj4ZoNbA1S8U1.jpg",
     "released": "1995-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive-folder:10VUW-0hjyKNtXeNX6wZxPyl6JkRnHR6z",
+    "type": "movie",
+    "name": "Detective! Knight Scoop",
+    "poster": "https://image.tmdb.org/t/p/w500/dfJIsrArpFYRc3qcVsjiMy9LanV.jpg",
+    "description": "\"Detective! Knight Scoop\" is an amusement programme. Based on requests contributed by the viewers, to protect the public order, morals and peace in society, the chief detective sends out excelling detectives who thoroughly pursuit any task they're presented with.",
+    "background": "https://image.tmdb.org/t/p/w1280/dSDg3Gi3HTJZtMmSs01GBwADYfR.jpg",
+    "released": "1988-01-01",
+    "imdbRating": "10.0"
   }
 ]
