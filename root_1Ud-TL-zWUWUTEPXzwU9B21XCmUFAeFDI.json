@@ -678,5 +678,15 @@
     "background": null,
     "released": "2001-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1AnIcNo2dM_iM56j3JVJQomTmlleTlSYB",
+    "type": "movie",
+    "name": "Confidential Assignment",
+    "poster": "https://image.tmdb.org/t/p/w500/gw1iBP09ZaxUgHlvmPpC4Y7dgq6.jpg",
+    "description": "When a crime organization from North Korea crosses borders and enters South Korean soil, a South Korean detective must cooperate with a North Korean detective to investigate their whereabouts.",
+    "background": "https://image.tmdb.org/t/p/w1280/lrZXLxzq9NaFJ0TzyJOH2HKsrWH.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.9"
   }
 ]
