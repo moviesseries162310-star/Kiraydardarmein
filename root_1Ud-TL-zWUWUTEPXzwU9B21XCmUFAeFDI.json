@@ -578,5 +578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vk8H0NISoTZ2M35WcxorDBAx7I4.jpg",
     "released": "1987-01-01",
     "imdbRating": "8.8"
+  },
+  {
+    "id": "gdrive-folder:194yFj2YS2MvoznysE4gBfZX0RHQ4duSK",
+    "type": "movie",
+    "name": "Rush Hour",
+    "poster": "https://image.tmdb.org/t/p/w500/7vDMkZnP3pHruaqwiVfGi29lJOe.jpg",
+    "description": "The series follows Detective Carter, a radical LAPD detective, and Detective Lee, a by-the-book detective from Hong Kong, as they are forced into forming an unlikely partnership",
+    "background": "https://image.tmdb.org/t/p/w1280/5p1dVVOY3YlVdgxSAPKxbZKTXqB.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.2"
   }
 ]
