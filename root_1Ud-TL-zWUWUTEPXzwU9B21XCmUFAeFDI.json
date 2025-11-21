@@ -1494,12 +1494,10 @@
   },
   {
     "id": "gdrive-folder:1ok4zIkAsNsFeqvmIy3lzoyDF28QJt1Dg",
-    "type": "movie",
-    "name": "Primetime: Basic Instincts",
-    "poster": null,
-    "description": "",
-    "background": null,
-    "released": null,
-    "imdbRating": null
+    "type": "series",
+    "name": "Basic Instinct Collection",
+    "poster": "https://image.tmdb.org/t/p/original/jHZ6Nz1UPbExDyglwuPOmwSDqKW.jpg",
+    "description": "Two movies following the manipulative and seductive novelist Catherine Tramell.",
+    "background": "https://image.tmdb.org/t/p/original/szxEKB9nFTkdaNyJHkxuZ1yWpax.jpg"
   }
 ]
