@@ -518,5 +518,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nGdFoparQByxI55Z9iIP4ltK4lw.jpg",
     "released": "2024-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive-folder:10vParkR8OVjCZ5Z0nmgwbnonhU6fx4Vu",
+    "type": "movie",
+    "name": "Mean Girlz",
+    "poster": "https://image.tmdb.org/t/p/w500/wV8xR3qjFfoqfKSfoaRwOY6LQqA.jpg",
+    "description": "",
+    "background": "https://image.tmdb.org/t/p/w1280/3R226JN5S8I2TBtmOkuaDNlACsJ.jpg",
+    "released": "2024-01-01",
+    "imdbRating": null
   }
 ]
