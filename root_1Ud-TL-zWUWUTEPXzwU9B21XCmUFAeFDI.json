@@ -708,5 +708,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/p8LlfRewGJkf67UhVM0s70IfNBt.jpg",
     "released": "2013-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1-XJOBuWLEv9szA0VBfpeAsmC6k6UwaNt",
+    "type": "movie",
+    "name": "Sniper",
+    "poster": "https://image.tmdb.org/t/p/w500/dWtSZq2vL0oadvK2lGNFvE9Ufx.jpg",
+    "description": "In spring 1949, former assassin Su Wenqian is recruited by the Songjiang Public Security task force to stop a secret assassination squad and secure a Nationalist army uprising. Facing his former partner, deadly sniper Chi Tiecheng, Su must navigate a deadly game of skill and strategy. Their high-stakes duel will decide not only their fates but the survival of tens of thousands of soldiers and the future of the nation.",
+    "background": "https://image.tmdb.org/t/p/w1280/an14csAirvCo8wJUA1imq6bgPPQ.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.2"
   }
 ]
