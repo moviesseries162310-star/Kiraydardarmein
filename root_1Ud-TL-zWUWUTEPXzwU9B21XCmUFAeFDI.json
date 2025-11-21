@@ -1158,5 +1158,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xak4LyR9fFsuDk3fWMube0tDM7x.jpg",
     "released": "1978-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive-folder:10Jm8aC6xwWNNNXpTZ2B6T0sWRNe5yara",
+    "type": "movie",
+    "name": "Jurassic World: Chaos Theory",
+    "poster": "https://image.tmdb.org/t/p/w500/c2Od0cY2IeayDj5osUxZSAD1QK.jpg",
+    "description": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs — and to themselves.",
+    "background": "https://image.tmdb.org/t/p/w1280/qjPC0KYEhdWAIPmCtAkg0j1iJXC.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "8.3"
   }
 ]
