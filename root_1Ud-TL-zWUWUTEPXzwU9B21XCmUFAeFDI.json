@@ -878,5 +878,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bQ8fRUaitJvi54O2lUT6Ta7FVHK.jpg",
     "released": "2005-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:1aM6UMLBjHA_G2rFawhjN90J7wGyq74f-",
+    "type": "movie",
+    "name": "The hostel (الفندق)",
+    "poster": null,
+    "description": "A journalist who manages a hotel tries to probe into tangled mafia discovering that its threads are tangled between its own guests, he becomes aware of the murder crimes and the Darkside of Baghdad and it's crime world.",
+    "background": null,
+    "released": "2019-01-01",
+    "imdbRating": null
   }
 ]
