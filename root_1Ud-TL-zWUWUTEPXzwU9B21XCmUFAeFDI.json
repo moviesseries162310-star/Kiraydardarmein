@@ -1208,5 +1208,15 @@
     "background": null,
     "released": "1998-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1-rp1S8x7JWW6_dFvChtWw4h2dPtQn-T6",
+    "type": "movie",
+    "name": "Ash vs Evil Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/zsX1atjvymc4CKu72jE400QJGzL.jpg",
+    "description": "Bruce Campbell reprises his role as Ash Williams, an aging lothario and chainsaw-handed monster hunter who’s spent the last three decades avoiding maturity, and the terrors of the Evil Dead. But when a Deadite plague threatens to destroy all of mankind, he’s forced to face his demons — both metaphorical and literal.",
+    "background": "https://image.tmdb.org/t/p/w1280/kTllqBdy0vjwoMhvzZPABD3Bo4k.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.7"
   }
 ]
