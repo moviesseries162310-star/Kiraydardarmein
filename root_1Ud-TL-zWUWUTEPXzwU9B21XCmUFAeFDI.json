@@ -868,5 +868,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mz4mnhO0jh8Hb5GbaN4U1BYt0xN.jpg",
     "released": "1995-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive-folder:1aoxrUrRGB8nXSvaitXdi5tkbV8W6YMaO",
+    "type": "movie",
+    "name": "Kamen Rider",
+    "poster": "https://image.tmdb.org/t/p/w500/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
+    "description": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+    "background": "https://image.tmdb.org/t/p/w1280/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+    "released": "1971-01-01",
+    "imdbRating": "6.4"
   }
 ]
