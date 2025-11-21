@@ -888,5 +888,15 @@
     "background": null,
     "released": "2019-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1aDEV-P2HaN09PgsCEmVaTFgGWAxnWKAx",
+    "type": "movie",
+    "name": "The Haunted",
+    "poster": "https://image.tmdb.org/t/p/w500/yl9KiwQYS9SgrguqsK5L3XxQiYu.jpg",
+    "description": "The Haunted is an American paranormal television series that premiered on November 22, 2009 on Animal Planet. Produced by Picture Shack Entertainment, the program features ghost stories and paranormal investigations involving animals. It also incorporates actual footage and photographs from the famiilies and paranormal research teams involved.",
+    "background": "https://image.tmdb.org/t/p/w1280/b7M5S8NHt1GPBZEP6AMSAtut5Mk.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "6.8"
   }
 ]
