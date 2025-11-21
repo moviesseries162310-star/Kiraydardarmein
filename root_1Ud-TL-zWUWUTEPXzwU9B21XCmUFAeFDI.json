@@ -1028,5 +1028,15 @@
     "background": null,
     "released": "1993-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:11wgnU3Rh3QtLIlIdzHqA4mAM8rYhdwP5",
+    "type": "movie",
+    "name": "The Equalizer",
+    "poster": "https://image.tmdb.org/t/p/w500/oxJG9F16AUji71jpPxkEOBWanMP.jpg",
+    "description": "Robyn McCall, an enigmatic former CIA operative with a mysterious background, uses her extensive skills to help those with nowhere else to turn.",
+    "background": "https://image.tmdb.org/t/p/w1280/z8CzVVAGHRRmgJQ6ZRjr8OuCmlj.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.3"
   }
 ]
