@@ -178,5 +178,15 @@
     "background": null,
     "released": "2008-01-01",
     "imdbRating": "3.0"
+  },
+  {
+    "id": "gdrive-folder:1I0syDi8_yLKtHqwsMVMcGW6AWaJ1D07S",
+    "type": "movie",
+    "name": "Poison Ivy",
+    "poster": "https://image.tmdb.org/t/p/w500/zLYsTdiWjvXeYt2n7AC5EO0BjFZ.jpg",
+    "description": "Gecenin Ucunda - Adapted from Peride Celal’s best-selling novel of the same name, the drama tells the story of Macide, the daughter of a poor family, who falls in love with a married businessman. On her journey to find herself, she is tested by the greatest love of her life and by his world of wealth and power... This is, Gecenin Ucunda (At the End of the Night).",
+    "background": "https://image.tmdb.org/t/p/w1280/1S2YLbPQD5kJ3n7a7P7vglkmXXs.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "6.8"
   }
 ]
