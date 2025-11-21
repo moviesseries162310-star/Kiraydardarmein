@@ -1668,5 +1668,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sJpbDELfC8VjlRBOOkMJxxWpUg7.jpg",
     "released": "2010-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive-folder:1EDdM5uTTtAoWaWvSFTOc363v_9HpGQaI",
+    "type": "movie",
+    "name": "Night at the Museum",
+    "poster": "https://image.tmdb.org/t/p/w500/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+    "description": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+    "background": "https://image.tmdb.org/t/p/w1280/1ZVlzOBYCggLzvVYHK7Im6LohjC.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "6.6"
   }
 ]
