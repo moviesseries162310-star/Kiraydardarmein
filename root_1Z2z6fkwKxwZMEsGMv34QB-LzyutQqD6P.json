@@ -6601,5 +6601,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
     "released": "2017-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1CmMGmLIoMDl_f_5XiLtZwjp60coAyCN4",
+    "type": "movie",
+    "name": "Super 8",
+    "poster": "https://image.tmdb.org/t/p/w500/pUWIjaMMYJjeBm5bJyE3mIXdQ62.jpg",
+    "description": "In late 1970s Ohio, a group of friends filming a homemade zombie movie witness a devastating train derailment. Soon after, their quiet town is gripped by unexplained disappearances, strange phenomena, and a growing sense of fear, as they uncover that something terrifying has been set loose.",
+    "background": "https://image.tmdb.org/t/p/w1280/x6Dr9i6vhWICxs7hnX2BakcMtPd.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "6.8"
   }
 ]
