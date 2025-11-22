@@ -1118,5 +1118,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
     "released": "1995-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1xsMFEvjopPZEaaws2v7C8i89x7YhCg2v",
+    "type": "movie",
+    "name": "The Quick and the Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/9VAY6pSG6Tx1NCmFvg8VhGvlV33.jpg",
+    "description": "In 1876 Wyoming, the gun is the only law. And for Duncan and Suzanna McKaskel, newly arrived settlers beset by outlaws, rugged frontiersman Con Vallian is the only hope.",
+    "background": "https://image.tmdb.org/t/p/w1280/2rsrEot0ODJT1ivyziwznBFfpZq.jpg",
+    "released": "1987-01-01",
+    "imdbRating": "6.3"
   }
 ]
