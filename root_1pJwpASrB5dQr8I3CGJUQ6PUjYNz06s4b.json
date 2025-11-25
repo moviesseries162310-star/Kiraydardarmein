@@ -9965,5 +9965,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2JszsYDORa8NxWY5V7Xp2in2WIr.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:1K59YrEju5A9uqAVisfsDDkxN_viy3AVe",
+    "type": "movie",
+    "name": "Bugonia",
+    "poster": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+    "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+    "background": "https://image.tmdb.org/t/p/w1280/ulEVubPGxPXik31qcmBTt4oupgM.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.7"
   }
 ]
