@@ -3290,5 +3290,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
     "released": "2009-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:1Wx5a_H6-kcIj-buwNgJdkHmSiJoKJMSC",
+    "type": "movie",
+    "name": "Bitch Slap",
+    "poster": "https://image.tmdb.org/t/p/w500/uwpDERT9drTPhvoV8cWzuV6xhdt.jpg",
+    "description": "Three bad girls - a down-and-out stripper, a drug-running killer, and a corporate powerbroker - arrive at a remote desert hideaway to extort and steal $200 million in diamonds from a ruthless underworld kingpin.",
+    "background": "https://image.tmdb.org/t/p/w1280/tdgce7OwwUwF7atRiar1y1AS6eh.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "4.8"
   }
 ]
