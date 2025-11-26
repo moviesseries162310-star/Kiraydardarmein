@@ -10005,5 +10005,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/tZpvyVHBma9aJ9RnzrEy0qlhKF4.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1zaxB7gUfY1Z9SLnVlWu_0w23PMF887PT",
+    "type": "movie",
+    "name": "Jingle Bell Heist",
+    "poster": "https://image.tmdb.org/t/p/w500/w2gsk9B7AJHKaN47IULaIbNHFdx.jpg",
+    "description": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
+    "background": "https://image.tmdb.org/t/p/w1280/ke4vpHG58N09UAgRb10eKuNCfTV.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.0"
   }
 ]
