@@ -10015,5 +10015,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ke4vpHG58N09UAgRb10eKuNCfTV.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1RhAzywPRctJy39oQvfExPfjhhOddlmk5",
+    "type": "movie",
+    "name": "She Rides Shotgun",
+    "poster": "https://image.tmdb.org/t/p/w500/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
+    "description": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.",
+    "background": "https://image.tmdb.org/t/p/w1280/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.1"
   }
 ]
