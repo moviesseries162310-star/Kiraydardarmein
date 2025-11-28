@@ -418,5 +418,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:10ycjjmoUpBTQ8jQJI6YWotpJfe2gGsDc",
+    "type": "movie",
+    "name": "Stranger Things",
+    "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "background": "https://image.tmdb.org/t/p/w1280/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "8.6"
   }
 ]
