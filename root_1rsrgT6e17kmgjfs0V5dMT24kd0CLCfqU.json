@@ -136,5 +136,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jiKwojRdwMYsDEMxQp5NFS3sOKb.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1Z79qMFtpSLt3J-9G07o38bCSPMHyEcJG",
+    "type": "movie",
+    "name": "The Spectacular Now",
+    "poster": "https://image.tmdb.org/t/p/w500/tYDbDuZ3K4Xwp3cwtmZM6k53bwq.jpg",
+    "description": "Sutter, a popular party animal, unexpectedly meets the introverted Aimee after waking up on a stranger's lawn. As Sutter deals with the problems in his life and Aimee plans for her future beyond school, an unexpected romance blossoms between them.",
+    "background": "https://image.tmdb.org/t/p/w1280/xy5YazEiPb3Nij6TUEP9Dq3LDhp.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "6.7"
   }
 ]
