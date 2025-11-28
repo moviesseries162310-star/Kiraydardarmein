@@ -156,5 +156,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6u4zm2EiOHbDS6A6VWaybdWkdNL.jpg",
     "released": "2001-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1HlU2i0QHAcqVpIIDq6yeKU-4pHsCci5H",
+    "type": "movie",
+    "name": "Left-Handed Girl",
+    "poster": "https://image.tmdb.org/t/p/w500/hfuxIKRCNsecLmoDdO0HJ1YUvv1.jpg",
+    "description": "A mother and her two daughters move to Taipei to open a noodle stand at a vibrant night market, but family secrets and tradition test their fresh start.",
+    "background": "https://image.tmdb.org/t/p/w1280/xqft4oJyMATznCFFLpTlQPiSr8N.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.5"
   }
 ]
