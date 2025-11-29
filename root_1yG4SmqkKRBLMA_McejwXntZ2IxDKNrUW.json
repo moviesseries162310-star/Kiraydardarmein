@@ -3354,5 +3354,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/v9w0xds8GUzOwHTZRuw2yeObRzD.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.7"
+  },
+  {
+    "id": "gdrive:1VUYaa8wWGyXCZU7TVB-OJiNQR0oaS0Kw",
+    "type": "movie",
+    "name": "Kantara",
+    "poster": "https://image.tmdb.org/t/p/w500/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
+    "description": "Shiva, a tribal vagabond lives with his mother in hamlet, stays away from the traditional Daivaradhane and Bhoota Kola legacy due to an unforgettable childhood incident. He is happy loafing around with his friends and doing petty jobs for his landlord. When Forest officer Murali enters the scene, it gives a fresh dimension to the man-vs-nature fight. Can Shiva save the forest from Murali? Or is Murali just a dummy bait cast by bigger fish?",
+    "background": "https://image.tmdb.org/t/p/w1280/kXElm7wt2kAXEVwJqW4cFhP43nW.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.2"
   }
 ]
