@@ -10075,5 +10075,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1C5SmZIP8ZX9GVXxfqrnrxCttbzlLpbdE",
+    "type": "movie",
+    "name": "The Magician's Raincoat",
+    "poster": "https://image.tmdb.org/t/p/w500/2sepxjUsrL265MGxu43CPbMZgxe.jpg",
+    "description": "Three kids discover a magical raincoat that transports them into the body of its owner, a cursed magician. With a scorned witch hot on their trail, they must solve the mystery of the raincoat and break its curse before it's too late.",
+    "background": "https://image.tmdb.org/t/p/w1280/wJ7ORrqQEYyh9AQc0Wa20TCDSVW.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "5.9"
   }
 ]
