@@ -10065,5 +10065,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nt0HRxlzOXRpPJtl2FmeBCO6MeR.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive:155n2THDd8O_CWovE9g0xnDqavc07tr63",
+    "type": "movie",
+    "name": "Holidate",
+    "poster": "https://image.tmdb.org/t/p/w500/oXCLSlCRWWHsSSwLJSVIC0DDWsE.jpg",
+    "description": "Fed up with being single on holidays, two strangers agree to be each other's platonic plus-ones all year long, only to catch real feelings along the way.",
+    "background": "https://image.tmdb.org/t/p/w1280/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.0"
   }
 ]
