@@ -6671,5 +6671,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/q4aztOGdlXX2LTnTN3f4EegG9aB.jpg",
     "released": "2024-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1miLr-JBXKw8XpveZ_IM4rtBLhAgn5bBh",
+    "type": "movie",
+    "name": "Mythica: A Quest for Heroes",
+    "poster": "https://image.tmdb.org/t/p/w500/n75lUF6T2uvy1ZhVyjmdfaTfDT5.jpg",
+    "description": "Stuck in a life of indentured servitude, Marek dreams of becoming a wizard. When she meets the beautiful priestess Teela in need of help, she offers her assistance and provides a motley troupe. Together they go in search of Teela's sister, who was kidnapped by a wild ogre.",
+    "background": "https://image.tmdb.org/t/p/w1280/45WeAxvUnpLXohr9yuB5kD6O97I.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "5.9"
   }
 ]
