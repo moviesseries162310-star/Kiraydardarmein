@@ -468,5 +468,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mDW6z7I6de6JbUgPOkAEZwKbg7G.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1AXdflzHf4N9gOMqPclwvrh-1G9QhpEvO",
+    "type": "movie",
+    "name": "Troll Factory",
+    "poster": "https://image.tmdb.org/t/p/w500/1joLg8gwVTZe7tarh0isaWntdhQ.jpg",
+    "description": "Journalist Sang-jin uncovers the existence of the so-called 'Troll Factory' while investigating an online public sentiment manipulation story, and is confronted with an unbelievable truth.",
+    "background": "https://image.tmdb.org/t/p/w1280/84bWZa16ALeGKcdmvKWv6Kvoohb.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "5.6"
   }
 ]
