@@ -498,5 +498,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gXyYOWAkk4FdQU3adK8WFj8nN9J.jpg",
     "released": "2016-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:1LbIi-qSkvicCiKnV7gtOHe9Zi1i0r_2R",
+    "type": "movie",
+    "name": "Trollhunters: Rise of the Titans",
+    "poster": "https://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg",
+    "description": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
+    "background": "https://image.tmdb.org/t/p/w1280/d1i6oB5xdo2a7sOmjprCcElqlrD.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.6"
   }
 ]
