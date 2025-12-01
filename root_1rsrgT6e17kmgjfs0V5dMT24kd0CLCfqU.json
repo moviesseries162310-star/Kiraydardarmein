@@ -166,5 +166,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xqft4oJyMATznCFFLpTlQPiSr8N.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive:1Gv6XCoX6Q484yFaXNzVfW9qxneh_VcsU",
+    "type": "movie",
+    "name": "TRON: Ares",
+    "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+    "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+    "background": "https://image.tmdb.org/t/p/w1280/g3lCbTn3HYHTiFrfusxKGXMdyUW.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.3"
   }
 ]
