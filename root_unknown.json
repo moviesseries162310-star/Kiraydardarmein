@@ -428,5 +428,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
     "released": "2016-01-01",
     "imdbRating": "8.6"
+  },
+  {
+    "id": "gdrive-folder:1_lj7ik1Ntut7ckp6xDUHAKc3WeOB-wa0",
+    "type": "movie",
+    "name": "Trollhunters: Tales of Arcadia",
+    "poster": "https://image.tmdb.org/t/p/w500/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+    "description": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds.",
+    "background": "https://image.tmdb.org/t/p/w1280/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "8.5"
   }
 ]
