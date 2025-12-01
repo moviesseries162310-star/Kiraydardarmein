@@ -448,5 +448,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/o2t1SRRssesubSvZHLWSK7uW3fc.jpg",
     "released": "2022-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1RwmCYu91QRy1KeawAxq6HLBuNkCoxgbC",
+    "type": "movie",
+    "name": "Troll 2",
+    "poster": "https://image.tmdb.org/t/p/w500/8s5HoFBmJIEhuBWa8cpAe05p9Hx.jpg",
+    "description": "Nora, Andreas and Captain Kris leap back into action when a dangerous new troll awakes — and this time they'll need more help to take it down.",
+    "background": "https://image.tmdb.org/t/p/w1280/17FgTZbEDY6SVeZmx37Lob4z4JT.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "5.0"
   }
 ]
