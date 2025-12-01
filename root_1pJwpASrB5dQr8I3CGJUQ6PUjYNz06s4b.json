@@ -10085,5 +10085,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wJ7ORrqQEYyh9AQc0Wa20TCDSVW.jpg",
     "released": "2024-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1wohDre5BbJigBI55U8YNqoH_LPBpU5ne",
+    "type": "movie",
+    "name": "Promising Young Woman",
+    "poster": "https://image.tmdb.org/t/p/w500/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+    "description": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+    "background": "https://image.tmdb.org/t/p/w1280/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.4"
   }
 ]
