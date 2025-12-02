@@ -177,5 +177,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wN5e6gMVBTEihohzFkuGyZGbDOw.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:1RxSx3m-lB9LXni_MrWyx0EPpnp3Iw5eY",
+    "type": "movie",
+    "name": "Thamma",
+    "poster": "https://image.tmdb.org/t/p/w500/udkbDwBbysCGEydt0FHnl9dVO2k.jpg",
+    "description": "Two destined lovers battle supernatural forces, family ties, and nature itself to defend their forbidden romance in a mystical world where ancient powers and prophecies threaten to keep them apart.",
+    "background": "https://image.tmdb.org/t/p/w1280/6UKhOhwNhfC5CBohere70svnKcH.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.0"
   }
 ]
