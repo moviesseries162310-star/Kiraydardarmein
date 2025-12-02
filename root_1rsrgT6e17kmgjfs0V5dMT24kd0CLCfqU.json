@@ -176,5 +176,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/g3lCbTn3HYHTiFrfusxKGXMdyUW.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1orEhPqJshFLh1F1h6HZdbExfq4VNUqiB",
+    "type": "movie",
+    "name": "The Last Duel",
+    "poster": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+    "description": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+    "background": "https://image.tmdb.org/t/p/w1280/4LrL40XecjGLRpX5I2gzMTUt04l.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.4"
   }
 ]
