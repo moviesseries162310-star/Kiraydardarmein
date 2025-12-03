@@ -6691,5 +6691,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bPsExF2epwQeyP7HK9JK52FSgsi.jpg",
     "released": "2014-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1Ds0BgNb-O11K2XWYpK2PnbrbhZda6hV7",
+    "type": "movie",
+    "name": "Love, Rosie",
+    "poster": "https://image.tmdb.org/t/p/w500/8Mf9GgyNv5jjLAAPGsom9skH2Du.jpg",
+    "description": "Since the moment they met at age 5, Rosie and Alex have been best friends, facing the highs and lows of growing up side by side. A fleeting shared moment, one missed opportunity, and the decisions that follow send their lives in completely different directions. As each navigates the complexities of life, love, and everything in between, they always find their way back to each other - but is it just friendship, or something more?",
+    "background": "https://image.tmdb.org/t/p/w1280/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "7.8"
   }
 ]
