@@ -10175,5 +10175,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dR3AnN8i3TlAJtD9T5ZQ6CJGNWc.jpg",
     "released": "2024-01-01",
     "imdbRating": "4.5"
+  },
+  {
+    "id": "gdrive:1-go_-sYShlE51oTkz7RsuHl9iab2sSpz",
+    "type": "movie",
+    "name": "Assassin",
+    "poster": "https://image.tmdb.org/t/p/w500/fLRCNUz3MsnC0MdhaWpw3hp4Eye.jpg",
+    "description": "",
+    "background": "https://image.tmdb.org/t/p/w1280/gZF6fDtE71Fi3AGcF0PSQAxCgE3.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "4.4"
   }
 ]
