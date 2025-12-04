@@ -358,5 +358,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lCqQefm3JsTDDlvOunM1YE9Cxu2.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1phDmVDqwE7lDu5bbmbJNZ-GVmBRlAGvj",
+    "type": "movie",
+    "name": "A Thought of Ecstasy",
+    "poster": "https://image.tmdb.org/t/p/w500/nK6IfnxlX6KTYwqD3OKV1uiaWde.jpg",
+    "description": "August 2019. Frank recognizes his own story of twenty years ago in a recently published book. He remembers Marie, with whom he had a relationship before she moved to the United States and disappeared from his life. Frank sets out in search of her and finds himself in a USA petrified by a heat wave and lost in suspicion and political paranoia. He heads into the desert in pursuit of Marie.",
+    "background": "https://image.tmdb.org/t/p/w1280/pZg70Ru1WdH7JfxR0g9ni1XPdIf.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "4.4"
   }
 ]
