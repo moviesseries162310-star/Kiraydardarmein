@@ -4478,5 +4478,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/c6GGumaw3bvhX15NXK30heuCnaC.jpg",
     "released": "2016-01-01",
     "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:1FN-fg0jjXbO_-fvH8FxGbtp6pH0tuqk2",
+    "type": "movie",
+    "name": "Takers",
+    "poster": "https://image.tmdb.org/t/p/w500/s2zx7JA87rkQcmsV40k0vbVJ6oh.jpg",
+    "description": "A seasoned team of bank robbers, including Gordon Jennings, John Rahway, A.J., and brothers Jake and Jesse Attica successfully complete their latest heist and lead a life of luxury while planning their next job. When Ghost, a former member of their team, is released from prison he convinces the group to strike an armored car carrying $20 million. As the \"Takers\" carefully plot out their strategy and draw nearer to exacting the grand heist, a reckless police officer inches closer to apprehending the criminals.",
+    "background": "https://image.tmdb.org/t/p/w1280/2MmcWazB76kabQ1livKMqIUfN80.jpg",
+    "released": "2010-01-01",
+    "imdbRating": "6.2"
   }
 ]
