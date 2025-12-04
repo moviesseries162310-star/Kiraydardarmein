@@ -978,5 +978,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ofghaIIJ9UM3fob8UFwUtpz03Bd.jpg",
     "released": "2016-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1CoXP2Ccez6JjfOSbbFrVAS1h7-XyABLa",
+    "type": "movie",
+    "name": "Lunana: A Yak in the Classroom",
+    "poster": "https://image.tmdb.org/t/p/w500/mL1OQc1cxGsOIVHgjDvyvmPSmad.jpg",
+    "description": "A teacher, in search of inspiration, travels to the most remote school in the world, where he ends up realizing how important his job is and appreciating the value of yak dung.",
+    "background": "https://image.tmdb.org/t/p/w1280/boGRStbspjqtNtDVpqvj28sI5V3.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.4"
   }
 ]
