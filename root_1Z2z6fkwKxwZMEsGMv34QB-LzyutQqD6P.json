@@ -5838,5 +5838,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
     "released": "2013-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1dEvNJUiyq4M6JPWYkitExphweFiq0JIi",
+    "type": "movie",
+    "name": "Crown Vic",
+    "poster": "https://image.tmdb.org/t/p/w500/aUFuuUMd4nMbt3pdzulnFRxbY6e.jpg",
+    "description": "One memorable night in the life of veteran patrol officer Ray Mandel and his trainee, ambitious rookie cop Nick Holland in the LAPD's Olympic Division. With two cop killers on the loose and hunting for more targets, Mandel and Holland must contend with a city about to boil over, as well as Jack VanZandt, an unhinged rogue cop out for payback running wild in their patrol zone.",
+    "background": "https://image.tmdb.org/t/p/w1280/dgOF7oQLVO2Ml6Be4zlaWHalepD.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.2"
   }
 ]
