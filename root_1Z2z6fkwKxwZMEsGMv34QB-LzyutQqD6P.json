@@ -2308,5 +2308,15 @@
     "background": null,
     "released": null,
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1ZMY9LbdFKed3RT5uG2IqbbR7YcK-Ci1c",
+    "type": "movie",
+    "name": "Crazy Rich Asians",
+    "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+    "description": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+    "background": "https://image.tmdb.org/t/p/w1280/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.1"
   }
 ]
