@@ -528,5 +528,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/icy4p7Nb33UU2S5eHvlBcE0Dvmi.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive:1lxWnBtNkPbwsoeVAVv7ADExC14vrpOGO",
+    "type": "movie",
+    "name": "American Made",
+    "poster": "https://image.tmdb.org/t/p/w500/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg",
+    "description": "The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.",
+    "background": "https://image.tmdb.org/t/p/w1280/zi4wPPAdMxwbR7soBhPyJokzHgn.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.9"
   }
 ]
