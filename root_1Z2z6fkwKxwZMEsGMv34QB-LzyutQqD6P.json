@@ -1578,5 +1578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aRAmr3Eg7pyiIAdCSkD9OT8UvR4.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1GAn7OfnyxQO24zD7ce7C7kkqK0LIV0_2",
+    "type": "movie",
+    "name": "The Calling",
+    "poster": "https://image.tmdb.org/t/p/w500/kqJGIh2mZVwTD20GeDVTUNOwd5p.jpg",
+    "description": "Detective Hazel Micallef hasn't had much to worry about in the sleepy town of Port Dundas until a string of gruesome murders in the surrounding countryside brings her face to face with a serial killer driven by a higher calling.",
+    "background": "https://image.tmdb.org/t/p/w1280/e8TJ0DWMUSGv0ZUi2k457FNSrvP.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "5.9"
   }
 ]
