@@ -1098,5 +1098,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8nh70OvIsJKpfZdTMZoMJMb8aVE.jpg",
     "released": "2017-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:1Rhx7JHsRM7Z0z4LXzuDG4eWB9VEfWkKg",
+    "type": "movie",
+    "name": "Gogol. Viy",
+    "poster": "https://image.tmdb.org/t/p/w500/i3ZVkRfqX3cviDOLPOliON9Tkzl.jpg",
+    "description": "A mysterious Dark Horseman slays young girls near the village of Dikanka, and he has already butchered 11 ladies. Nikolai Gogol, a scribe from Saint Petersburg has to take charge of the investigation, but the closer he gets to solving the case, the more fits he has, causing macabre visions. When he learns the next victim is his beloved, Liza, he doubts that he can protect her and resist the murderer. Fortunately, he meets somebody who can help him: Khoma Brut, the witch hunter, martial artist and philosopher. Together they spend three dreadful nights in an old chapel reading the funeral service for Ulyana, the witch, and calling upon the ghastly evil spirit Viy.",
+    "background": "https://image.tmdb.org/t/p/w1280/gCAyjWtKlqltudeKNadNyDOMNXM.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.3"
   }
 ]
