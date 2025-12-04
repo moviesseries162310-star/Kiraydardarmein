@@ -1878,5 +1878,15 @@
     "background": null,
     "released": "1980-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1qqu-w-11Cnxv8KHKbK8M4OPkwo21rISx",
+    "type": "movie",
+    "name": "Vampire Academy",
+    "poster": "https://image.tmdb.org/t/p/w500/cJZpKgiFfjDZ6L5aOJvbmDhsGqY.jpg",
+    "description": "Rose, a rebellious half-vampire/half-human guardian-in-training and her best friend, Lissa -- a mortal, royal vampire Princess - have been on the run when they are captured and returned to St. Vladamirs Academy, the very place where they believe their lives may be in most jeopardy. Rose will sacrifice everything to protect Lissa from those who intend to exploit her from within the Academy walls and the Strigoi (immortal, evil vampires) who hunt her kind from outside its sanctuary.",
+    "background": "https://image.tmdb.org/t/p/w1280/ttb2OaMIWpuq8Y0bTIOSXlOvyEk.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "6.3"
   }
 ]
