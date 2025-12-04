@@ -4758,5 +4758,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nFPT1iucVA0qkmkJktYNeYzXhLc.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1FbKHGQhx8uvJGwIRHlfArCEogkh9Fh-P",
+    "type": "movie",
+    "name": "White as Snow",
+    "poster": "https://image.tmdb.org/t/p/w500/vOo0cXSb5c5B4SJFRJwXosuYpJV.jpg",
+    "description": "Claire is a beautiful young woman who works at her late father’s hotel, that is now managed by her evil stepmother Maud. Claire unwittingly sparks uncontrollable jealousy in Maud, whose young lover has fallen in love with Claire. Maud decides to get rid of Claire who finds shelter in a farm where she’s allowed to break free from her strict upbringing through encounters with seven “princes.”",
+    "background": "https://image.tmdb.org/t/p/w1280/e7kMJtCtrVLjaaGaKsjq0kEF1YF.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "5.1"
   }
 ]
