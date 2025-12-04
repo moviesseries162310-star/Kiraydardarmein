@@ -3068,5 +3068,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5F8EqhMRn9KbLgmTsBCejctVYSk.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1pUXasIgPkZd7refEsX600b2fwzsARX8e",
+    "type": "movie",
+    "name": "Daniel Isn't Real",
+    "poster": "https://image.tmdb.org/t/p/w500/zFYYFEhKS6JZvNW7gXeKeqnbcS7.jpg",
+    "description": "A troubled college freshman resurrects his imaginary friend to help him cope with a violent trauma.",
+    "background": "https://image.tmdb.org/t/p/w1280/Ap81QP1v4x7NZmfosprUUUpBLWi.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.1"
   }
 ]
