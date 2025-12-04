@@ -1838,5 +1838,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cybFHenEWTvppsMTiVd5LduxVni.jpg",
     "released": "2016-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1dHdqChHVcBnvs2HlyFrePC2h5umJzKSp",
+    "type": "movie",
+    "name": "The Thieves",
+    "poster": "https://image.tmdb.org/t/p/w500/pcliLcY5Jrv106hPY3PwKjulMgP.jpg",
+    "description": "An Italian-American mobster is sent back to Naples from the States. He moves to Italy with all his illegal proceeds hidden in jam jars--which fall into the wrong hands when they get to the harbour of Naples. These hands belong to people who demand their fair share. Meanwhile, the mobster is questioned by investigators.",
+    "background": "https://image.tmdb.org/t/p/w1280/wQPZlpvZ5juDNXdhLHNainycilJ.jpg",
+    "released": "1959-01-01",
+    "imdbRating": "5.5"
   }
 ]
