@@ -5518,5 +5518,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4kafB13wLSdJXD35L9IHd6ih8oo.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1TEBT-6Qyy-spZgHGPTIka6V0Qz16RJsG",
+    "type": "movie",
+    "name": "Den of Thieves",
+    "poster": "https://image.tmdb.org/t/p/w500/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+    "description": "A gritty crime saga which follows the lives of an elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+    "background": "https://image.tmdb.org/t/p/w1280/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.9"
   }
 ]
