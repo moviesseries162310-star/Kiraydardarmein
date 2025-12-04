@@ -198,5 +198,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jZg9HtD8NJDeAXziVcpCbujNz6d.jpg",
     "released": "1980-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1HRJZZ_0AZeQ2HYlRHHJD9_u1oijeDot2",
+    "type": "movie",
+    "name": "Hunter Killer",
+    "poster": "https://image.tmdb.org/t/p/w500/ng7ukqGaSHOuJZ4GwLJP6AH9ixc.jpg",
+    "description": "Captain Glass of the USS Arkansas discovers that a coup d'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.",
+    "background": "https://image.tmdb.org/t/p/w1280/gCIB3DdK00DyfwosVGf7pnFFdK3.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.9"
   }
 ]
