@@ -4958,5 +4958,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8kJflsQ4SU9CJQFnht9mpXDW2cF.jpg",
     "released": "2010-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1bV1k5A5TzDmWaTW-UL7ZMBA_lovdb700",
+    "type": "movie",
+    "name": "Take Point",
+    "poster": "https://image.tmdb.org/t/p/w500/fl9VBbIGHUoBY6Ixzt9lEGjhxzs.jpg",
+    "description": "On the day of the U.S. presidential election in 2024, a team of elite mercenaries embark on a secret CIA mission to abduct North Korea's politician in an underground bunker below the Korean Demilitarized Zone. However, they get caught in the crossfire which causes tensions to escalate to the brink of World War III.",
+    "background": "https://image.tmdb.org/t/p/w1280/4tOYcEXHXclnD1B7EpVDw4guJoH.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.9"
   }
 ]
