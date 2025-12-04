@@ -738,5 +738,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/OvMX5sgJ0vLmKQbIiS5yy7jn5H.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1OV_KtVKjglB30zLKNnE0g-0TEkmfE4iI",
+    "type": "movie",
+    "name": "Stolen",
+    "poster": "https://image.tmdb.org/t/p/w500/xR5Endhjm4soY6fPgXY0jrpDZvL.jpg",
+    "description": "The five-month-old baby of impoverished tribal woman Jhumpa Mahato is stolen. Two brothers, Gautam and Raman, who witness the kidnapping, try to help her and become embroiled in the complexities of the investigation.",
+    "background": "https://image.tmdb.org/t/p/w1280/rJsHZLgwJDrhaXIePEF9a8KkaA2.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.9"
   }
 ]
