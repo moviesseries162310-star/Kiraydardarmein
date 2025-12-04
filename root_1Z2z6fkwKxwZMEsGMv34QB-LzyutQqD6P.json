@@ -3388,5 +3388,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hdjeh4ZU4Ifo9yAJwM9d3JqqCaS.jpg",
     "released": "2019-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1AE2_ypaUcM37VRj-irNDGyIvyRHuugOJ",
+    "type": "movie",
+    "name": "Against the Night",
+    "poster": "https://image.tmdb.org/t/p/w500/t28BqgsQqwsgwTge37InGTshySQ.jpg",
+    "description": "A group of friends sneak into an abandoned prison with the intention of making a ghost hunting video, until they start to go missing one by one.",
+    "background": "https://image.tmdb.org/t/p/w1280/mdLx5pwsePo5pifIPu9XNBlUq3o.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "4.3"
   }
 ]
