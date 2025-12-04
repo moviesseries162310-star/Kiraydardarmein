@@ -928,5 +928,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fRSGoYlxL4ZcDVVn0XzfKh92kog.jpg",
     "released": "2024-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1U9avBCAcK21XWPS5ptTejS_sj0A4szVa",
+    "type": "movie",
+    "name": "Bedevilled",
+    "poster": "https://image.tmdb.org/t/p/w500/mjKuhCvGRyuzT9ekC82okvbyI3K.jpg",
+    "description": "A seminary student helps a nightclub singer sought by Paris police for killing her married lover.",
+    "background": "https://image.tmdb.org/t/p/w1280/mFSqe2EvzmWJhYRU1Luw01Pznym.jpg",
+    "released": "1955-01-01",
+    "imdbRating": "4.7"
   }
 ]
