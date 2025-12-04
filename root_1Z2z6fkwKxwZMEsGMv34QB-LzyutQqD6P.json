@@ -788,5 +788,15 @@
     "background": null,
     "released": null,
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1025B_U8VUkD5jOH1qWvG4s_5qLU66VyI",
+    "type": "movie",
+    "name": "The Star",
+    "poster": "https://image.tmdb.org/t/p/w500/tEbDvivUfsCupngKIfMJJ725eAD.jpg",
+    "description": "A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told: the first Christmas.",
+    "background": "https://image.tmdb.org/t/p/w1280/gpVg9EA5tieNCxmPtx9KTbUKXrU.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.4"
   }
 ]
