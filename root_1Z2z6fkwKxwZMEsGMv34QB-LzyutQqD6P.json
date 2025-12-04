@@ -4338,5 +4338,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eUqdBXJsYV71kt6tocosbUoICiP.jpg",
     "released": "2011-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1O75WDQWkyOf5FAvIgpFNrvIEwBgvltZZ",
+    "type": "movie",
+    "name": "A Stranger in Paradise",
+    "poster": "https://image.tmdb.org/t/p/w500/36TThRgy15kGmboadlR0n8SYRYy.jpg",
+    "description": "On the verge of making partner, Josh Pratt’s (Colin Egglesfield) life is turned upside down when the SEC investigates the head of his multi-billion dollar hedge fund for insider trading. Forced into a well-timed “vacation” he never asked for Josh finds himself in Bangkok with a price on his head, a morally ambiguous brother who is knee deep into the Thai mafia, and a propensity for getting shot at. Unfortunately for Josh, the only way out is to give up information he doesn’t know he has.",
+    "background": null,
+    "released": "2013-01-01",
+    "imdbRating": "5.4"
   }
 ]
