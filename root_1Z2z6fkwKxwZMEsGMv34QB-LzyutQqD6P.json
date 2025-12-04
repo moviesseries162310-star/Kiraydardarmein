@@ -498,5 +498,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/u5gdLQVhrtZvfY8SaIia0E4KsUE.jpg",
     "released": "2012-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1vKkw5C3krONsr7HFmhsJQGd4VS7ZORbw",
+    "type": "movie",
+    "name": "The Price for Silence",
+    "poster": "https://image.tmdb.org/t/p/w500/8Ks48TuLvSGJy1jcfITG47AJKQz.jpg",
+    "description": "After the death of her father, a troubled woman returns home to confront the family who paid for her silence.  Kira Flynn grew up in a storybook NJ setting.  As a teen, she was a gifted artist with a bright future ahead of her, until one fateful night changed everything; a child’s innocence, a father’s loyalty, and a family’s future.  Fifteen years later, Kira’s father passes away.  She returns home to her mother, Sheila, and her brother,  Lucas, to help bury her father while she digs up her past.",
+    "background": "https://image.tmdb.org/t/p/w1280/m4KCvLopac5wOyczVJOyAtCeBWQ.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.5"
   }
 ]
