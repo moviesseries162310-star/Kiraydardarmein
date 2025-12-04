@@ -3758,5 +3758,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/r8xotdjJLzZpdbj3Iz636bUi3oR.jpg",
     "released": "2012-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1SIconijvVNwAi5ATlI-V0dr-np3xfQ5d",
+    "type": "movie",
+    "name": "Quiet Comes the Dawn",
+    "poster": "https://image.tmdb.org/t/p/w500/tpfPbQj0mt0Xgh6YnhhOZD97qXf.jpg",
+    "description": "Female protagonist’s brother dies under mysterious circumstances. Extremely vivid nightmares begin to haunt her and she decides to turn to the Institute of somnology for help. Along with other patients, they are induced into a «collective lucid dream». But at the dawn, they will awake to a completely different reality that is more horrifying than any nightmare.",
+    "background": "https://image.tmdb.org/t/p/w1280/AefSCL3exsQ2RoMNgsUzPi6NhII.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.1"
   }
 ]
