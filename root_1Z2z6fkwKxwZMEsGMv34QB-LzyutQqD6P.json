@@ -2018,5 +2018,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
     "released": "2014-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1uC2ERkAQ_KLBx_Zp2z7XkqBtEelVK8TH",
+    "type": "movie",
+    "name": "People You May Know",
+    "poster": "https://image.tmdb.org/t/p/w500/zRoAt3J8YBCH1hI0jphF473Kwdd.jpg",
+    "description": "'People You May Know' tells the story of four friends in their 40s in Los Angeles. All them will have to confront a new reality when Delia gets pregnant from Joe, her best friend who happens to be gay.",
+    "background": "https://image.tmdb.org/t/p/w1280/e1h44Q0P7KPnRXPUu9vjIqYBcsr.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.4"
   }
 ]
