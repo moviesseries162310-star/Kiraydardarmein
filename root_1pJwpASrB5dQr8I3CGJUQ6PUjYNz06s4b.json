@@ -10235,5 +10235,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sXpyWx44iMv1spCd3QfnXKYDd7k.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1r1INPTuyVYrTT1LxmNGHIdAd44OUSCcd",
+    "type": "movie",
+    "name": "The Devil All the Time",
+    "poster": "https://image.tmdb.org/t/p/w500/sdMZmKVvrnyYbl9Az4L6ehuIrFp.jpg",
+    "description": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+    "background": "https://image.tmdb.org/t/p/w1280/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.2"
   }
 ]
