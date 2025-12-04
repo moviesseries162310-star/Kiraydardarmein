@@ -6138,5 +6138,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zj8XS0l1cWStpKnuD1LFMB3VoV1.jpg",
     "released": "1967-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1Nri4eSiR3SWKJxJRSdeSCkjIV0FtdKoQ",
+    "type": "movie",
+    "name": "Help, I Shrunk My Parents",
+    "poster": "https://image.tmdb.org/t/p/w500/7335uX2btMkwFGndN0OGeFCvFgn.jpg",
+    "description": "Felix's school is haunted again, only this time it's not the benevolent spirit of school founder Otto Leonhard and the nuisance he caused, but the once hated and long-since dead Director Hulda Stingbeard. A coincidence causes the former shrunken and skeletonized school principle to rise again, leading to chaos...",
+    "background": "https://image.tmdb.org/t/p/w1280/8KqItkpbLGSQzJQdO3HR4SARrkF.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.2"
   }
 ]
