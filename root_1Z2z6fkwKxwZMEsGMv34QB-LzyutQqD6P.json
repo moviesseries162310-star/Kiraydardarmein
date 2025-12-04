@@ -5978,5 +5978,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1-27XLDRhNyGgEzpylAxWaxXODX7taESM",
+    "type": "movie",
+    "name": "Automata",
+    "poster": "https://image.tmdb.org/t/p/w500/v2CokOK5RfdkTo6C26PifDCndoX.jpg",
+    "description": "Jacq Vaucan, an insurance agent of ROC robotics corporation, routinely investigates the case of manipulating a robot. What he discovers will have profound consequences for the future of humanity.",
+    "background": "https://image.tmdb.org/t/p/w1280/kVChi7qHX9UMcpAh7J6fGBCCH2c.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "5.9"
   }
 ]
