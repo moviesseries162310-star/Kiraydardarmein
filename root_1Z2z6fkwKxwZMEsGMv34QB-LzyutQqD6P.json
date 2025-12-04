@@ -5548,5 +5548,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/x7EnUgiqbh3uJhuED90G8OoTQPb.jpg",
     "released": "2014-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:125WylMDrnTzGDwXP-vi9DesQYrEKfh4N",
+    "type": "movie",
+    "name": "Hop",
+    "poster": "https://image.tmdb.org/t/p/w500/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg",
+    "description": "E.B., the Easter Bunny's teenage son, heads to Hollywood, determined to become a drummer in a rock 'n' roll band. In L.A., he's taken in by Fred after the out-of-work slacker hits E.B. with his car.",
+    "background": "https://image.tmdb.org/t/p/w1280/5Vc3uhEhIVY6uE02OHYbjGIbMha.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "5.8"
   }
 ]
