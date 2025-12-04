@@ -1458,5 +1458,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2chAsfJRgdrbxUhS863V11Q0XB1.jpg",
     "released": "2010-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1AG_wqod3ZwF78uUy6OKVzroIZMAcYuxl",
+    "type": "movie",
+    "name": "Belzebuth",
+    "poster": "https://image.tmdb.org/t/p/w500/em79Vu871uUVZEpBY6qkO5O6psP.jpg",
+    "description": "While leading a police investigation of a massacre in a public school at the border of Mexico and U.S.A, special Agent Emanuel Ritter links this strange case to the coming and rising of the ancient demon Belzebuth. But in order to stop the trail of upcoming infanticides, Ritter shall have to confront himself before dealing with the forces of good and evil.",
+    "background": "https://image.tmdb.org/t/p/w1280/v5U0s7HZGbZY8q6SXK6aFykSuDr.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.2"
   }
 ]
