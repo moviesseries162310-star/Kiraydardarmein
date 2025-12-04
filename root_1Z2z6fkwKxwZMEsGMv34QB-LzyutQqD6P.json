@@ -5478,5 +5478,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aIF2xRhE7iGxQd6ITGNrwYdGB9e.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:14NE3lNRmh7Me2gEiwEwVyR0j_99YgsBK",
+    "type": "movie",
+    "name": "Get Him to the Greek",
+    "poster": "https://image.tmdb.org/t/p/w500/6g0li87w8LIK77QRUtOkQkM6bD7.jpg",
+    "description": "Pinnacle records has the perfect plan to get their sinking company back on track: a comeback concert in LA featuring Aldous Snow, a fading rockstar who has dropped off the radar in recent years. Record company intern Aaron Green is faced with the monumental task of bringing his idol, out of control rock star Aldous Snow, back to LA for his comeback show.",
+    "background": "https://image.tmdb.org/t/p/w1280/xvHceO1U7osWWTOPXUrjr2Vg8h7.jpg",
+    "released": "2010-01-01",
+    "imdbRating": "6.0"
   }
 ]
