@@ -4808,5 +4808,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vyT3N9WnldkCfojnCnZzcfVl6ma.jpg",
     "released": "1997-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1OlnIY3TBhqfZyXJuSEwOwDVfGl3E9meQ",
+    "type": "movie",
+    "name": "The Knight of Shadows: Between Yin and Yang",
+    "poster": "https://image.tmdb.org/t/p/w500/x2n0On0tEvlPiXVqajPYbPYJtn0.jpg",
+    "description": "Pu Songling, a legendary demon hunter, is asked to investigate the mysterious disappearances of young girls from a small village. When he discovers evil forces are kidnapping the girls to feast on their souls, he sets out to save humanity from the inhuman invasion journeying through hidden worlds and colorful dimensions.",
+    "background": "https://image.tmdb.org/t/p/w1280/nkLt5EEHWDTMbmUX5rj4fMcvI0I.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "5.6"
   }
 ]
