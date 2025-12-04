@@ -3058,5 +3058,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6KaCzcVKsdxlsTIq35xAix5U3Nb.jpg",
     "released": "2014-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1yODGmmlGY3568wK4w9RyQDy9FXXtpmuz",
+    "type": "movie",
+    "name": "Bernie the Dolphin",
+    "poster": "https://image.tmdb.org/t/p/w500/cc2emcyFQVsnCrTwH5MdZiJeRcx.jpg",
+    "description": "A brother and sister who befriend a badly sunburned dolphin separated from his family and uncover a secret plan that could destroy the beach and their new friend's home. The kids must devise a clever plan to stop the bad guys, protect the sea life, and, most importantly, save their best friend, Bernie.",
+    "background": "https://image.tmdb.org/t/p/w1280/5F8EqhMRn9KbLgmTsBCejctVYSk.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.9"
   }
 ]
