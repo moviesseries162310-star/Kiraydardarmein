@@ -4028,5 +4028,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2rtOJVlzl3svBo9jqY9BmzU9OL5.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1PgF94ix2u1STbT0zyCrljuzeXilC1Xs3",
+    "type": "movie",
+    "name": "The Wolfman",
+    "poster": "https://image.tmdb.org/t/p/w500/fQqPoAHvHicie1ttuiV2q0yv9V7.jpg",
+    "description": "Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.",
+    "background": "https://image.tmdb.org/t/p/w1280/kTDunJrHYsH6o1wmD6iT4wXkuHo.jpg",
+    "released": "2010-01-01",
+    "imdbRating": "5.9"
   }
 ]
