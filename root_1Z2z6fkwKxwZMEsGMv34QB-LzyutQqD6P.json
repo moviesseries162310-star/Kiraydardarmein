@@ -5238,5 +5238,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dmyWErK0752dyJnA0YT1Vfi9HzU.jpg",
     "released": "2016-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1_KzIV3e3iSc5l6LAdFPeMwZqVtO7Avb9",
+    "type": "movie",
+    "name": "Destroyer",
+    "poster": "https://image.tmdb.org/t/p/w500/3BCvOnVaI37dk1HcAGqMxfekqJC.jpg",
+    "description": "Flagwaving story of a new American destroyer, the JOHN PAUL JONES, from the day her keel is laid, to what was very nearly her last voyage. Among the crew, is Steve Boleslavski, a shipyard welder that helped build her, who reenlists, with his old rank of Chief bosuns mate. After failing her sea trials, she is assigned to the mail run, until caught up in a disparate battle with a Japanese sub. After getting torpedoed, and on the verge of sinking, the Captain, and crew hatch a plan to try and save the ship, and destroy the sub.",
+    "background": "https://image.tmdb.org/t/p/w1280/aKO4Z3sQccq2tFij29A9nVEuCVP.jpg",
+    "released": "1943-01-01",
+    "imdbRating": "6.6"
   }
 ]
