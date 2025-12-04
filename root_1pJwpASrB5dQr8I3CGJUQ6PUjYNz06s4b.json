@@ -10255,5 +10255,15 @@
     "background": null,
     "released": "2023-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1KKgFAFk55FjsUGibAPU3OziygHbZC6Ln",
+    "type": "movie",
+    "name": "Hell House LLC: Lineage",
+    "poster": "https://image.tmdb.org/t/p/w500/vFZo2cUEF16gsY5lhewOLFA7CBC.jpg",
+    "description": "After a near-death experience, Vanessa Shepherd faces nightmares in Abaddon. As mysterious deaths occur around her, she discovers her connection to the Abaddon Hotel, Carmichael Manor, and decades of unexplained murders.",
+    "background": "https://image.tmdb.org/t/p/w1280/lKGUaVHu6QX4vnfjxXIWcogeUR1.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "4.5"
   }
 ]
