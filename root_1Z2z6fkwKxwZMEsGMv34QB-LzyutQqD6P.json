@@ -2528,5 +2528,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hw1CwteUFGjcWXwjGhKk8UJpWeA.jpg",
     "released": "2019-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive:1BrQvwjnb4mXvnFRoJPVCJPBeWgAPUZH5",
+    "type": "movie",
+    "name": "The Final Master",
+    "poster": "https://image.tmdb.org/t/p/w500/vjPavx5RipvydpVrca1MzwWkJxS.jpg",
+    "description": "Determined to pass down his art, the Final Master of Wing Chun is caught in a power struggle with malicious local officials and ultimately must choose between personal honor and his master’s dying wish.",
+    "background": "https://image.tmdb.org/t/p/w1280/fEQrmcbTdhmjBk5zN7j7khvSdec.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "6.9"
   }
 ]
