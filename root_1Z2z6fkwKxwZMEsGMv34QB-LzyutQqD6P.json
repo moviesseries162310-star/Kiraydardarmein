@@ -988,5 +988,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/boGRStbspjqtNtDVpqvj28sI5V3.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1O0H5IyvX7hDTLKKqXvecEewrTqLL5bD2",
+    "type": "movie",
+    "name": "Solis",
+    "poster": "https://image.tmdb.org/t/p/w500/lea5bLww1ZwbNPRVk0RjB34xxVg.jpg",
+    "description": "Following an accident, an Engineer of an asteroid mining company endures the extreme limits – both physical and psychological – of human survival, trapped inside an escape pod as he helplessly idles towards the Sun.",
+    "background": "https://image.tmdb.org/t/p/w1280/fmYeviqi4Whh4NPrswNEU84aqLE.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "4.8"
   }
 ]
