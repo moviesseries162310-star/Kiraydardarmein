@@ -1818,5 +1818,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dw9KDRImNzj3jWYSkTte7wvzamO.jpg",
     "released": "2018-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive:1jg3QAmyKo9_bfaO2_183yGXMUDFPuPDr",
+    "type": "movie",
+    "name": "Roman J. Israel, Esq.",
+    "poster": "https://image.tmdb.org/t/p/w500/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg",
+    "description": "Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner – the firm's frontman – has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm – truths that conflict with his values of helping the poor and dispossessed – and finds himself in an existential crisis that leads to extreme actions.",
+    "background": "https://image.tmdb.org/t/p/w1280/w2pGoOHNVESZwlSI3xYk4OdEb91.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.3"
   }
 ]
