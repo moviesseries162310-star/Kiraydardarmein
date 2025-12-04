@@ -1038,5 +1038,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fdN2x1gxSEcUWvCkCC55g4ejFBP.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1WHWPJAmTWRpNp4WDrsZE2dorQC9V67ec",
+    "type": "movie",
+    "name": "Gogol. The Beginning",
+    "poster": "https://image.tmdb.org/t/p/w500/yLdgqoxzu11UrNoGIBSiMIxhwmA.jpg",
+    "description": "1829: Nikolay Gogol, troubled Third Section clerk, burns his own books. Epileptic seizures plague him. Investigator Yakov Guro discovers Gogol's visions hold crime-solving clues. Together, they tackle a baffling case in Dikanka, where everyone hides a dark secret.",
+    "background": "https://image.tmdb.org/t/p/w1280/p9o97jzYfzZyMAz5hsGKqKhJ6G4.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "6.3"
   }
 ]
