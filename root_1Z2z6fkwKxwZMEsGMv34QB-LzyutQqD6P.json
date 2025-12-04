@@ -768,5 +768,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:1g4_z2ddLJsVzEPdEqjUAaGBTMD8My66F",
+    "type": "movie",
+    "name": "Battle Drone",
+    "poster": "https://image.tmdb.org/t/p/w500/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg",
+    "description": "6 mercenaries are hired by CIA to abduct an heir to a republic and take out an arms dealer in Moscow. They get a followup mission in Chernobyl. Treason awaits them.",
+    "background": "https://image.tmdb.org/t/p/w1280/dO7PkqEgMwE1Kouu3gGhnmKKiE9.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.0"
   }
 ]
