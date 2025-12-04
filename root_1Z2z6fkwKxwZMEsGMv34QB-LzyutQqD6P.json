@@ -6328,5 +6328,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rm2oMykm5nX6SzXFr7TGHkO6r8Z.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1Rujvsf0OxgC455aSFK_925W6Z-nANiW2",
+    "type": "movie",
+    "name": "Beautiful Creatures",
+    "poster": "https://image.tmdb.org/t/p/w500/t7PWQHpJHb2ozALCfaPaC5aHxBs.jpg",
+    "description": "Ethan Wate just wants to get to know Lena Duchannes better, but unbeknownst to him, Lena has strange powers.  As Lena's 16th birthday approaches she might decide her fate, to be good or evil.  A choice which will impact her relationship forever.",
+    "background": "https://image.tmdb.org/t/p/w1280/6eDiL5UvFBnbalrxzrLKbIKwg8t.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "6.0"
   }
 ]
