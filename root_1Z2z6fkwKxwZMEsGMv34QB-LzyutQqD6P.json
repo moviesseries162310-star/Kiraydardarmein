@@ -5958,5 +5958,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lVgb8ebWu0H1hphBUw31m6gKDYW.jpg",
     "released": "2014-01-01",
     "imdbRating": "4.3"
+  },
+  {
+    "id": "gdrive:1Soj6AXRbUduaGH79Hk2xYR1RYxc3dp02",
+    "type": "movie",
+    "name": "Spider-Man: Into the Spider-Verse",
+    "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "background": "https://image.tmdb.org/t/p/w1280/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "8.4"
   }
 ]
