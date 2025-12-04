@@ -568,5 +568,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
     "released": "2012-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1PRI76mvQyGIZq4vzcywSLQwaZrND_yUc",
+    "type": "movie",
+    "name": "True Memoirs of an International Assassin",
+    "poster": "https://image.tmdb.org/t/p/w500/hPoSSqDqkKSIP2l3t6pyre9u5Ze.jpg",
+    "description": "After a publisher changes a writer's debut novel about a deadly assassin from fiction to nonfiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.",
+    "background": "https://image.tmdb.org/t/p/w1280/vnjl31jXQVuBJzo7U4Z4KU2fqbk.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.8"
   }
 ]
