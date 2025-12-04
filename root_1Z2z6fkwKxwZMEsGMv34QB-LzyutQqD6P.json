@@ -2268,5 +2268,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4MDYpCwqSVO5RcTiZ4GEfePzDdl.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1Rf0nadqxBSWLXy6nbUEa-4dJSQj710ea",
+    "type": "movie",
+    "name": "The Girl in the Spider's Web",
+    "poster": "https://image.tmdb.org/t/p/w500/w4ibr8R702DCjwYniry1D1XwQXj.jpg",
+    "description": "After being enlisted to recover a dangerous computer program, hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.",
+    "background": "https://image.tmdb.org/t/p/w1280/ejmwCnlgWXkpDLsrhsnB8Mn6dcu.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.2"
   }
 ]
