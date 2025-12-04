@@ -4718,5 +4718,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eQ5xu2pQ5Kergubto5PbbUzey28.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1UFoAyc5r8lzqJGGbfbcPTyqt10xdnufz",
+    "type": "movie",
+    "name": "Monster Trucks",
+    "poster": "https://image.tmdb.org/t/p/w500/aUzNybWqURfeg9BveLr4GOVCkti.jpg",
+    "description": "Tripp is a high school senior with a knack for building trucks who makes an incredible discovery - a gas-guzzling creature named Creech. To protect his mischievous new friend, Tripp hides Creech under the hood of his latest creation, turning it into a real-life super-powered Monster Truck. Together, this unlikely duo with a shared taste for speed team up on a wild and unforgettable journey to reunite Creech with his family.",
+    "background": "https://image.tmdb.org/t/p/w1280/w0I6KQ3r9DdNZ0tIsD1CA67Hr6x.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "6.1"
   }
 ]
