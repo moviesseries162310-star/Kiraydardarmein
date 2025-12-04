@@ -4328,5 +4328,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yR6952VuJ2OchliEj0vyRxFZiBT.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1okxMtcQe1XD8FRws77EPl730NA0B9zJ9",
+    "type": "movie",
+    "name": "Machine Gun Preacher",
+    "poster": "https://image.tmdb.org/t/p/w500/534yDalJ8rybnSn8VZ9XPWU3egc.jpg",
+    "description": "The true story of Sam Childers, a former drug-dealing biker who finds God and became a crusader for hundreds of Sudanese children who've been kidnapped and pressed into duty as soldiers.",
+    "background": "https://image.tmdb.org/t/p/w1280/eUqdBXJsYV71kt6tocosbUoICiP.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "6.7"
   }
 ]
