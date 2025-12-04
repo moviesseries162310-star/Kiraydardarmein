@@ -5358,5 +5358,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pid6eklnLNn5vy9TGdaqOVm3J6V.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:13cG9TwtwTafXBVNIILDdvprfB_ZOXEp9",
+    "type": "movie",
+    "name": "Boy Erased",
+    "poster": "https://image.tmdb.org/t/p/w500/oZbhTdi0ZQY7iiSQ0L7h3ya6NDF.jpg",
+    "description": "Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.",
+    "background": "https://image.tmdb.org/t/p/w1280/2ePViXIOnifrugvnjlFxzmvjwKL.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.0"
   }
 ]
