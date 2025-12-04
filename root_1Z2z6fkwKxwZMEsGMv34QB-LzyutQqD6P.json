@@ -3098,5 +3098,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9QWBstBOwv36cuv0hK4esNyFnvo.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1PSUcGSF8p4xGEKcuFWF4RxcKw8I5VeK3",
+    "type": "movie",
+    "name": "Mafia: Survival Game",
+    "poster": "https://image.tmdb.org/t/p/w500/fApl3x5biYZ9dE16wXCPlArj7R9.jpg",
+    "description": "A twist on the classic game of Mafia. 12 competitors take part in a game of life and death where the innocent must take out the Mafia in order to win the cash prize. Those that are voted out must face their biggest fears in a computer simulation.",
+    "background": "https://image.tmdb.org/t/p/w1280/j8CYtEaAqzialXEjoah5RwuzZYH.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "4.4"
   }
 ]
