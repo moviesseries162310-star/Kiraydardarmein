@@ -4038,5 +4038,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kTDunJrHYsH6o1wmD6iT4wXkuHo.jpg",
     "released": "2010-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:12BkCg9e8VreWYIPvtJhIxp1K0CqjlLgO",
+    "type": "movie",
+    "name": "Inside Job",
+    "poster": "https://image.tmdb.org/t/p/w500/7yXXIWec24htucjsZS1sDuPLqw8.jpg",
+    "description": "A film that exposes the shocking truth behind the economic crisis of 2008. The global financial meltdown, at a cost of over $20 trillion, resulted in millions of people losing their homes and jobs. Through extensive research and interviews with major financial insiders, politicians and journalists, Inside Job traces the rise of a rogue industry and unveils the corrosive relationships which have corrupted politics, regulation and academia.",
+    "background": "https://image.tmdb.org/t/p/w1280/1yFmxvVYgVrFKL2ksFzgX0MrWOM.jpg",
+    "released": "2010-01-01",
+    "imdbRating": "7.7"
   }
 ]
