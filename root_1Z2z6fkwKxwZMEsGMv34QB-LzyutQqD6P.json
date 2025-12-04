@@ -4858,5 +4858,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/s54HxtLJI87shYDNeRV6rMwhReJ.jpg",
     "released": "2018-01-01",
     "imdbRating": "3.5"
+  },
+  {
+    "id": "gdrive:1Lyj4SEM4c56g-qi6B49c-KIZxj4uLcEf",
+    "type": "movie",
+    "name": "The Platform",
+    "poster": "https://image.tmdb.org/t/p/w500/8gUU0Zq414RNZrvNW842UhTDwtC.jpg",
+    "description": "At a windy, abandoned province station a man is waiting for a train. But something seems to be wrong; wasn't that a naked person running by? The man begins to examine the area; the tension rises up to the point, where another passenger arrives on the platform.",
+    "background": null,
+    "released": "2001-01-01",
+    "imdbRating": "7.0"
   }
 ]
