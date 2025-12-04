@@ -1218,5 +1218,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zJ2uTOvMJOZu97L1EVo5HqdEdsN.jpg",
     "released": "2017-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:14-BWpU7-RZYqEmrJdKXS8sSLWz3ogR0P",
+    "type": "movie",
+    "name": "Grabbers",
+    "poster": "https://image.tmdb.org/t/p/w500/n1CkFfuDCh4NDZgaXmyna3V0Hxc.jpg",
+    "description": "Something sinister has come to the shores of Erin Island, unbeknownst to the quaint population of this sleepy fishing village resting somewhere off Ireland’s coast. First, some fishermen go missing. Then there is the rash of whale carcasses suddenly washing up on the beach. When the murders start, it’s up to two mismatched cops – an irresponsible alcoholic and his new partner, a by-the-book woman from the mainland – to protect the townsfolk from the giant, bloodsucking, tentacled aliens that prey upon them. Their only weapon, they discover, is booze. If they want to survive the creatures’ onslaught, everyone will have to get very, very drunk!",
+    "background": "https://image.tmdb.org/t/p/w1280/5GI1MueBPswWnFs7nqTeMS8tL7V.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "6.1"
   }
 ]
