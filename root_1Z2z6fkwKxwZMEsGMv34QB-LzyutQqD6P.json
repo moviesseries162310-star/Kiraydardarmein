@@ -4818,5 +4818,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nkLt5EEHWDTMbmUX5rj4fMcvI0I.jpg",
     "released": "2019-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1jH3eJIDgIGlh5uUplLOFXHGbiFyR7OWM",
+    "type": "movie",
+    "name": "It Chapter Two",
+    "poster": "https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+    "description": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+    "background": "https://image.tmdb.org/t/p/w1280/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.8"
   }
 ]
