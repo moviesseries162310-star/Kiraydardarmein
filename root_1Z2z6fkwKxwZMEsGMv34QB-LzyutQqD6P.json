@@ -4148,5 +4148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
     "released": "2013-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1zbT09YZBSUKbxVNz_J_pXOGeFug7qm1k",
+    "type": "movie",
+    "name": "The Mermaid",
+    "poster": null,
+    "description": "John Gary, a hotel owner, who wants to revitalize his business. After reading about a reported mermaid sighting, he has his daughter Ethel pose as a mermaid and gets a newspaper reporter to witness and photograph the mermaid. The publicity results in the hotel becoming famous, but Ethel eventually discloses the joke to the guests of the hotel in her mermaid suit.",
+    "background": null,
+    "released": "1910-01-01",
+    "imdbRating": null
   }
 ]
