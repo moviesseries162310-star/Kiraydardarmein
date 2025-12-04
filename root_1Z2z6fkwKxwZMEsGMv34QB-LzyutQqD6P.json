@@ -1048,5 +1048,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/p9o97jzYfzZyMAz5hsGKqKhJ6G4.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1BSd8LGcwBnd8NTJ7OfCseYegRoL0s6w2",
+    "type": "movie",
+    "name": "Exit",
+    "poster": "https://image.tmdb.org/t/p/w500/jPd02aGmzCB6vQhPotDFR2RZVQJ.jpg",
+    "description": "Four teenagers from a hilly village get stuck in a desolate bungalow one night.",
+    "background": "https://image.tmdb.org/t/p/w1280/cVcYQUSqAlqt2I1M2g7PJ1mPdMS.jpg",
+    "released": "2024-01-01",
+    "imdbRating": null
   }
 ]
