@@ -3438,5 +3438,15 @@
     "background": null,
     "released": "2013-01-01",
     "imdbRating": "4.6"
+  },
+  {
+    "id": "gdrive:1G_-G3jqP_5iAfTiYDxMU84JN4v9lgx04",
+    "type": "movie",
+    "name": "Nude",
+    "poster": "https://image.tmdb.org/t/p/w500/699DbQ8eTecLmzjTLrao9D5bbpq.jpg",
+    "description": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
+    "background": "https://image.tmdb.org/t/p/w1280/fx1wiibwJPemUMxmnWDCFzEoVeS.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "9.4"
   }
 ]
