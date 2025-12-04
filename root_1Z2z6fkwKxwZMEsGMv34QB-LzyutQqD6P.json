@@ -2538,5 +2538,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fEQrmcbTdhmjBk5zN7j7khvSdec.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1hd3lCEWlxUt0H3FGaleBfNTIym7780aI",
+    "type": "movie",
+    "name": "Carrie",
+    "poster": "https://image.tmdb.org/t/p/w500/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+    "description": "Withdrawn and sensitive teenager Carrie White faces bullying from classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
+    "background": "https://image.tmdb.org/t/p/w1280/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+    "released": "1976-01-01",
+    "imdbRating": "7.3"
   }
 ]
