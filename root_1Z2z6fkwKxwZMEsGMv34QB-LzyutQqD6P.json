@@ -4238,5 +4238,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zoBpc8yHzZMpOyFiiMP1iKSZzwH.jpg",
     "released": "2010-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1CkYxwL5IVRSjU6bpa2UDuL0ag1l0y3B4",
+    "type": "movie",
+    "name": "12 Strong",
+    "poster": "https://image.tmdb.org/t/p/w500/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg",
+    "description": "A team of special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.",
+    "background": "https://image.tmdb.org/t/p/w1280/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.3"
   }
 ]
