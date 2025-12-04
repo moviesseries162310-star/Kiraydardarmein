@@ -1008,5 +1008,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/joVyZRCxd22LFQWFKecyxQCaoYi.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1Ghn70p0tHI-6Gpdu3YKBx77K2kFWWaik",
+    "type": "movie",
+    "name": "Seven Years of Night",
+    "poster": "https://image.tmdb.org/t/p/w500/4baB3og9gSHT9aysMgMu4WZTMMK.jpg",
+    "description": "Set against the haunting backdrop of a small lake town, this chilling thriller unravels a meticulous revenge set over a period of 7 years, all beginning with the accidental death of an innocent girl.",
+    "background": "https://image.tmdb.org/t/p/w1280/iz4nTah8Ij081HaxBlqZRmLhh8E.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.8"
   }
 ]
