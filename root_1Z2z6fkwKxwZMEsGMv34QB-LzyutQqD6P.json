@@ -2458,5 +2458,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mcDv4dHM9AWHm2AZgFx8jM1mCMG.jpg",
     "released": "2022-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1Zl5zhzy7RwEjZ6ycxQQQgFOL5mHybnit",
+    "type": "movie",
+    "name": "The Curse of La Llorona",
+    "poster": "https://image.tmdb.org/t/p/w500/hETrPpoKs6BwoilK64YJ7Z5GcRT.jpg",
+    "description": "In 1970s Los Angeles, the legendary ghost La Llorona is stalking the night -- and the children. Ignoring the eerie warning of a troubled mother, a social worker and her own kids are drawn into a frightening supernatural realm. Their only hope of surviving La Llorona's deadly wrath is a disillusioned priest who practices mysticism to keep evil at bay.",
+    "background": "https://image.tmdb.org/t/p/w1280/8MCCpfOe7hkG28cNmkXVrOWRIlK.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "5.7"
   }
 ]
