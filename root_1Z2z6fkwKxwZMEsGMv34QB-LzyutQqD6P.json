@@ -218,5 +218,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8K5S5W0te4FJ0GVRHcPYPETWwLA.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1J_5uyYKn59fcmQUFh51WkVV4QkJsX3Be",
+    "type": "movie",
+    "name": "The Snowman",
+    "poster": "https://image.tmdb.org/t/p/w500/b3CMolkeXrPaVvd5vTsssMKfZZo.jpg",
+    "description": "A young boy makes a snowman one Christmas Eve, which comes to life at midnight and takes him on a magical adventure to the North Pole to meet Santa Claus.",
+    "background": "https://image.tmdb.org/t/p/w1280/aNCGvBqqrc9L6JKgujYkc2EKbXH.jpg",
+    "released": "1984-01-01",
+    "imdbRating": "7.5"
   }
 ]
