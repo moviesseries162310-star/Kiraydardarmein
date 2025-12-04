@@ -648,5 +648,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mnzqv3IHJHjqCYMBhTXGk3qu9JG.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:17pgE01WjIltrJx3PTnd5KEeJJB-h1-7O",
+    "type": "movie",
+    "name": "Spotlight",
+    "poster": "https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+    "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "background": "https://image.tmdb.org/t/p/w1280/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.8"
   }
 ]
