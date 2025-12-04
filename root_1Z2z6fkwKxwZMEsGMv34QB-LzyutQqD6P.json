@@ -298,5 +298,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uQOAvc6QHXtrglu45w0JaxnemJB.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1LN315VeMTsuOyYs37Qz5M37BRpcK7pNh",
+    "type": "movie",
+    "name": "Clyde Cooper",
+    "poster": "https://image.tmdb.org/t/p/w500/6gTe5LyA5wjdQAWy7aEnrNpMFMq.jpg",
+    "description": "A private investigator is hired to track down a missing girl on the run from a mysterious Silicon Valley corporation.",
+    "background": "https://image.tmdb.org/t/p/w1280/nWyQxUKrxOLk3YUDC0UyHompkFW.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "4.9"
   }
 ]
