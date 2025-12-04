@@ -2828,5 +2828,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xa4CnNdPmVPeT1qFuQgiCgASKE1.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.6"
+  },
+  {
+    "id": "gdrive:1QmR146wCQTIbYZUb4xgfwPMz2wMvj0Ev",
+    "type": "movie",
+    "name": "Love, Simon",
+    "poster": "https://image.tmdb.org/t/p/w500/snIsqVPmlu4LPjvToHpDotxa7Eh.jpg",
+    "description": "Everyone deserves a great love story, but for 17-year-old Simon Spier, it's a little more complicated. He hasn't told his family or friends that he's gay, and he doesn't know the identity of the anonymous classmate that he's fallen for online.",
+    "background": "https://image.tmdb.org/t/p/w1280/uFlLXRHYfTZk2qSIRjMHPIN1e2E.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "8.0"
   }
 ]
