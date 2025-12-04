@@ -578,5 +578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/vnjl31jXQVuBJzo7U4Z4KU2fqbk.jpg",
     "released": "2016-01-01",
     "imdbRating": "5.8"
+  },
+  {
+    "id": "gdrive:1D2N7DowZ650UNWdT5k9r6uJDTBau_-eb",
+    "type": "movie",
+    "name": "Darker Shades of Elise",
+    "poster": "https://image.tmdb.org/t/p/w500/d2FHfaJ2FM6IRnQbFS0O3hefeZV.jpg",
+    "description": "Elise's life takes a sharp turn for the worst when she meets a mysterious and alluring stranger who has more than friendship on his mind - A tale of love, fantasy and obsession.",
+    "background": "https://image.tmdb.org/t/p/w1280/vUqG0YXKUWEM1HJO7DbbDh8ZOHT.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "4.1"
   }
 ]
