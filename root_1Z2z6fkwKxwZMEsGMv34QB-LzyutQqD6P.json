@@ -328,5 +328,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pKNgzF5IJHkluNG6rZgVbRXvAIz.jpg",
     "released": "2012-01-01",
     "imdbRating": "4.6"
+  },
+  {
+    "id": "gdrive:1qvWDVQ8eQn3B1pMv1CwS1i62BmPWugsx",
+    "type": "movie",
+    "name": "CICADA",
+    "poster": "https://image.tmdb.org/t/p/w500/hv8R6z57NAL5Gtofd9OwX9sXn4h.jpg",
+    "description": "Cicada movie is a gripping survival thriller about an unscrupulous man whose journey through the jungle reveals a harsh truth: In the jungle, there is only one law: hunt to satisfy hunger. If the hunt is to serve other desires, the hunter will become the hunted.",
+    "background": null,
+    "released": "2024-01-01",
+    "imdbRating": null
   }
 ]
