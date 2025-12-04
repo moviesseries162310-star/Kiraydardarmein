@@ -5258,5 +5258,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/myxNmLdQy59m0q0PbggKkMEiYC9.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1Y4lKXoCiytjz-4gqKJyrzX7ZnV7Wvuzz",
+    "type": "movie",
+    "name": "Shark Lake",
+    "poster": "https://image.tmdb.org/t/p/w500/rAvFko64iscEmDQkVnmc8rpmqCw.jpg",
+    "description": "Meredith Hendricks happens to be the best cop in her quiet town on Lake Tahoe. When a black-market exotic species dealer named Clint is paroled from prison, something he let loose begins to make its presence known. Swimmers and land-lovers alike begin to become part of the food chain at an unbelievable rate. Meredith and her team discover that they're not just hunting one eating machine, but a whole family of them. Not everyone will make it out alive, but those who do will never forget this summer at Shark Lake.",
+    "background": "https://image.tmdb.org/t/p/w1280/gh5pdz3aoMpPuOnafOq3N1PWlPx.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "3.5"
   }
 ]
