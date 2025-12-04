@@ -678,5 +678,15 @@
     "background": null,
     "released": "2010-01-01",
     "imdbRating": "1.0"
+  },
+  {
+    "id": "gdrive:1p6EahO0DvJYKxJ0FCgC4CKIcIsDPiKs9",
+    "type": "movie",
+    "name": "Strangers of Patience",
+    "poster": "https://image.tmdb.org/t/p/w500/yLuHbglmsqvOXCULRTDYTUSAYZm.jpg",
+    "description": "Andrey is a well-known artist photographer who lives alone with his Labrador dog, Charley, in his own house with a swimming pool in a big city. While preparing for an important international exhibition, he meets a charming young woman Marina who turns out to be deaf and mute. Andrey brings Marina to his place, takes her photos and keeps her at his place for the night. The same repeats on the second day. Neither does he let her go away on the third day. Finally, the girl understands that she is a prisoner and tries to escape.",
+    "background": "https://image.tmdb.org/t/p/w1280/mlkpUSqLw6WBmDmGLRKvXR0E3lA.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "2.6"
   }
 ]
