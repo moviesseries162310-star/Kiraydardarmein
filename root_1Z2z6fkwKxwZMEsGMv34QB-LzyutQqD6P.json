@@ -4978,5 +4978,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wCHJuJwEfOrrykgDas8T4m79Bzs.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1fk-ZxqnWRuZYX9vsetD-fj8s1Z_vZyCa",
+    "type": "movie",
+    "name": "Thoroughbreds",
+    "poster": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
+    "description": "Lily and Amanda, two high school students living in suburban Connecticut, rekindle their unlikely friendship after years of drifting apart. Together, they devise a plan to kill Lily's abusive stepfather by hiring a lowlife drug dealer.",
+    "background": "https://image.tmdb.org/t/p/w1280/99Rd26ceIhonpOP5JoqcXYqnkD.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.4"
   }
 ]
