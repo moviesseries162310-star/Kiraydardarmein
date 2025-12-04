@@ -548,5 +548,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg",
     "released": "2023-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1QJcwtXx5N40I3DIGqp0t9I_MfO0nmar_",
+    "type": "movie",
+    "name": "Fright Night",
+    "poster": "https://image.tmdb.org/t/p/w500/euIh75MwNDrYkTEVSkw7VXWGXoE.jpg",
+    "description": "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
+    "background": "https://image.tmdb.org/t/p/w1280/2ytds3KqhMWRvMtrQp95JBYTKLD.jpg",
+    "released": "1985-01-01",
+    "imdbRating": "7.0"
   }
 ]
