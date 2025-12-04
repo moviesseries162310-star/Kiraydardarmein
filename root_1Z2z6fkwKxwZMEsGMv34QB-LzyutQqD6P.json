@@ -338,5 +338,15 @@
     "background": null,
     "released": "2024-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1gYCKNk4F72KKNWsnek9SanxhbUgqRjbV",
+    "type": "movie",
+    "name": "Baby Frankenstein",
+    "poster": "https://image.tmdb.org/t/p/w500/suUsjsbWKAOLGhBSJQxrkAYcH9O.jpg",
+    "description": "The story of Lance and his unlikely friendship with a self-aware, pint-sized automaton.",
+    "background": "https://image.tmdb.org/t/p/w1280/gEMQOOhzr8xhJ61vRLQ5vLjgkoM.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "3.3"
   }
 ]
