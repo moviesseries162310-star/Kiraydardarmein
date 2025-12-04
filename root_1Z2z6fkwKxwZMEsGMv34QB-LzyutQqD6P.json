@@ -378,5 +378,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/akTll16NkiPoNrFyg0E7qrj98NC.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1eOUYRhWe2dXt16pfykj9o4GyxQ4LN6aB",
+    "type": "movie",
+    "name": "Think Like a Man",
+    "poster": "https://image.tmdb.org/t/p/w500/kfIrKVPDzXJDBzPnFEuoatlaZPW.jpg",
+    "description": "The balance of power in four couples’ relationships is upset when the women start using the advice in Steve Harvey’s book, Act Like A Lady, Think Like A Man, to get more of what they want from their men. When the men realize that the women have gotten a hold of their relationship “playbook,” they decide that the best defense is a good offense and come up with a plan to use this information to their advantage.",
+    "background": "https://image.tmdb.org/t/p/w1280/cYsUnTpvRu6g4C5XjTTjboFtTYx.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "6.8"
   }
 ]
