@@ -868,5 +868,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xPbm6DJCn26NHvRwsuG9eGC0b3y.jpg",
     "released": "2016-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1_LWklo6UYZ9R1cjYZGjjbqt45e4hIeec",
+    "type": "movie",
+    "name": "Chappie",
+    "poster": "https://image.tmdb.org/t/p/w500/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
+    "description": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
+    "background": "https://image.tmdb.org/t/p/w1280/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "6.8"
   }
 ]
