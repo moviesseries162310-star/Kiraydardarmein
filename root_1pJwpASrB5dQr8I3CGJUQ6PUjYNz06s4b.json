@@ -10315,5 +10315,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wiTEgZgmC312MLYHwyaWUEK1iHX.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1Ody4RpsexLkmvtIEEzENMymwvLXFeKqO",
+    "type": "movie",
+    "name": "Evil Dead Rise",
+    "poster": "https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+    "description": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+    "background": "https://image.tmdb.org/t/p/w1280/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.9"
   }
 ]
