@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gdrive:1MqAhYTqmtArZ1MqAUd7pAPYAz0vGGSMP",
+    "type": "movie",
+    "name": "Fight Club",
+    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "background": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "released": "1999-01-01",
+    "imdbRating": "8.4"
+  }
+]
