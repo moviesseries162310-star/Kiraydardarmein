@@ -10345,5 +10345,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/k9IvavCGXvYM0ClZVTTJB1OfR8k.jpg",
     "released": "2025-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1wfiOSeScALCw2WInJASKi9d9J9f-vmMK",
+    "type": "movie",
+    "name": "Diablo",
+    "poster": "https://image.tmdb.org/t/p/w500/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+    "description": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+    "background": "https://image.tmdb.org/t/p/w1280/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.3"
   }
 ]
