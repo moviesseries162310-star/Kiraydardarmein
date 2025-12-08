@@ -10355,5 +10355,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1dHPjhpMnW3QNM-DwyOD5F36Si9F9CNxD",
+    "type": "movie",
+    "name": "Muzzle: City of Wolves",
+    "poster": "https://image.tmdb.org/t/p/w500/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+    "description": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos when a gang targets them in a brutal attack. Alongside his new K-9 partner Argos, Jake launches into a relentless pursuit of justice, determined to protect his loved ones.",
+    "background": "https://image.tmdb.org/t/p/w1280/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.8"
   }
 ]
