@@ -6678,5 +6678,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aWas3hZ8DKvfKxLe3dQVpB758eA.jpg",
     "released": "2019-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:14MuW8Y24XSuDyG5yCzCKFRpeV-I8MQ-J",
+    "type": "movie",
+    "name": "Stuck in Love",
+    "poster": "https://image.tmdb.org/t/p/w500/byic4VFVrpPyjDWK54CcsxYWW85.jpg",
+    "description": "An acclaimed writer, his ex-wife, and their teenaged children come to terms with the complexities of love in all its forms over the course of one tumultuous year.",
+    "background": "https://image.tmdb.org/t/p/w1280/so5jtbB00IiW3dKbeI5JTdGNmK2.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "7.4"
   }
 ]
