@@ -1728,5 +1728,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wjHmHu96hGeqRnXFf4eJIwIdcN.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1bTsl3LPONBNl6gBB-rhghB0-ZDIMzb3E",
+    "type": "movie",
+    "name": "It Came from the Desert",
+    "poster": "https://image.tmdb.org/t/p/w500/mZsLtCJW1eJabOxlZrZfaalGIki.jpg",
+    "description": "New Mexico, present day. Brian and Lukas are off to the desert to join a kegger party and to celebrate Lukas’ victory in a motocross competition. His winning prize includes meeting The  Deathinator, the biggest action star in the world. The party  gets started under the hot desert sun, but Brian isn’t in the mood, so he wanders off and is soon joined by his friend, Lukas. They discover something strange in the desert which leads them into a secret military laboratory, where they discover the disturbing truth of what the government has been doing. Secret experiments on ants and spiders using DNA found in a meteorite which fell to Earth in 1951 has given birth to mutated giant ants which have overrun the facility. Now, it's up to Brian and Lukas to save the  world from a giant ant invasion!",
+    "background": "https://image.tmdb.org/t/p/w1280/8x70iUDCfdJ0tdJZlPhxiAv0FSt.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "4.8"
   }
 ]
