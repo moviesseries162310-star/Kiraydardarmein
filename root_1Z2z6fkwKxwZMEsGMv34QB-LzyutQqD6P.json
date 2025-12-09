@@ -3438,5 +3438,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3AeeyWKVXSmxPwEcSvfJ0gdb12P.jpg",
     "released": "2006-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:18w4GRieTXhc4RioklYUw7LMCsPthOVhJ",
+    "type": "movie",
+    "name": "Dawning of the Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/gXkpGnmo4oeC0ZPXVBIqx04oCcF.jpg",
+    "description": "While a virus that causes the dead to reanimate brings the world to its knees, the scientist responsible entrusts his cataclysmic findings to Katya Nevin, a troubled ex-war correspondent turned anchor-woman at W.W News. While she and the rest of her crew witness the collapse of society via video feeds from around the globe, a deadly special agent climbs the building floor by floor, his only goal to ensure her silence. Armed only with information and an indomitable will to live, Katya must overcome her crippling anxiety and learn to lead in order to make it out of the studio and into a terrifying new world where only the dead survive.",
+    "background": "https://image.tmdb.org/t/p/w1280/flz6JuGqqFVglY1WAkUwRkQcKHE.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "3.5"
   }
 ]
