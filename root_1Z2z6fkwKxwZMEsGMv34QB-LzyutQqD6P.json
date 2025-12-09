@@ -2978,5 +2978,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bTeyNpG9PczQbgeQuSndkMuLlna.jpg",
     "released": "2012-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1Sva_LJlzPLJVDXhUb8n1lD0cj7mtKh5L",
+    "type": "movie",
+    "name": "A Hidden Life",
+    "poster": "https://image.tmdb.org/t/p/w500/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg",
+    "description": "Austrian farmer Franz Jägerstätter faces the threat of execution for refusing to fight for the Nazis during World War II.",
+    "background": "https://image.tmdb.org/t/p/w1280/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.2"
   }
 ]
