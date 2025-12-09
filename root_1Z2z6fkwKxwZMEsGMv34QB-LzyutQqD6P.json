@@ -5948,5 +5948,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
     "released": "2014-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:115nLOwRIpxYRafbA7ePJv_WB-o2mx7kW",
+    "type": "movie",
+    "name": "The Campaign",
+    "poster": "https://image.tmdb.org/t/p/w500/jMWjJ13sFTT07DwjNlqh8VY4sK6.jpg",
+    "description": "Two rival politicians compete to win an election to represent their small North Carolina congressional district in the United States House of Representatives.",
+    "background": "https://image.tmdb.org/t/p/w1280/3gsn2rViobMWbyJ0M20Zpur20w0.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "5.8"
   }
 ]
