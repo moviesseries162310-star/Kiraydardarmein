@@ -2838,5 +2838,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3yGPahxKshwrqmEYJaDyksNfcsP.jpg",
     "released": "1948-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1SOPtV5rlcmk5H0lmWad56DV2GHmVNceA",
+    "type": "movie",
+    "name": "A.I. Rising",
+    "poster": "https://image.tmdb.org/t/p/w500/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg",
+    "description": "On a lonely mission to Alpha Centauri, Milutin is teamed up with Nimani 1345, a female cyborg designed to fulfill his every need. At first thrilled to be able to control her, Sebastian grows tired of having his desires fulfilled so easily. Longing for human intimacy, Sebastian alters Nimani's programmed responses, but in doing so he risks the mission's security — and his own life.",
+    "background": "https://image.tmdb.org/t/p/w1280/6PvtKxQkMa5OCQMmCbgqISvxhym.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.0"
   }
 ]
