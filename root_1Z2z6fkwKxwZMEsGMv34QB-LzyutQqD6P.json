@@ -6258,5 +6258,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/swyPgOP2lffHfMjeZKNnNFR9P88.jpg",
     "released": "2013-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1y7DsUpGBJd1Xw0EujZgkBAJv97EIvFIF",
+    "type": "movie",
+    "name": "Kin",
+    "poster": "https://image.tmdb.org/t/p/w500/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg",
+    "description": "A young boy finds a powerful otherworldly weapon, which he uses to save his older adoptive brother from a crew of thugs. Before long, the two of them are also pursued by federal agents and mysterious mercenaries aiming to reclaim their asset.",
+    "background": "https://image.tmdb.org/t/p/w1280/7oZR0oaFOPrzGkg3ZntEKwMCLTe.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.1"
   }
 ]
