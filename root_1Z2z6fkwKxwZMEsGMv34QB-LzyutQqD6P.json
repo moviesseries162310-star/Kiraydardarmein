@@ -4168,5 +4168,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9cmQzpOfKf6uuyODeaLjxH8Wyux.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1WSs8KBqb44N2fq1qnd9sqfVBojRODfKy",
+    "type": "movie",
+    "name": "Lone Survivor",
+    "poster": "https://image.tmdb.org/t/p/w500/zlT3RSPO6GlSyb5QrLrFcDmhrQ7.jpg",
+    "description": "Four Navy SEALs on a covert mission to neutralize a high-level Taliban operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.",
+    "background": "https://image.tmdb.org/t/p/w1280/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "7.4"
   }
 ]
