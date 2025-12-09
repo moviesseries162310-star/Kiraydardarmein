@@ -4518,5 +4518,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/Aj81Gu3u1a64qXFOLDuF5gdxyy0.jpg",
     "released": "2011-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:16NBHDmPnnsCUHYg2R2UFqOijNDONrJNs",
+    "type": "movie",
+    "name": "Sound of Metal",
+    "poster": "https://image.tmdb.org/t/p/w500/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+    "description": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+    "background": "https://image.tmdb.org/t/p/w1280/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.7"
   }
 ]
