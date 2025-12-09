@@ -5088,5 +5088,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/99Rd26ceIhonpOP5JoqcXYqnkD.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.4"
+  },
+  {
+    "id": "gdrive:1gQzn9SoXArJ5stRuqQdoUNiu-A1QrhhX",
+    "type": "movie",
+    "name": "Bohemian Rhapsody",
+    "poster": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+    "description": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+    "background": "https://image.tmdb.org/t/p/w1280/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "8.0"
   }
 ]
