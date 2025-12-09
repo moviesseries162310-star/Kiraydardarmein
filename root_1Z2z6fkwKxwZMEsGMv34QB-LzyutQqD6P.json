@@ -578,5 +578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pxL08w7Eq0vKrQ3mJzYp0VHGaKG.jpg",
     "released": "2011-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1troiv5makUw3CGVloXkUfzGeRguSeRdd",
+    "type": "movie",
+    "name": "Sausage Party",
+    "poster": "https://image.tmdb.org/t/p/w500/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg",
+    "description": "Hot dog Frank leads a group of supermarket products on a quest to discover the truth about their existence and what really happens when they become chosen to leave the grocery store.",
+    "background": "https://image.tmdb.org/t/p/w1280/hsb8nNBt3emvWqBs7Xv5IKlz6Im.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.8"
   }
 ]
