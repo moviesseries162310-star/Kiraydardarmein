@@ -1638,5 +1638,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/KTBzxn8mM3czqk8DaJuONtXvE3.jpg",
     "released": "2011-01-01",
     "imdbRating": "5.2"
+  },
+  {
+    "id": "gdrive:1LtzUBUj1_hB47AESSQEmvhn-aAck1f3m",
+    "type": "movie",
+    "name": "Hwayi: A Monster Boy",
+    "poster": "https://image.tmdb.org/t/p/w500/cDffUvnm2TaLxQYWTy0PnohSGNP.jpg",
+    "description": "After being kidnapped as a small child and raised by the five men who abducted him, a teenage boy is now forced to join their life in crime.",
+    "background": "https://image.tmdb.org/t/p/w1280/22xVcTBVURFMHsFw8lNYeLFYj7Z.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "7.4"
   }
 ]
