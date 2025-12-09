@@ -2188,5 +2188,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8de5iKR6zSRV4anMIcTmhJE0Mx.jpg",
     "released": "1973-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1Bazun7yE8k8kok5Be-2YbyhVY3xSi7wk",
+    "type": "movie",
+    "name": "Revenge Girl",
+    "poster": "https://image.tmdb.org/t/p/w500/id6cc0rA5FxT2h1EYzOxuydTJsq.jpg",
+    "description": "Miki Takaraishi is a smart and beautiful 24-year-old woman, but her personality is not as good. She falls in love with Yuga Saito who is handsome and comes from a politician family. They see each other romantically, but Yugo Saito dumps Miki Takaraishi. To get revenge on Yuga Saito, she decides to run for prime minister. For her election campaign, she hires Toshiya Kadowaki as her campaign strategist.",
+    "background": "https://image.tmdb.org/t/p/w1280/dG36JdhCzT3Xq7KHOj8LR04ASDy.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "5.5"
   }
 ]
