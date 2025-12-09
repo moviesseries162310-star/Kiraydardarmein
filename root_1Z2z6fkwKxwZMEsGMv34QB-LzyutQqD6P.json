@@ -1378,5 +1378,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/eT990B07JBhgomU5nLI2WS1WLTw.jpg",
     "released": "2014-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1zEJEut_ijeSvEJx1m2FB-ARmzdgipu-X",
+    "type": "movie",
+    "name": "Bad Times at the El Royale",
+    "poster": "https://image.tmdb.org/t/p/w500/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
+    "description": "Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.",
+    "background": "https://image.tmdb.org/t/p/w1280/5utFTcwAXcgGTLZrNMl96t6pFfc.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.8"
   }
 ]
