@@ -2948,5 +2948,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gD9JOmzP5jGbb273Abp9ZVG2lnt.jpg",
     "released": "2017-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1zr57T2hSgOpnm0Y224EOVjDIS5BV9YCs",
+    "type": "movie",
+    "name": "Bridesmaids",
+    "poster": "https://image.tmdb.org/t/p/w500/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+    "description": "Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she’ll show Lillian and her bridesmaids just how far you’ll go for someone you love.",
+    "background": "https://image.tmdb.org/t/p/w1280/nffFQ64Jr9EombwzB1oHXBYLXkT.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "6.5"
   }
 ]
