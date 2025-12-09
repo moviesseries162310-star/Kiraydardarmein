@@ -4708,5 +4708,15 @@
     "background": null,
     "released": "2020-01-01",
     "imdbRating": "2.0"
+  },
+  {
+    "id": "gdrive:1Z0j9B8km6TveBd4Y9cn_RFXZ2EkXAw1L",
+    "type": "movie",
+    "name": "Assassination Nation",
+    "poster": "https://image.tmdb.org/t/p/w500/dMg1wPakqPx54yMzm0OuHn1jl42.jpg",
+    "description": "After an anonymous hacker begins leaking the private data of thousands living in a small American town, the townspeople spiral into madness, with four high school seniors at the center of the maelstrom.",
+    "background": "https://image.tmdb.org/t/p/w1280/kDlwxlCzJmmJra99LlIwr4o9nbZ.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.3"
   }
 ]
