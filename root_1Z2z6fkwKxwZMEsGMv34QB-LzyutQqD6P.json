@@ -4058,5 +4058,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bHefJgSTO3JOZy9fETN6cWpvbMX.jpg",
     "released": "2012-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1-z172n__yFw0bPPY9CYoQNr7FPwtYTBI",
+    "type": "movie",
+    "name": "The Last Warrior",
+    "poster": "https://image.tmdb.org/t/p/w500/lZCkkGqwqvgH249QBY6AMeEvZiN.jpg",
+    "description": "Stranded on a deserted Pacific island during the Second World War an American and Japanese soldier battle it out in this exciting war-time drama.",
+    "background": null,
+    "released": "1989-01-01",
+    "imdbRating": "4.7"
   }
 ]
