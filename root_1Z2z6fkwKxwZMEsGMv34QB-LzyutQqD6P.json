@@ -3318,5 +3318,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7iEYJKyWhroHpsyIxiV0z4WRtSI.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:10hi3T6pmEsy-uQ2CPjYJ5kGqXjINe3Gb",
+    "type": "movie",
+    "name": "Trauma",
+    "poster": "https://image.tmdb.org/t/p/w500/wbtU44cXUa57LV4rCIVuFBSBRql.jpg",
+    "description": "Four friends visit a rural locality of Chile, are brutally attacked by a man and his son. After not finding help in the town, they decide to confront these men with the help of a pair of policemen. But in this way, they will discover that their attackers have in their blood the direct legacy of the darkest period of Chilean history and will have to face the most brutal enemy.",
+    "background": "https://image.tmdb.org/t/p/w1280/3qdHH6aE5rt0XW561tGa3EYffTh.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "5.5"
   }
 ]
