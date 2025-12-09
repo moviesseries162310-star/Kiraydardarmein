@@ -2938,5 +2938,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5uy6IRYlowTeyi1uH35gVcZi1Oy.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.5"
+  },
+  {
+    "id": "gdrive:1rxiJfpkg6Oy13_udVBrp1R5vtd1gVRZY",
+    "type": "movie",
+    "name": "My Cousin Rachel",
+    "poster": "https://image.tmdb.org/t/p/w500/lLPm7mjg8a8Y5veds4fhSWwvlFS.jpg",
+    "description": "A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.",
+    "background": "https://image.tmdb.org/t/p/w1280/gD9JOmzP5jGbb273Abp9ZVG2lnt.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "5.7"
   }
 ]
