@@ -3558,5 +3558,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7BtEvieL4QRNW3j7OAw6Zv2CDap.jpg",
     "released": "2011-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive:1Muh8AeT-x0zt5YKgKk368lTkx9dmajCF",
+    "type": "movie",
+    "name": "Looper",
+    "poster": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+    "description": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
+    "background": "https://image.tmdb.org/t/p/w1280/4GPCnwvTbsDleH5QIOyDLMsK8a2.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "6.9"
   }
 ]
