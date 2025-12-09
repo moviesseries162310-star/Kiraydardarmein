@@ -3428,5 +3428,15 @@
     "background": null,
     "released": "2019-01-01",
     "imdbRating": "4.0"
+  },
+  {
+    "id": "gdrive:1Ijp6PLpgFt6BCYKTd3yrPu9QH0WOtL9c",
+    "type": "movie",
+    "name": "The Art of Fighting",
+    "poster": "https://image.tmdb.org/t/p/w500/yBGsa9OQtKeMjdzPkNKgPYT1GXf.jpg",
+    "description": "Byung-tae is the kid who is always on the receiving end of beatings from the school bullies—that is, until he meets Pan-su, a martial arts expert who takes him under his wing.",
+    "background": "https://image.tmdb.org/t/p/w1280/3AeeyWKVXSmxPwEcSvfJ0gdb12P.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "5.9"
   }
 ]
