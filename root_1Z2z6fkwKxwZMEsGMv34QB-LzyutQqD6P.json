@@ -5248,5 +5248,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
     "released": "2013-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:1ywUSPhP81n_1OCP3sraOJyhx0eitepLZ",
+    "type": "movie",
+    "name": "Cult of Chucky",
+    "poster": "https://image.tmdb.org/t/p/w500/r5JUiMYfatwYeDkxkLWYUx5GIjY.jpg",
+    "description": "Confined to an asylum for the criminally insane for the past four years, Nica is wrongly convinced that she, not Chucky, murdered her entire family... until a string of grisly deaths occur after her psychiatrist introduces a new group therapy tool -- a \"Good Guy\" doll.",
+    "background": "https://image.tmdb.org/t/p/w1280/af7uKmGnrOn4P1zyfFXPQZOCCEp.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "5.8"
   }
 ]
