@@ -4718,5 +4718,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/kDlwxlCzJmmJra99LlIwr4o9nbZ.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1nW0F6n8A2vcIa9owKVHtk3IcBuyqZTBN",
+    "type": "movie",
+    "name": "Max Steel",
+    "poster": "https://image.tmdb.org/t/p/w500/AuEzNLF8yvzd169guYEFisqvy5z.jpg",
+    "description": "The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.",
+    "background": "https://image.tmdb.org/t/p/w1280/dHM5EMGTcGizcBAb1zzVEuDDUYS.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.6"
   }
 ]
