@@ -3538,5 +3538,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fx1wiibwJPemUMxmnWDCFzEoVeS.jpg",
     "released": "2017-01-01",
     "imdbRating": "9.4"
+  },
+  {
+    "id": "gdrive:10kA0qk8O7Y-4LHzrCY6j6ZLqfHhRGUzL",
+    "type": "movie",
+    "name": "King Lear",
+    "poster": "https://image.tmdb.org/t/p/w500/roAjon3jr5IW8fb43mqBEv3IFci.jpg",
+    "description": "The Stratford Festival’s critically acclaimed performance of King Lear.  An aging monarch resolves to divide his kingdom among his three daughters, with consequences he little expects. His reason shattered in the storm of violent emotion that ensues, with his very life hanging in the balance, Lear loses everything that has defined him as a king – and thereby discovers the essence of his own humanity.",
+    "background": "https://image.tmdb.org/t/p/w1280/tkDflrlNiEq22ByB2fgA9DqokBh.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "8.3"
   }
 ]
