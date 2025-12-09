@@ -1698,5 +1698,15 @@
     "background": null,
     "released": "1974-01-01",
     "imdbRating": "2.0"
+  },
+  {
+    "id": "gdrive:1gx7gCdbolMLbYe1kHCW8Qw2j290t9xtb",
+    "type": "movie",
+    "name": "The Cold Light of Day",
+    "poster": "https://image.tmdb.org/t/p/w500/jLmKMhibZjHUYtsHQLIa5UBwqcc.jpg",
+    "description": "After his family is kidnapped during their sailing trip in Spain, a young Wall Street trader is confronted by the people responsible: intelligence agents looking to recover a mysterious briefcase.",
+    "background": "https://image.tmdb.org/t/p/w1280/tkj4i4TQP6TijYxqUq6duPZUW2R.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "5.4"
   }
 ]
