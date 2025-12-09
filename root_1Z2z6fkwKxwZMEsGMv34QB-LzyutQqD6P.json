@@ -6148,5 +6148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mgblEaeQxqwAWrBbp8r0RcVqTbu.jpg",
     "released": "2026-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1cbMNo2uS0wfFYyGePWLGrGw3-h-SlvmX",
+    "type": "movie",
+    "name": "Upgrade",
+    "poster": "https://image.tmdb.org/t/p/w500/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
+    "description": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
+    "background": "https://image.tmdb.org/t/p/w1280/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.5"
   }
 ]
