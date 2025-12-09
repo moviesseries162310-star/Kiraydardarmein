@@ -2288,5 +2288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7TDh2Ku153AiGabnH9WIHH7wl4l.jpg",
     "released": "2017-01-01",
     "imdbRating": "4.5"
+  },
+  {
+    "id": "gdrive:19-gLyhmVtnBhyoYVToT09Ck26qLW69zm",
+    "type": "movie",
+    "name": "Dark Figure of Crime",
+    "poster": "https://image.tmdb.org/t/p/w500/uWislqbyIFvR02uN4n20zjDnAm2.jpg",
+    "description": "A serial killer is caught for his seventh murder. A cop tries to solve the first six cases with the killer's help, but starts to suspect that he has ulterior motives. Based on a true story.",
+    "background": "https://image.tmdb.org/t/p/w1280/9p0vq4f44SioluXmb6JhuS3Gi6t.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.6"
   }
 ]
