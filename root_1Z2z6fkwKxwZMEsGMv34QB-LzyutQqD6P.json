@@ -4068,5 +4068,15 @@
     "background": null,
     "released": "1989-01-01",
     "imdbRating": "4.7"
+  },
+  {
+    "id": "gdrive:1sZW4c6hsIjQb9sZvpN68GDfg9tE4zPIH",
+    "type": "movie",
+    "name": "Daniel",
+    "poster": "https://image.tmdb.org/t/p/w500/5wr27gUyfi0sDdiTPa1jg48MvmK.jpg",
+    "description": "The fictionalized story of Daniel, the son of Paul and Rochelle Isaacson, who were executed as Soviet spies in the 1950s. As a graduate student in New York in the 1960s, Daniel is involved in the antiwar protest movement and contrasts his experiences to the memory of his parents and his belief that they were wrongfully convicted.",
+    "background": "https://image.tmdb.org/t/p/w1280/bs0QTuo2EBqiWTyeGUxke37TAfK.jpg",
+    "released": "1983-01-01",
+    "imdbRating": "6.6"
   }
 ]
