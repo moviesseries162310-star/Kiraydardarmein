@@ -5838,5 +5838,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2PLNu6D9mX1ssq5OPDCZXthmPX8.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1Rem7XGWgs3ZkH5EQp0s2GaxZLZ9wvdRc",
+    "type": "movie",
+    "name": "Harriet",
+    "poster": "https://image.tmdb.org/t/p/w500/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+    "description": "The extraordinary tale of Harriet Tubman's escape from slavery and transformation into one of America's greatest heroes. Her courage, ingenuity and tenacity freed hundreds of slaves and changed the course of history.",
+    "background": "https://image.tmdb.org/t/p/w1280/rStbi6Sm1JWk4S3pCqULUY7GMDB.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.3"
   }
 ]
