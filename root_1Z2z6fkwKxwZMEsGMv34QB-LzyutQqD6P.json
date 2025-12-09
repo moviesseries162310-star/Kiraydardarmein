@@ -6408,5 +6408,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2nLOJ8gtattGzYzwlYM8PrcgknH.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1Rujvsf0OxgC455aSFK_925W6Z-nANiW2",
+    "type": "movie",
+    "name": "Beautiful Creatures",
+    "poster": "https://image.tmdb.org/t/p/w500/zOKaYzY14ZpVy6nG4kAelyLZQ4Q.jpg",
+    "description": "When Petula and Dorothy cover up the accidental murder of one jerk boyfriend, they hatch a hilarious scheme to collect a huge ransom.",
+    "background": "https://image.tmdb.org/t/p/w1280/PncTIHqTcartOXIvm3TopbL0d7.jpg",
+    "released": "2000-01-01",
+    "imdbRating": "5.6"
   }
 ]
