@@ -758,5 +758,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mlkpUSqLw6WBmDmGLRKvXR0E3lA.jpg",
     "released": "2018-01-01",
     "imdbRating": "2.6"
+  },
+  {
+    "id": "gdrive:1mLtdTY8_wfsRqF1BnWwZAfZPGzjvodB3",
+    "type": "movie",
+    "name": "Dear Eleanor",
+    "poster": "https://image.tmdb.org/t/p/w500/tMG1e83PHqtjQLgXZhy2IMn3eX0.jpg",
+    "description": "Two teenage girls travel across the U.S. in 1962, during the chaos of the Cuban missile crisis, in search of Eleanor Roosevelt.",
+    "background": "https://image.tmdb.org/t/p/w1280/DjlyzattMkoTiM3GZ4wfGVbwaj.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.8"
   }
 ]
