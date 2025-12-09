@@ -5498,5 +5498,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4hfcpHmMEgmFTdnVx4XCtM6dgCG.jpg",
     "released": "2014-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive:1bKs1JjDEfoWYNv_Uhf1feL3ek7q6f8AN",
+    "type": "movie",
+    "name": "Parasite",
+    "poster": "https://image.tmdb.org/t/p/w500/4DGPORlVIDIQvsuSDnM4uXKMjWS.jpg",
+    "description": "Paul Dean has created a deadly parasite that is now attached to his stomach. He and his female companion, Patricia Welles, must find a way to destroy it while also trying to avoid Ricus & his rednecks, and an evil government agent named Merchant.",
+    "background": "https://image.tmdb.org/t/p/w1280/5qVLF9WTdBDA08fsZ9H5clJ6umI.jpg",
+    "released": "1982-01-01",
+    "imdbRating": "4.8"
   }
 ]
