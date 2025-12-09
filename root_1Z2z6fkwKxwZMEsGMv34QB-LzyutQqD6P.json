@@ -258,5 +258,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aMnBqdlb0CMZLsvEghYw9doOSHX.jpg",
     "released": "2010-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1g7wLWokZ-k2OsJehojcEXR3jYJEdH5qn",
+    "type": "movie",
+    "name": "The Gambler",
+    "poster": "https://image.tmdb.org/t/p/w500/16qBOtkbv9z8PE6pym3M4rgQ3yu.jpg",
+    "description": "This Western adventure, inspired by Kenny Rogers' hit song, tells how fictional gambler Brady Hawkes, going in search of a young son he never knew he had, teams up with an impetuous young admirer and a shady lady on his journey, which also involves him with an arrogant railroad owner and a gang of villains.",
+    "background": "https://image.tmdb.org/t/p/w1280/jZg9HtD8NJDeAXziVcpCbujNz6d.jpg",
+    "released": "1980-01-01",
+    "imdbRating": "5.7"
   }
 ]
