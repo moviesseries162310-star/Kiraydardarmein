@@ -408,5 +408,15 @@
     "background": null,
     "released": "2024-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1ud-uK3f0j6KtirXX1abrq01zwEqMXFue",
+    "type": "movie",
+    "name": "Tulpa - Demon of Desire",
+    "poster": "https://image.tmdb.org/t/p/w500/9C2toUczEoSYhdWIRBPYxEY714W.jpg",
+    "description": "Lisa Boeri is at the top of her corporate career. At night she frequents the notorious Club Tulpa, owned by a mysterious Tibetan guru. Unshackled from repression and guilt, Lisa will do anything with any stranger to attain a higher consciousness. However, when her lovers start getting murdered in shocking ways, Lisa can’t go to the police because the scandal would impact her day job. Foolishly she tries to unmask the assassin herself, with truly nightmarish consequences.",
+    "background": "https://image.tmdb.org/t/p/w1280/pKNgzF5IJHkluNG6rZgVbRXvAIz.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "4.6"
   }
 ]
