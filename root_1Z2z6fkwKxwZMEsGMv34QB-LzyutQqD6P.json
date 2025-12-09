@@ -2578,5 +2578,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2u3MmN9ezNxYCZvJPX2IdlpWCJK.jpg",
     "released": "2016-01-01",
     "imdbRating": "5.1"
+  },
+  {
+    "id": "gdrive:1Ffp1fjyd4orGKcSKBl8n59rdbwtT5gaw",
+    "type": "movie",
+    "name": "Joker",
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "background": "https://image.tmdb.org/t/p/w1280/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "8.1"
   }
 ]
