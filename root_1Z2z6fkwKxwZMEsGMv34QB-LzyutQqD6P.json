@@ -3008,5 +3008,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/y1WIEyWYN6djFv4ebIx3gKWuJyw.jpg",
     "released": "2019-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1YKX7j-4ApoOUTGMHXs9QGmiUYEDatQPJ",
+    "type": "movie",
+    "name": "True Bloodthirst",
+    "poster": "https://image.tmdb.org/t/p/w500/hw1JyQwdTu2ReP8mSfiqgZz67wh.jpg",
+    "description": "Vampires and humans live in a future world where they co-exist – barely. Now, both groups find themselves under attack by a new species of super vampire. The surviving humans and vampires join forces to obliterate the vicious man-sized bat vampires which threaten to shatter the uneasy peace between the two species.",
+    "background": "https://image.tmdb.org/t/p/w1280/hu65CqUoGCxmrFk7XaQ2IRoTPd0.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "4.8"
   }
 ]
