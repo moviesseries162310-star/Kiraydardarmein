@@ -1188,5 +1188,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
     "released": "2019-01-01",
     "imdbRating": "5.9"
+  },
+  {
+    "id": "gdrive:1JIugyzrxRYSKnh2NYlcA20VOq3hhcf4F",
+    "type": "movie",
+    "name": "Gogol. A Terrible Vengeance",
+    "poster": "https://image.tmdb.org/t/p/w500/yyzvb2AT0U9W7xkvnjjKqRL6EWE.jpg",
+    "description": "Soon after Gogol's death, Binh names him guilty for the deaths of the Cossacks and the young women at the hands of the Dark Horseman, since he was the one who ordered them to be hidden in the barn. Bomgart is unable to perform a post-mortem analysis on the Gogol's body, while Vakula's daughter Vasilina (who secretly has magic abilities) proclaims denial about Gogol's demise.",
+    "background": "https://image.tmdb.org/t/p/w1280/3284esJ3fFNgceQGAjnrBt3Blg8.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.5"
   }
 ]
