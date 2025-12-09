@@ -6078,5 +6078,15 @@
     "background": null,
     "released": "2023-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:18bbuBH-jyHcuqQrSmZtG0FyZpDgJmwYJ",
+    "type": "movie",
+    "name": "The Poison Rose",
+    "poster": "https://image.tmdb.org/t/p/w500/gSzyUmg719TgAxarFZYWjLLMqvS.jpg",
+    "description": "A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.",
+    "background": "https://image.tmdb.org/t/p/w1280/cXpkDrZWK8amdYXzf24LH67Vftn.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "4.7"
   }
 ]
