@@ -6348,5 +6348,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fYuWuPZyXSc3s0iPIZ4ZWpEremy.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:1NjnvFw_-7SILMuKF1hneFXMOLnv5jl33",
+    "type": "movie",
+    "name": "Lucy",
+    "poster": "https://image.tmdb.org/t/p/w500/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg",
+    "description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "background": "https://image.tmdb.org/t/p/w1280/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "6.5"
   }
 ]
