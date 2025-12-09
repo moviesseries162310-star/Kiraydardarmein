@@ -5438,5 +5438,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pHFNaNHqiaZ2myMAsylIm2y17c7.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:15U9gUpsl2NXjV_861gLWfsi2pUpBT04Y",
+    "type": "movie",
+    "name": "Deliver Us from Evil",
+    "poster": "https://image.tmdb.org/t/p/w500/hngKHgBHRD5nbTx92zatBC6eMSP.jpg",
+    "description": "A retired contract killer goes on a bloody rampage when a young girl finds herself at the mercy of gangland human traffickers and only one man can come to her rescue, with an arsenal of weapons and years of experience in the art of killing.",
+    "background": "https://image.tmdb.org/t/p/w1280/au6YoYkzbcgZ4CTCwc57UdhD8FC.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.9"
   }
 ]
