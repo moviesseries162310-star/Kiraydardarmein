@@ -3308,5 +3308,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4Y0eLVkUwThX9pt1uqVoWoCtvcl.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1hMLWrMrnldF28-GxnOkuNdjb0tL-rG_l",
+    "type": "movie",
+    "name": "The Diary of a Teenage Girl",
+    "poster": "https://image.tmdb.org/t/p/w500/5YlUrdYKuscD7pwf3yy9duVLbui.jpg",
+    "description": "Minnie Goetze is a 15-year-old aspiring comic-book artist, coming of age in the haze of the 1970s in San Francisco. Insatiably curious about the world around her, Minnie is a pretty typical teenage girl. Oh, except that she’s sleeping with her mother’s boyfriend.",
+    "background": "https://image.tmdb.org/t/p/w1280/7iEYJKyWhroHpsyIxiV0z4WRtSI.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "6.6"
   }
 ]
