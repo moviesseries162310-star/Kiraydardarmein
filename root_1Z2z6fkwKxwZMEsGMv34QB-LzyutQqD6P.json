@@ -2428,5 +2428,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5l2kTFOC9QicBxOVpocy5pSu4i8.jpg",
     "released": "2017-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1XxNk6Uu_SjYS48IBeO1Uc5hxfWz_BRMI",
+    "type": "movie",
+    "name": "Straw Dogs",
+    "poster": "https://image.tmdb.org/t/p/w500/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg",
+    "description": "David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate.",
+    "background": "https://image.tmdb.org/t/p/w1280/uTTySGAQ092zr5TP7PqDnHuWR1W.jpg",
+    "released": "1971-01-01",
+    "imdbRating": "7.1"
   }
 ]
