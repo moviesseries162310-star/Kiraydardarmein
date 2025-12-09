@@ -1068,5 +1068,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/boGRStbspjqtNtDVpqvj28sI5V3.jpg",
     "released": "2019-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1C8yJlVkIVIYEn3Oit3HMfjJYSBsko1-6",
+    "type": "movie",
+    "name": "Phantom Detective",
+    "poster": "https://image.tmdb.org/t/p/w500/6ABeeYbYTARUUIiqcQbRS4rQUgR.jpg",
+    "description": "Hong Gil-dong is an infallible private detective with an exceptional memory and quirky personality. While chasing the only target he failed to find, he gets entangled in a much bigger conspiracy than he bargained for.",
+    "background": "https://image.tmdb.org/t/p/w1280/ofghaIIJ9UM3fob8UFwUtpz03Bd.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "6.9"
   }
 ]
