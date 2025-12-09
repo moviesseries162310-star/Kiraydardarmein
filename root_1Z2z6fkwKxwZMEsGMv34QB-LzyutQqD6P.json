@@ -4408,5 +4408,15 @@
     "background": null,
     "released": "2013-01-01",
     "imdbRating": "5.4"
+  },
+  {
+    "id": "gdrive:19zmdwIT2lpIVeoXmUpkeZQ0lIloFEqjB",
+    "type": "movie",
+    "name": "Samson",
+    "poster": "https://image.tmdb.org/t/p/w500/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg",
+    "description": "After losing the love of his life to a cruel Philistine prince, a young Hebrew with Supernatural strength defends his people, sacrificing everything to avenge his love, his people, and his God.",
+    "background": "https://image.tmdb.org/t/p/w1280/yR6952VuJ2OchliEj0vyRxFZiBT.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "5.8"
   }
 ]
