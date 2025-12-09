@@ -498,5 +498,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/icAAqHhVXuSQlKNvUfL257AFTwN.jpg",
     "released": "2011-01-01",
     "imdbRating": "6.2"
+  },
+  {
+    "id": "gdrive:1iX5hHgaJvSJ4C5CssdQYkIg12UGJO563",
+    "type": "movie",
+    "name": "The Laundromat",
+    "poster": "https://image.tmdb.org/t/p/w500/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+    "description": "When a widow gets swindled out of insurance money, her search for answers leads to two cunning lawyers in Panama who hide cash for the superrich.",
+    "background": "https://image.tmdb.org/t/p/w1280/ld3bBHoKINhXHjABn5yEJVSBOpF.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.0"
   }
 ]
