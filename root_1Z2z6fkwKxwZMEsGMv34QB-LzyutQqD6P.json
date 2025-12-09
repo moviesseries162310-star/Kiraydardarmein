@@ -3968,5 +3968,15 @@
     "background": null,
     "released": "1966-01-01",
     "imdbRating": "2.0"
+  },
+  {
+    "id": "gdrive:1xLmNg5AAnRpxz_pBfLl4UoMtbZ69vl3C",
+    "type": "movie",
+    "name": "Bilal: A New Breed of Hero",
+    "poster": "https://image.tmdb.org/t/p/w500/ncWuEzxnXqssxRfHghZuUAIezCo.jpg",
+    "description": "A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history.",
+    "background": "https://image.tmdb.org/t/p/w1280/tBY8hN4inRzOwUwfvhBUHo00pIQ.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "6.8"
   }
 ]
