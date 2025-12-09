@@ -1398,5 +1398,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9sMKOIohcNqb5su0JZNIdV0UtaM.jpg",
     "released": "2014-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive:1mPmTQPUaTT5MKqadMIpUvIucred21Xoa",
+    "type": "movie",
+    "name": "Personal Shopper",
+    "poster": "https://image.tmdb.org/t/p/w500/cdm6qZgmbaIwjKBZnUSGWS4eyM2.jpg",
+    "description": "Maureen, mid-20s, is a personal shopper for a media celebrity. The job pays for her stay in Paris, a city she refuses to leave until she makes contact with her twin brother who previously died there. Her life becomes more complicated when a mysterious person contacts her via text message.",
+    "background": "https://image.tmdb.org/t/p/w1280/2I4Pe9EN5NlVC90X1JDrbYObZY5.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "5.9"
   }
 ]
