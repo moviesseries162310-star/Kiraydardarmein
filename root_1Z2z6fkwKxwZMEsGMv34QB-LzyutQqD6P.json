@@ -6238,5 +6238,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/76xUS3khhScOef2odo1wvPbAMuS.jpg",
     "released": "2016-01-01",
     "imdbRating": "4.7"
+  },
+  {
+    "id": "gdrive:1FepAIgFHWaMMJUzUScB4fhHWcApkEy3c",
+    "type": "movie",
+    "name": "Alita: Battle Angel",
+    "poster": "https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+    "description": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+    "background": "https://image.tmdb.org/t/p/w1280/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "7.2"
   }
 ]
