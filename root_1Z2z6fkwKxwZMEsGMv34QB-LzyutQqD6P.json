@@ -3408,5 +3408,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/n1daj6hS4yf858HgPfe7kGyjISp.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1slWFuTMWYPTs_I22oz4b0yfpNZEK7wL_",
+    "type": "movie",
+    "name": "City of Lies",
+    "poster": "https://image.tmdb.org/t/p/w500/pK7IYQdtdWtMDBJZfMqDxgMjXEt.jpg",
+    "description": "Los Angeles Police Department detective Russell Poole has spent years trying to solve his biggest case -- the murders of The Notorious B.I.G. and Tupac Shakur -- but after two decades, the investigation remains open. Jack Jackson, a reporter desperate to save his reputation and career, is determined to find out why. In search of the truth, the two team up and unravel a growing web of institutional corruption and lies.",
+    "background": "https://image.tmdb.org/t/p/w1280/cI9fRbR6mzj51QZJsiIzXZT81TX.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "6.4"
   }
 ]
