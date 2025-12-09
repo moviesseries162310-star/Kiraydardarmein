@@ -2308,5 +2308,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lYkxECrpZuaDUixxze5cXpvEomf.jpg",
     "released": "2011-01-01",
     "imdbRating": "7.1"
+  },
+  {
+    "id": "gdrive:1w4Im-Wb71bVSnDbDgUmwHb64_C2MQ_b9",
+    "type": "movie",
+    "name": "The Divine Fury",
+    "poster": "https://image.tmdb.org/t/p/w500/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg",
+    "description": "After waking up with mysterious wounds on his hands, a champion fighter finds himself in an otherworldly battle against evil forces that wreak havoc in the human world.",
+    "background": "https://image.tmdb.org/t/p/w1280/4MDYpCwqSVO5RcTiZ4GEfePzDdl.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.8"
   }
 ]
