@@ -4868,5 +4868,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/e7kMJtCtrVLjaaGaKsjq0kEF1YF.jpg",
     "released": "2019-01-01",
     "imdbRating": "5.1"
+  },
+  {
+    "id": "gdrive:155nQLVfsgjv1ImH-72dIef3anzyuSG9g",
+    "type": "movie",
+    "name": "Babes with Blades",
+    "poster": "https://image.tmdb.org/t/p/w500/qL8z0Rw5JHXi1su86gcviIHt62T.jpg",
+    "description": "On the dark streets of Draiga, a mining colony occupied by the Visray Empire, lives Azura, the last of a fearsome warrior race known as the Sarnians. After witnessing her once beautiful home world turn into a lifeless husk, Azura must fight to the death in the gladiatorial ring to stay alive. Meanwhile, a group of human freedom fighters form a resistance, seeking to try and protect their families from the oppressive and cruel rule of the Visray Section Commander Sorrentine. Unbeknownst to Azura, the fate of all humans on Draiga is about to rest in her hands. Can she survive long enough to save her colony?",
+    "background": "https://image.tmdb.org/t/p/w1280/s54HxtLJI87shYDNeRV6rMwhReJ.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "3.5"
   }
 ]
