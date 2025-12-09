@@ -2018,5 +2018,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wV1rqqJxzjPtTPrdByeBHmT44Wn.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive:1QmbUHBRqbeRSFWHSaW08FVPVPmr8dH6Y",
+    "type": "movie",
+    "name": "Kingsglaive: Final Fantasy XV",
+    "poster": "https://image.tmdb.org/t/p/w500/xGMgspge6uYoypRiasAmlluDlXH.jpg",
+    "description": "The magical kingdom of Lucis is home to the world’s last remaining Crystal, and the menacing empire of Niflheim is determined to steal it. King Regis of Lucis commands an elite force of soldiers called the Kingsglaive. Wielding their king’s magic, they fight to protect Lucis. As the overwhelming military might of the empire bears down, King Regis is faced with an impossible ultimatum – to marry his son, Prince Noctis to Princess Lunafreya of Tenebrae, captive of Niflheim, and surrender his lands to Niflheim rule.  Although the king concedes, it becomes clear that the empire will stop at nothing to achieve their devious goals, with only the Kingsglaive standing between them and world domination.",
+    "background": "https://image.tmdb.org/t/p/w1280/eTfik9sRZTcaWIMJGVhmUqrbL0Q.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "6.8"
   }
 ]
