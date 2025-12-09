@@ -288,5 +288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gCIB3DdK00DyfwosVGf7pnFFdK3.jpg",
     "released": "2018-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1baeW2Oe0j68qpS2ToQ66Cm-S3kNMN2PA",
+    "type": "movie",
+    "name": "Drone",
+    "poster": "https://image.tmdb.org/t/p/w500/flIYY0q6x5k6XpYSGtZz3hlOoBP.jpg",
+    "description": "Émilie lives in a world of surveillance: her camgirl work; the camera phone lingering on a crush from afar; the headset affording her a drone’s perspective. The same drone that stalks each move she makes, offering inspiration, noting rivals. An unsolicited companion is conspiring with or against her. A financially strapped transplant now living in the Paris suburbs, Émilie is thrust into a high-powered world when she is chosen for a renovation workshop with a prestigious architect. Her classmates come mostly from “filthy rich” backgrounds, like cocky Olivier, who wants Émilie as his conquest. But Émilie has shy eyes only for self-sufficient Mina, whose music builds like a “helicoid.” A drone—unlike any known model—is watching her all along waiting for her next move and paying handily for the privilege.",
+    "background": "https://image.tmdb.org/t/p/w1280/cgOZCBWVp2MqYiBOfrcAb3p2NuN.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "5.4"
   }
 ]
