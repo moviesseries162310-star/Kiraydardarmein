@@ -1168,5 +1168,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/8nh70OvIsJKpfZdTMZoMJMb8aVE.jpg",
     "released": "2017-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive:1GPaDc2QHKdQ_xIqi3mk-3VERnjQxzwnv",
+    "type": "movie",
+    "name": "Money Monster",
+    "poster": "https://image.tmdb.org/t/p/w500/r0Es5M6zTFpuV2sSaYtAlzz10qw.jpg",
+    "description": "Financial TV host Lee Gates and his producer Patty are put in an extreme situation when an irate investor takes over their studio.",
+    "background": "https://image.tmdb.org/t/p/w1280/ct5kjqyBwzH6OSxuOIluChs3FFN.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "6.4"
   }
 ]
