@@ -4288,5 +4288,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uYeO6MkVSTG2K8g4yXskTf3unLC.jpg",
     "released": "2010-01-01",
     "imdbRating": "4.7"
+  },
+  {
+    "id": "gdrive:1nn6ZYysoQa7Q-n93N5GT3xyJriGM3rj0",
+    "type": "movie",
+    "name": "Black and Blue",
+    "poster": "https://image.tmdb.org/t/p/w500/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg",
+    "description": "A rookie cop inadvertently captures the murder of a young drug dealer on her body cam. After realizing that the murder was committed by corrupt cops, she teams up with the one person from her community who is willing to help her as she tries to escape both the criminals out for revenge and the police who are desperate to destroy the incriminating footage.",
+    "background": "https://image.tmdb.org/t/p/w1280/ySSs4jfpF8ZTfAJrxmg1pWhPdn8.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "6.8"
   }
 ]
