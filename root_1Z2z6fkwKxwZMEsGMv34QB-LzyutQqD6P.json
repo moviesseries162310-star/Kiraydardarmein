@@ -4028,5 +4028,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
     "released": "2014-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1T3xlDZipwLYhT266ZUp7d_T3t6RPkqZA",
+    "type": "movie",
+    "name": "The Wave",
+    "poster": "https://image.tmdb.org/t/p/w500/ua2Z4aWCF2NBk3MuMP0JfCMqlys.jpg",
+    "description": "A teacher conducts an experiment in an American high school where students learn how easy it is to be seduced by the same social forces which led to the horrors of Nazi Germany.",
+    "background": "https://image.tmdb.org/t/p/w1280/ZJaxnayAGXaaoEIAgW3599XXYa.jpg",
+    "released": "1981-01-01",
+    "imdbRating": "6.9"
   }
 ]
