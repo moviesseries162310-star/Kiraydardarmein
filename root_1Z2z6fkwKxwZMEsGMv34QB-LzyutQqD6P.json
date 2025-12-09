@@ -5068,5 +5068,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/d0tzLbn62WANaq5mnyLpCJsJq1B.jpg",
     "released": "2015-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:1ZCQklPho0NsVZk7VbMNUf3J4nzo4JB_P",
+    "type": "movie",
+    "name": "Bridge of Spies",
+    "poster": "https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+    "description": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+    "background": "https://image.tmdb.org/t/p/w1280/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "7.2"
   }
 ]
