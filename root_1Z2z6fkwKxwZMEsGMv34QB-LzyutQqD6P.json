@@ -5968,5 +5968,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg",
     "released": "2018-01-01",
     "imdbRating": "5.7"
+  },
+  {
+    "id": "gdrive:1T50NMqW8-uOpRupHA4Jk7E_7JwW0aLYK",
+    "type": "movie",
+    "name": "Kubo and the Two Strings",
+    "poster": "https://image.tmdb.org/t/p/w500/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
+    "description": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+    "background": "https://image.tmdb.org/t/p/w1280/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "7.6"
   }
 ]
